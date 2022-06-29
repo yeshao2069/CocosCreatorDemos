@@ -1,0 +1,338 @@
+{
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts.meta": {
+    "time": 1655865752259.3262
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts": {
+    "time": 1655865991196.4626,
+    "uuid": "375c85c6-e053-4c48-baf7-e3a55e5fc434",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/PPBaseStage.ts.meta": {
+    "time": 1655865752394.5417
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/PPBaseStage.ts": {
+    "time": 1655865752259.9414,
+    "uuid": "17a84c79-c7cb-4ca5-9fee-3d79a5254e0f",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/PPMgr.ts.meta": {
+    "time": 1655865752458.1323
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/PPMgr.ts": {
+    "time": 1655866494651.107,
+    "uuid": "8a762b8e-d78f-46da-893e-b71f6d7c02cb",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/bloom.scene.meta": {
+    "time": 1655865752544.167
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/bloom.scene": {
+    "time": 1655866366273.719,
+    "uuid": "e5e029e1-1bbe-417e-9e38-4eb50820406c",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage.meta": {
+    "time": 1655865752182.374
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage": {
+    "time": 1655865752190.727,
+    "uuid": "6f94ff64-2619-4544-811f-d09f20074a7b",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPBlurXStage.ts.meta": {
+    "time": 1655865752548.8171
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPBlurXStage.ts": {
+    "time": 1655865856740.0945,
+    "uuid": "dd5e44e9-62d4-4d94-8cff-858718d422d3",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPBlurYStage.ts.meta": {
+    "time": 1655865752558.2947
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPBlurYStage.ts": {
+    "time": 1655865961637.435,
+    "uuid": "3eea3972-484a-48fa-ba12-3088bf9b0ceb",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPMergeStage.ts.meta": {
+    "time": 1655865752561.482
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPMergeStage.ts": {
+    "time": 1655865952423.5237,
+    "uuid": "bd762900-b1a1-46c6-89de-85fe1337ff97",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPThresholdStage.ts.meta": {
+    "time": 1655865752892.0044
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPThresholdStage.ts": {
+    "time": 1655865942230.949,
+    "uuid": "a1156d1c-7bd4-48e8-b8b1-a66177d5d1af",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res.meta": {
+    "time": 1655865752160.5745
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/effect.meta": {
+    "time": 1655865752164.139
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/material.meta": {
+    "time": 1655865752174.0547
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res": {
+    "time": 1655865810982.8223,
+    "uuid": "36d5d6a5-57ed-41bd-9e3a-ca2f48dbaf56",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/effect": {
+    "time": 1655865752171.6597,
+    "uuid": "66a4c119-60c5-42cd-93cd-6e8a59878725",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/material": {
+    "time": 1655865752180.9927,
+    "uuid": "44ef1388-717e-4ce6-ad0d-e95b2bcc5115",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/material/blur.mtl.meta": {
+    "time": 1655865808020.2673
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/material/blur.mtl": {
+    "time": 1655865752542.4019,
+    "uuid": "096cf0e8-7a8e-4561-92b5-50850fab81b8",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/material/merge.mtl.meta": {
+    "time": 1655865808020.6323
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/material/merge.mtl": {
+    "time": 1655865752543.849,
+    "uuid": "d9c14479-b655-48a2-8a6a-8f95493cd8ee",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/material/threshold.mtl.meta": {
+    "time": 1655865808016.5366
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/material/threshold.mtl": {
+    "time": 1655865752546.9836,
+    "uuid": "c2c9b65a-6146-4980-95ff-164b02bd458c",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/effect/merge.effect.meta": {
+    "time": 1655865752525.8298
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/effect/merge.effect": {
+    "time": 1655865752399.907,
+    "uuid": "d8c20c15-7e01-4bb4-8ccc-5d0aa82a4e62",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/effect/threshold.effect.meta": {
+    "time": 1655865752532.1592
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/effect/threshold.effect": {
+    "time": 1655865752473.9985,
+    "uuid": "01d6d955-a2f4-4605-b952-0f0713e6cc43",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/effect/blur.effect.meta": {
+    "time": 1655865752523.3018
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/effect/blur.effect": {
+    "time": 1655865752280.0645,
+    "uuid": "357470fb-d3d2-4ca9-9ad4-76fe0efa1cfa",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/model.meta": {
+    "time": 1655865752195.6426
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/model": {
+    "time": 1655865752257.7673,
+    "uuid": "2f785f48-bbcb-45cd-86dd-39381fc00f00",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/model/PrimaryIonDrive.glb.meta": {
+    "time": 1655865753254.5051
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/res/model/PrimaryIonDrive.glb": {
+    "time": 1655865752257.0933,
+    "uuid": "be264c31-7d70-4efa-8e6f-3fe06e924ca5",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/bloom.ts.meta": {
+    "time": 1655865991200.4421
+  },
+  "/Users/mu/Desktop/Creator3.5.1_3D_ModelBloom/assets/scripts/bloom.ts": {
+    "time": 1655866030213.9365,
+    "uuid": "c0919a7c-2974-4ff0-a8a1-56aec9898f73",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/bloom.scene": {
+    "time": 1655872608470.0679,
+    "uuid": "e5e029e1-1bbe-417e-9e38-4eb50820406c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res": {
+    "time": 1655865810982.8223,
+    "uuid": "36d5d6a5-57ed-41bd-9e3a-ca2f48dbaf56",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts": {
+    "time": 1655870070686.3723,
+    "uuid": "375c85c6-e053-4c48-baf7-e3a55e5fc434",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/effect": {
+    "time": 1655865752171.6597,
+    "uuid": "66a4c119-60c5-42cd-93cd-6e8a59878725",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/material": {
+    "time": 1655865752180.9927,
+    "uuid": "44ef1388-717e-4ce6-ad0d-e95b2bcc5115",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/model": {
+    "time": 1655865752257.7673,
+    "uuid": "2f785f48-bbcb-45cd-86dd-39381fc00f00",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/PPBaseStage.ts": {
+    "time": 1655865752259.9414,
+    "uuid": "17a84c79-c7cb-4ca5-9fee-3d79a5254e0f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/PPMgr.ts": {
+    "time": 1655868950681.0417,
+    "uuid": "8a762b8e-d78f-46da-893e-b71f6d7c02cb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/bloom.ts": {
+    "time": 1655866030213.9365,
+    "uuid": "c0919a7c-2974-4ff0-a8a1-56aec9898f73",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage": {
+    "time": 1655865752190.727,
+    "uuid": "6f94ff64-2619-4544-811f-d09f20074a7b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/effect/blur.effect": {
+    "time": 1655865752280.0645,
+    "uuid": "357470fb-d3d2-4ca9-9ad4-76fe0efa1cfa",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/effect/merge.effect": {
+    "time": 1655865752399.907,
+    "uuid": "d8c20c15-7e01-4bb4-8ccc-5d0aa82a4e62",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/effect/threshold.effect": {
+    "time": 1655865752473.9985,
+    "uuid": "01d6d955-a2f4-4605-b952-0f0713e6cc43",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/material/blur.mtl": {
+    "time": 1655865752542.4019,
+    "uuid": "096cf0e8-7a8e-4561-92b5-50850fab81b8",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/material/merge.mtl": {
+    "time": 1655865752543.849,
+    "uuid": "d9c14479-b655-48a2-8a6a-8f95493cd8ee",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/material/threshold.mtl": {
+    "time": 1655865752546.9836,
+    "uuid": "c2c9b65a-6146-4980-95ff-164b02bd458c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/model/PrimaryIonDrive.glb": {
+    "time": 1655865752257.0933,
+    "uuid": "be264c31-7d70-4efa-8e6f-3fe06e924ca5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPBlurXStage.ts": {
+    "time": 1655865856740.0945,
+    "uuid": "dd5e44e9-62d4-4d94-8cff-858718d422d3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPBlurYStage.ts": {
+    "time": 1655865961637.435,
+    "uuid": "3eea3972-484a-48fa-ba12-3088bf9b0ceb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPMergeStage.ts": {
+    "time": 1655865952423.5237,
+    "uuid": "bd762900-b1a1-46c6-89de-85fe1337ff97",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPThresholdStage.ts": {
+    "time": 1655865942230.949,
+    "uuid": "a1156d1c-7bd4-48e8-b8b1-a66177d5d1af",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res.meta": {
+    "time": 1655865752160.5745
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts.meta": {
+    "time": 1655865752259.3262
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/effect.meta": {
+    "time": 1655865752164.139
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/material.meta": {
+    "time": 1655865752174.0547
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/model.meta": {
+    "time": 1655865752195.6426
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage.meta": {
+    "time": 1655865752182.374
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/PPBaseStage.ts.meta": {
+    "time": 1655865752394.5417
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/PPMgr.ts.meta": {
+    "time": 1655865752458.1323
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/bloom.ts.meta": {
+    "time": 1655865991200.4421
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/effect/blur.effect.meta": {
+    "time": 1655865752523.3018
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/effect/merge.effect.meta": {
+    "time": 1655865752525.8298
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/bloom.scene.meta": {
+    "time": 1655865752544.167
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/effect/threshold.effect.meta": {
+    "time": 1655865752532.1592
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/material/blur.mtl.meta": {
+    "time": 1655865808020.2673
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPBlurXStage.ts.meta": {
+    "time": 1655865752548.8171
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/material/merge.mtl.meta": {
+    "time": 1655865808020.6323
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPBlurYStage.ts.meta": {
+    "time": 1655865752558.2947
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/material/threshold.mtl.meta": {
+    "time": 1655865808016.5366
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPMergeStage.ts.meta": {
+    "time": 1655865752561.482
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/scripts/stage/PPThresholdStage.ts.meta": {
+    "time": 1655865752892.0044
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_ModelBloom/assets/res/model/PrimaryIonDrive.glb.meta": {
+    "time": 1655865753254.5051
+  }
+}

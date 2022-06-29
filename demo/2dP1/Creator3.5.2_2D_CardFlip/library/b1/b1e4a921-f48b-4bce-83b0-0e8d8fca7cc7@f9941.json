@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quad_round_unpackable",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 90,
+      "height": 89
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 90,
+      "height": 89
+    },
+    "rotated": false,
+    "capInsets": [
+      14,
+      13,
+      12,
+      12
+    ],
+    "texture": "b1e4a921-f48b-4bce-83b0-0e8d8fca7cc7@6c48a",
+    "packable": true
+  }
+}

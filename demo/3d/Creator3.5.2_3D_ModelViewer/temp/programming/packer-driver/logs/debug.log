@@ -1,0 +1,244 @@
+debug: Wed, 22 Jun 2022 16:30:26 GMT
+debug: Project: /Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer
+debug: Targets: editor,preview
+debug: Packer deriver version file lost or format incorrect: Error: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/temp/programming/packer-driver/VERSION'
+debug: Clearing out the targets...
+debug: Engine path: /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/temp/programming/packer-driver/targets/editor/main-record.json'
+debug: Loading cache costs 0.3674530005082488ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/temp/programming/packer-driver/targets/preview/main-record.json'
+debug: Loading cache costs 0.43595300056040287ms.
+debug: Sync engine features: 2d,3d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,skeletal-animation,spine,terrain,tiled-map,tween,ui,video,webview
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 103.12264800071716ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 7
+Feature changed: false
+debug: Target(editor) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as cce:/internal/x/cc.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/x/cc.
+debug: Resolve ./UI_ModelViewer_HUD from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve ./UIController from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/x/cc.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve ./PlayerCtrl from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve ./UILayout_ModelViewer_HUD from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts.
+debug: Target(editor) ends with cost 1684.2294850004837ms.
+debug: Target(preview) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-ammo from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-ammo.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/wait-for-ammo-instantiation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/wait-for-ammo-instantiation.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as cce:/internal/x/cc.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/x/cc.
+debug: Resolve ./UI_ModelViewer_HUD from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve ./UIController from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/x/cc.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve ./PlayerCtrl from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve ./UILayout_ModelViewer_HUD from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts.
+debug: Target(preview) ends with cost 1187.3173899995163ms.
+debug: Dispatch build request for time accumulated 6 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 6
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:19 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:04:42 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts. Last mtime: Thu Jun 23 2022 00:28:04 GMT+0800 (中国标准时间)@82a59405-4865-4862-b064-ae0017d54dab, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@82a59405-4865-4862-b064-ae0017d54dab
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/x/cc.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts. Last mtime: Thu Jun 23 2022 00:26:07 GMT+0800 (中国标准时间)@0c2430e8-921d-4b74-8406-7325fe3f5dc5, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@0c2430e8-921d-4b74-8406-7325fe3f5dc5
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve ./UIController from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts. Last mtime: Thu Jun 23 2022 00:09:59 GMT+0800 (中国标准时间)@de70297f-154d-46c8-8ce1-7cb5b678da8f, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@de70297f-154d-46c8-8ce1-7cb5b678da8f
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/x/cc.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve ./PlayerCtrl from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts. Last mtime: Thu Jun 23 2022 00:18:33 GMT+0800 (中国标准时间)@f67541b9-d122-4575-a923-e769f1c9bab3, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@f67541b9-d122-4575-a923-e769f1c9bab3
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve ./UILayout_ModelViewer_HUD from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts. Last mtime: Thu Jun 23 2022 00:09:25 GMT+0800 (中国标准时间)@40e5cd5b-6f3c-463c-a8a3-5b152839bbc6, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@40e5cd5b-6f3c-463c-a8a3-5b152839bbc6
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts. Last mtime: Thu Jun 23 2022 00:11:03 GMT+0800 (中国标准时间)@8a6dda79-6e93-43a7-a19c-9ef44071109b, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@8a6dda79-6e93-43a7-a19c-9ef44071109b
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts.
+debug: Target(editor) ends with cost 1171.8590110000223ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:21 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:04:43 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/AppStart_ModelViewer.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts. Last mtime: Thu Jun 23 2022 00:28:04 GMT+0800 (中国标准时间)@82a59405-4865-4862-b064-ae0017d54dab, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@82a59405-4865-4862-b064-ae0017d54dab
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts as cce:/internal/x/cc.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts. Last mtime: Thu Jun 23 2022 00:26:07 GMT+0800 (中国标准时间)@0c2430e8-921d-4b74-8406-7325fe3f5dc5, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@0c2430e8-921d-4b74-8406-7325fe3f5dc5
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve ./UIController from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts. Last mtime: Thu Jun 23 2022 00:09:59 GMT+0800 (中国标准时间)@de70297f-154d-46c8-8ce1-7cb5b678da8f, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@de70297f-154d-46c8-8ce1-7cb5b678da8f
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as cce:/internal/x/cc.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve ./UIMgr from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve ./PlayerCtrl from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts. Last mtime: Thu Jun 23 2022 00:18:33 GMT+0800 (中国标准时间)@f67541b9-d122-4575-a923-e769f1c9bab3, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@f67541b9-d122-4575-a923-e769f1c9bab3
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts as cce:/internal/x/cc.
+debug: Resolve ./UILayout_ModelViewer_HUD from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts. Last mtime: Thu Jun 23 2022 00:09:25 GMT+0800 (中国标准时间)@40e5cd5b-6f3c-463c-a8a3-5b152839bbc6, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@40e5cd5b-6f3c-463c-a8a3-5b152839bbc6
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts. Last mtime: Thu Jun 23 2022 00:11:03 GMT+0800 (中国标准时间)@8a6dda79-6e93-43a7-a19c-9ef44071109b, Current mtime: Thu Jun 23 2022 00:34:34 GMT+0800 (中国标准时间)@8a6dda79-6e93-43a7-a19c-9ef44071109b
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/FollowCamera.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/PlayerCtrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIController.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UILayout_ModelViewer_HUD.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UIMgr.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_ModelViewer/assets/src/UI_ModelViewer_HUD.ts.
+debug: Target(preview) ends with cost 1196.5108850002289ms.

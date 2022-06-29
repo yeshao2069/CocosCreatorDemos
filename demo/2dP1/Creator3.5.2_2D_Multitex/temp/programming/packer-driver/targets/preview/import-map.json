@@ -1,0 +1,57 @@
+{
+  "imports": {
+    "cce:/internal/x/cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js",
+    "cce:/internal/x/prerequisite-imports": "./chunks/34/341ab3341f38daa5d6eb502f45f16e9d150576f5.js",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src/MTSprite.ts": "./chunks/f8/f8b0da60b499dca7305421c99f3c1db98c475245.js",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src/MTTex.ts": "./chunks/c9/c92751c7715da1aa621df63ae21dc4a89c9900b9.js",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src/MTBatcher2D.ts": "./chunks/04/040a7c50e8d46a3800a8724c066df48ec9142c93.js"
+  },
+  "scopes": {
+    "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js": {
+      "__unresolved_0": "cce:/internal/x/cc-fu/2d",
+      "__unresolved_1": "cce:/internal/x/cc-fu/3d",
+      "__unresolved_10": "cce:/internal/x/cc-fu/particle-2d",
+      "__unresolved_11": "cce:/internal/x/cc-fu/physics-2d-box2d",
+      "__unresolved_12": "cce:/internal/x/cc-fu/physics-2d-framework",
+      "__unresolved_13": "cce:/internal/x/cc-fu/physics-ammo",
+      "__unresolved_14": "cce:/internal/x/cc-fu/physics-framework",
+      "__unresolved_15": "cce:/internal/x/cc-fu/wait-for-ammo-instantiation",
+      "__unresolved_16": "cce:/internal/x/cc-fu/primitive",
+      "__unresolved_17": "cce:/internal/x/cc-fu/profiler",
+      "__unresolved_18": "cce:/internal/x/cc-fu/skeletal-animation",
+      "__unresolved_19": "cce:/internal/x/cc-fu/spine",
+      "__unresolved_2": "cce:/internal/x/cc-fu/animation",
+      "__unresolved_20": "cce:/internal/x/cc-fu/terrain",
+      "__unresolved_21": "cce:/internal/x/cc-fu/tiled-map",
+      "__unresolved_22": "cce:/internal/x/cc-fu/tween",
+      "__unresolved_23": "cce:/internal/x/cc-fu/ui",
+      "__unresolved_24": "cce:/internal/x/cc-fu/video",
+      "__unresolved_25": "cce:/internal/x/cc-fu/webview",
+      "__unresolved_3": "cce:/internal/x/cc-fu/audio",
+      "__unresolved_4": "cce:/internal/x/cc-fu/base",
+      "__unresolved_5": "cce:/internal/x/cc-fu/dragon-bones",
+      "__unresolved_6": "cce:/internal/x/cc-fu/gfx-webgl",
+      "__unresolved_7": "cce:/internal/x/cc-fu/gfx-webgl2",
+      "__unresolved_8": "cce:/internal/x/cc-fu/intersection-2d",
+      "__unresolved_9": "cce:/internal/x/cc-fu/particle"
+    },
+    "./chunks/34/341ab3341f38daa5d6eb502f45f16e9d150576f5.js": {
+      "__unresolved_0": "./chunks/04/040a7c50e8d46a3800a8724c066df48ec9142c93.js",
+      "__unresolved_1": "./chunks/f8/f8b0da60b499dca7305421c99f3c1db98c475245.js",
+      "__unresolved_2": "./chunks/c9/c92751c7715da1aa621df63ae21dc4a89c9900b9.js"
+    },
+    "./chunks/c9/c92751c7715da1aa621df63ae21dc4a89c9900b9.js": {
+      "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
+      "__unresolved_1": "./chunks/04/040a7c50e8d46a3800a8724c066df48ec9142c93.js",
+      "cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js"
+    },
+    "./chunks/04/040a7c50e8d46a3800a8724c066df48ec9142c93.js": {
+      "cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js"
+    },
+    "./chunks/f8/f8b0da60b499dca7305421c99f3c1db98c475245.js": {
+      "__unresolved_0": "./chunks/3a/3a1fd7b13056478820ebedd306d3446d1aa408cc.js",
+      "__unresolved_1": "./chunks/c9/c92751c7715da1aa621df63ae21dc4a89c9900b9.js",
+      "cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js"
+    }
+  }
+}

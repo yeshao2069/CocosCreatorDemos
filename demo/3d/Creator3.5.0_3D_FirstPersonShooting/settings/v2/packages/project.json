@@ -1,0 +1,41 @@
+{
+  "__version__": "1.0.2",
+  "general": {
+    "designResolution": {
+      "fitHeight": true
+    }
+  },
+  "layer": [],
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "sky"
+      },
+      {
+        "index": 2,
+        "name": "ground"
+      },
+      {
+        "index": 3,
+        "name": "house"
+      },
+      {
+        "index": 4,
+        "name": "wall"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 0,
+      "1": 0,
+      "2": 8,
+      "3": 20,
+      "4": 8
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

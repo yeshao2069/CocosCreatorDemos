@@ -1,0 +1,625 @@
+debug: Wed, 29 Jun 2022 03:12:18 GMT
+debug: Project: /Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip
+debug: Targets: editor,preview
+debug: Incremental file seems great.
+debug: Engine path: /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Loading cache costs 14.799820000305772ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Loading cache costs 22.225803999230266ms.
+debug: Sync engine features: 2d,3d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle,particle-2d,physics-2d-box2d,physics-ammo,primitive,profiler,skeletal-animation,spine,terrain,tiled-map,tween,ui,video,webview
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 13.4137670006603ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 3
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:31 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:21 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:48:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:21 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Wed Jun 29 2022 10:23:36 GMT+0800 (中国标准时间), Current mtime: Wed Jun 29 2022 11:11:57 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 456.034513999708ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:31 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:21 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-ammo from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-ammo.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/wait-for-ammo-instantiation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/wait-for-ammo-instantiation.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:48:08 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:21 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Wed Jun 29 2022 10:23:36 GMT+0800 (中国标准时间), Current mtime: Wed Jun 29 2022 11:11:57 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 233.46960899978876ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:21 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:03:54 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:08:21 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:14:09 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 319.10013900045305ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:21 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:03:54 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:08:21 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:14:09 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 581.8824849994853ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:03:54 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:23:57 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:14:09 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:35:51 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 634.6565539995208ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:03:54 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:23:58 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:14:09 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:35:51 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 689.5311050005257ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:23:57 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:26:52 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:35:51 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:38:47 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 89.4148869998753ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:23:58 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:26:52 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:35:51 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:38:47 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 346.3359559997916ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:26:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:27:20 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:38:47 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:39:16 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 202.64645100012422ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:26:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:27:20 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:38:47 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:39:16 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 464.2639769995585ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:27:20 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:29:16 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:39:16 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:40:35 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 94.37323299981654ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:27:20 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:29:16 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:39:16 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:40:35 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 249.48392300028354ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:29:16 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:30:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:40:35 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:41:47 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 92.91504399944097ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:29:16 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:30:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:40:35 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:41:47 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 213.35711700003594ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:30:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:33:05 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:41:47 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:44:52 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 112.18137199990451ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:30:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:33:06 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:41:47 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 11:44:52 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 395.8827689997852ms.
+debug: Dispatch build request for time accumulated 3 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 3
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:33:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:39:18 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Target(editor) ends with cost 22.838934000581503ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:33:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:39:18 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Target(preview) ends with cost 20.437203000299633ms.
+debug: Dispatch build request for time accumulated 5 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 5
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:39:18 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:07:04 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:44:52 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 11:10:55 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts. Last mtime: Tue Jun 28 2022 21:49:53 GMT+0800 (中国标准时间)@ea72d7ec-f6e9-4bf3-aafd-582592935b6c, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@ea72d7ec-f6e9-4bf3-aafd-582592935b6c
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts as external dependency cc/env.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts. Last mtime: Tue Jun 28 2022 21:48:49 GMT+0800 (中国标准时间)@4eefc4e1-08d3-48bf-b1e7-8baa0cb5e716, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@4eefc4e1-08d3-48bf-b1e7-8baa0cb5e716
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts as external dependency cc/env.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts. Last mtime: Wed Jun 29 2022 10:44:09 GMT+0800 (中国标准时间)@7cf6d897-fffd-4be3-9051-059c63a7369b, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@7cf6d897-fffd-4be3-9051-059c63a7369b
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 712.6277879998088ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:39:18 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:07:05 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 11:44:52 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 11:10:55 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts. Last mtime: Tue Jun 28 2022 21:49:53 GMT+0800 (中国标准时间)@ea72d7ec-f6e9-4bf3-aafd-582592935b6c, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@ea72d7ec-f6e9-4bf3-aafd-582592935b6c
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts as external dependency cc/env.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts. Last mtime: Tue Jun 28 2022 21:48:49 GMT+0800 (中国标准时间)@4eefc4e1-08d3-48bf-b1e7-8baa0cb5e716, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@4eefc4e1-08d3-48bf-b1e7-8baa0cb5e716
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts as external dependency cc/env.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts. Last mtime: Wed Jun 29 2022 10:44:09 GMT+0800 (中国标准时间)@7cf6d897-fffd-4be3-9051-059c63a7369b, Current mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@7cf6d897-fffd-4be3-9051-059c63a7369b
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 837.0550640001893ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:07:04 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:08:12 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 46.04234500229359ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:07:05 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:08:12 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 109.0081900022924ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:08:12 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:30:44 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:42:42 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 125.64615400135517ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:08:12 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:30:44 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:42:42 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 230.05416100099683ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:30:44 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:32:45 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:42:42 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:44:43 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 77.58512999862432ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:30:44 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:32:45 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:42:42 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:44:43 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 130.3728020004928ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:32:45 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:33:30 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:44:43 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:45:27 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 70.7119750007987ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:32:45 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:33:30 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:44:43 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:45:27 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 91.33873200044036ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:33:30 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:48:15 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:45:27 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:56:40 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 123.97015799954534ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:33:30 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:48:15 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:45:27 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 14:56:40 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 223.79078099876642ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:48:15 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:49:50 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 15:01:30 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 153.0794939994812ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:48:15 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:49:50 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 14:19:00 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 15:01:30 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 461.862706001848ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:49:50 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:51:43 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 15:01:30 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 15:03:39 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 155.14443299919367ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:49:50 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:51:43 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts. Last mtime: Wed Jun 29 2022 15:01:30 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a, Current mtime: Wed Jun 29 2022 15:03:39 GMT+0800 (中国标准时间)@725a3300-63ee-4310-8232-886b49f07d6a
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as external dependency cc/env.
+debug: Resolve ./TweenUtil from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 413.0127719976008ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:51:43 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:53:42 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:56:40 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 15:05:11 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(editor) ends with cost 83.25301599875093ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 11:51:43 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 11:53:42 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts. Last mtime: Wed Jun 29 2022 14:56:40 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06, Current mtime: Wed Jun 29 2022 15:05:11 GMT+0800 (中国标准时间)@c56fe374-e538-4940-a255-6fd4dca02a06
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts.
+debug: Target(preview) ends with cost 338.9823870025575ms.

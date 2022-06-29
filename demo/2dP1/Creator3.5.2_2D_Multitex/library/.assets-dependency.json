@@ -1,0 +1,133 @@
+{
+  "path": {
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/caseMultiTex/multitex.effect": [
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/embedded-alpha.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/alpha-test.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/sprite-vs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/cc-global.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/cc-local.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/common.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/sprite-fs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/embedded-alpha.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/alpha-test.chunk"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/caseMultiTex/origin_sprite.effect": [
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/embedded-alpha.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/alpha-test.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/sprite-vs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/cc-global.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/cc-local.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/common.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/sprite-fs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/embedded-alpha.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/alpha-test.chunk"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/emoji.plist": [
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/emoji.png"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/sheep.plist": [
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/sheep.png"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/ui.plist": [
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/ui.png"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/origin_sprite.effect": [
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/embedded-alpha.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/alpha-test.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/sprite-vs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/cc-global.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/cc-local.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/common.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/sprite-fs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/embedded-alpha.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/alpha-test.chunk"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/multitex.effect": [
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/embedded-alpha.chunk",
+      "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/alpha-test.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/sprite-vs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/cc-global.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/cc-local.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/common.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/sprite-fs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/embedded-alpha.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/chunks/alpha-test.chunk"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res/multitex.effect": [
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/embedded-alpha.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/alpha-test.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/sprite-vs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/cc-global.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/cc-local.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/common.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/sprite-fs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/embedded-alpha.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/alpha-test.chunk"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res/origin_sprite.effect": [
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/sprite-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/embedded-alpha.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/alpha-test.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/sprite-vs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/cc-global.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/cc-local.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/common.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/sprite-fs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/embedded-alpha.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/chunks/alpha-test.chunk"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/sheep.plist": [
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/sheep.png"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/emoji.plist": [
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/emoji.png"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/ui.plist": [
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/ui.png"
+    ]
+  },
+  "uuid": {
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/multitex.mtl": [
+      "c4aa2b8a-1bd5-436a-a620-5ecdc23502d1"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/default-sprite.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/caseMultiTex/multitex.mtl": [
+      "c4aa2b8a-1bd5-436a-a620-5ecdc23502d1"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res/multitex.mtl": [
+      "c4aa2b8a-1bd5-436a-a620-5ecdc23502d1"
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "chunks": {
+    "68d99eb2bd5ac449d443d1d23e7119c95c84ec84": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        "__unresolved_10": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        "__unresolved_11": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        "__unresolved_12": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        "__unresolved_13": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        "__unresolved_14": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        "__unresolved_15": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        "__unresolved_16": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        "__unresolved_17": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        "__unresolved_4": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        },
+        "__unresolved_5": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        "__unresolved_6": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        "__unresolved_7": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        "__unresolved_8": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d"
+          },
+          "messages": []
+        },
+        "__unresolved_9": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656299731914
+    },
+    "ba5a213fe38cd1eb30a83cfa63bed9c175ab4ae0": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "0e6beae5efb970faf1cc4949629e82284cb819cc"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "68d99eb2bd5ac449d443d1d23e7119c95c84ec84"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656299732063
+    },
+    "3a1fd7b13056478820ebedd306d3446d1aa408cc": {
+      "imports": {},
+      "timestamp": 1656299732129
+    },
+    "0e6beae5efb970faf1cc4949629e82284cb819cc": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "f5f096bca696ed4a27a135c36b8f56312cf4f2b1"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "68d99eb2bd5ac449d443d1d23e7119c95c84ec84"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656299732600
+    },
+    "f5f096bca696ed4a27a135c36b8f56312cf4f2b1": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "68d99eb2bd5ac449d443d1d23e7119c95c84ec84"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656299732805
+    },
+    "18f7e19e77661d16f92ac6323d588fe876c977fe": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "ba5a213fe38cd1eb30a83cfa63bed9c175ab4ae0"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "68d99eb2bd5ac449d443d1d23e7119c95c84ec84"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656299732894
+    },
+    "52e8a9e14f500a509b526e3a9f1d96810f76ca10": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "ba5a213fe38cd1eb30a83cfa63bed9c175ab4ae0"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "0e6beae5efb970faf1cc4949629e82284cb819cc"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "18f7e19e77661d16f92ac6323d588fe876c977fe"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "chunk",
+            "id": "f5f096bca696ed4a27a135c36b8f56312cf4f2b1"
+          },
+          "messages": []
+        },
+        "__unresolved_4": {
+          "resolved": {
+            "type": "chunk",
+            "id": "357bb702767a1003b1032698447dd96b8023b9a4"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656299863606
+    },
+    "357bb702767a1003b1032698447dd96b8023b9a4": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "68d99eb2bd5ac449d443d1d23e7119c95c84ec84"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656299863679
+    }
+  },
+  "entries": {
+    "cce:/internal/x/cc": "68d99eb2bd5ac449d443d1d23e7119c95c84ec84",
+    "cce:/internal/x/prerequisite-imports": "52e8a9e14f500a509b526e3a9f1d96810f76ca10",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts": "ba5a213fe38cd1eb30a83cfa63bed9c175ab4ae0",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts": "0e6beae5efb970faf1cc4949629e82284cb819cc",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts": "18f7e19e77661d16f92ac6323d588fe876c977fe",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts": "f5f096bca696ed4a27a135c36b8f56312cf4f2b1",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts": "357bb702767a1003b1032698447dd96b8023b9a4"
+  }
+}

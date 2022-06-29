@@ -1,0 +1,34 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "sheep",
+    "spriteFrames": [
+      "sheep_down_0",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@7cc6b",
+      "sheep_down_1",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@d1ecf",
+      "sheep_down_2",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@acab0",
+      "sheep_jump_0",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@52715",
+      "sheep_jump_1",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@6982f",
+      "sheep_jump_2",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@d19ec",
+      "sheep_jump_3",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@123b8",
+      "sheep_jump_4",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@2f938",
+      "sheep_run_0",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@e0c75",
+      "sheep_run_1",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@a8883",
+      "sheep_run_2",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@6a8f4",
+      "sheep_run_3",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@07ea9",
+      "sheep_touch_0",
+      "23790525-23ad-4c82-bd6e-1a6ac6d92fe0@c6353"
+    ]
+  }
+}

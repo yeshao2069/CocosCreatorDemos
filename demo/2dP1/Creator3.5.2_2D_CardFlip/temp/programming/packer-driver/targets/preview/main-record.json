@@ -1,0 +1,2804 @@
+{
+  "modules": {
+    "cce:/internal/x/cc": {
+      "mTimestamp": 21499.243321999907,
+      "chunkId": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53",
+      "imports": [
+        {
+          "value": "cce:/internal/x/cc-fu/2d",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/3d",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/animation",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/audio",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/base",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/dragon-bones",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 14
+            },
+            "end": {
+              "line": 7,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/intersection-2d",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 14
+            },
+            "end": {
+              "line": 9,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 14
+            },
+            "end": {
+              "line": 10,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle-2d",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 14
+            },
+            "end": {
+              "line": 11,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-box2d",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 14
+            },
+            "end": {
+              "line": 12,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 14
+            },
+            "end": {
+              "line": 13,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-ammo",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 14
+            },
+            "end": {
+              "line": 14,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-framework",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 14
+            },
+            "end": {
+              "line": 15,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/wait-for-ammo-instantiation",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 14
+            },
+            "end": {
+              "line": 16,
+              "column": 65
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/primitive",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 14
+            },
+            "end": {
+              "line": 17,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/profiler",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 14
+            },
+            "end": {
+              "line": 18,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/skeletal-animation",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 14
+            },
+            "end": {
+              "line": 19,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/spine",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 14
+            },
+            "end": {
+              "line": 20,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/terrain",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 14
+            },
+            "end": {
+              "line": 21,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tiled-map",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 14
+            },
+            "end": {
+              "line": 22,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tween",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 14
+            },
+            "end": {
+              "line": 23,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/ui",
+          "resolved": "__unresolved_23",
+          "loc": {
+            "start": {
+              "line": 24,
+              "column": 14
+            },
+            "end": {
+              "line": 24,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/video",
+          "resolved": "__unresolved_24",
+          "loc": {
+            "start": {
+              "line": 25,
+              "column": 14
+            },
+            "end": {
+              "line": 25,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/webview",
+          "resolved": "__unresolved_25",
+          "loc": {
+            "start": {
+              "line": 26,
+              "column": 14
+            },
+            "end": {
+              "line": 26,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-ammo"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/wait-for-ammo-instantiation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/x/prerequisite-imports": {
+      "mTimestamp": 14022163.582909,
+      "chunkId": "e690d8d21c3264f88cef1049bc05ae341c5f161a",
+      "imports": [
+        {
+          "value": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 7
+            },
+            "end": {
+              "line": 4,
+              "column": 116
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 7
+            },
+            "end": {
+              "line": 5,
+              "column": 122
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 7
+            },
+            "end": {
+              "line": 6,
+              "column": 120
+            }
+          }
+        },
+        {
+          "value": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 7
+            },
+            "end": {
+              "line": 7,
+              "column": 117
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/eazax-ccc/components/ScreenAdapter.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271106.8877,
+        "uuid": "32ac7537-f8e7-45a4-9308-988cb5ddbaf4"
+      },
+      "chunkId": "7a85ab553148dcfeae5be37e35d68866e154eb95",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "../core/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/eazax-ccc/core/EventManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1656472317286,
+      "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/eazax-ccc/core/EventManager.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271110.315,
+        "uuid": "7cf6d897-fffd-4be3-9051-059c63a7369b"
+      },
+      "chunkId": "b26708773231cc1d865f5661a11bd53e59db5ea4",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/eazax-ccc/core/PopupManager.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271120.2275,
+        "uuid": "50eaac0b-3d94-4434-911c-184a555492ac"
+      },
+      "chunkId": "d502d64bb2e43c6e5fe8910c44a920dd58c05deb",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../components/popups/PopupBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 36,
+              "column": 22
+            },
+            "end": {
+              "line": 36,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/eazax-ccc/components/popups/PopupBase.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/eazax-ccc/utils/TweenUtil.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271124.4387,
+        "uuid": "c56fe374-e538-4940-a255-6fd4dca02a06"
+      },
+      "chunkId": "31d21463edbec767f182f98e7260bec6137b35fa",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/cases/cardFlip/scripts/Case_CardFlip.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271099.4346,
+        "uuid": "3cf8aacc-39b9-4e78-be14-c42514f10713"
+      },
+      "chunkId": "5f05830bfa48cb53ecdfaaf43336b6c230dae4ac",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 66
+            },
+            "end": {
+              "line": 1,
+              "column": 70
+            }
+          }
+        },
+        {
+          "value": "../../../eazax-cutils/TweenUtil",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 55
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/cases/cardFlip/scripts/Case_CardFlip.ts 为起点找不到模块 \"../../../eazax-cutils/TweenUtil\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/CaseSettings.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271141.7085,
+        "uuid": "01dcd5a0-34bc-4dcf-a654-450260f65bbe"
+      },
+      "chunkId": "10663ab4e1d3a13044935ad91f0bb01bf8d917d3",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "./ClickToShowResPopup",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 50
+            },
+            "end": {
+              "line": 4,
+              "column": 73
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/ClickToShowResPopup.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/ClickToShowResPopup.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271157.1501,
+        "uuid": "4eefc4e1-08d3-48bf-b1e7-8baa0cb5e716"
+      },
+      "chunkId": "e2c7742fd6501872acdd770059770c958287987c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../../eazax-ccore/PopupManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "./popups/resPopup/ResPopup",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 42
+            },
+            "end": {
+              "line": 5,
+              "column": 70
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/ClickToShowResPopup.ts 为起点找不到模块 \"../../../eazax-ccore/PopupManager\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/popups/resPopup/ResPopup.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/popups/resPopup/ResPopup.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271132.9653,
+        "uuid": "342f26f4-cd01-45fd-8b45-b17e9adc4ef4"
+      },
+      "chunkId": "732c44a14032fff25467672bf0ba1602d2b01454",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../../../../eazax-ccomponents/popups/PopupBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "./ResPopupItem",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/popups/resPopup/ResPopup.ts 为起点找不到模块 \"../../../../../eazax-ccomponents/popups/PopupBase\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/popups/resPopup/ResPopupItem.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/popups/resPopup/ResPopupItem.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271138.3901,
+        "uuid": "7b3375bd-d969-42bb-a6ed-c02d53bc6384"
+      },
+      "chunkId": "f919be9de399bdeeea2ffcc041b2b7fea04d05fa",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 45
+            },
+            "end": {
+              "line": 1,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../../ClickToLoadUrl",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/ClickToLoadUrl.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/CaseSettings.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271141.7085,
+        "uuid": "01dcd5a0-34bc-4dcf-a654-450260f65bbe"
+      },
+      "chunkId": "2204792af85fcd9eae2686249e9a1143661a6601",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "./ClickToShowResPopup",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 50
+            },
+            "end": {
+              "line": 4,
+              "column": 73
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271157.1501,
+        "uuid": "4eefc4e1-08d3-48bf-b1e7-8baa0cb5e716"
+      },
+      "chunkId": "2640e913595bd671f91b8a10b252c661ce26bd1d",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "../../../eazax-ccore/PopupManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "./popups/resPopup/ResPopup",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 42
+            },
+            "end": {
+              "line": 5,
+              "column": 70
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts 为起点找不到模块 \"../../../eazax-ccore/PopupManager\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts 为起点找不到模块 \"./popups/resPopup/ResPopup\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271152.2837,
+        "uuid": "ea72d7ec-f6e9-4bf3-aafd-582592935b6c"
+      },
+      "chunkId": "a67d02be0451fb81cab8acb565ccfebe429d9aa3",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/ResPopup.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271132.9653,
+        "uuid": "342f26f4-cd01-45fd-8b45-b17e9adc4ef4"
+      },
+      "chunkId": "632aa36c4ebbea947887d7c34ff4097cc31bfef6",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../../../../eazax-ccomponents/popups/PopupBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "./ResPopupItem",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/ResPopup.ts 为起点找不到模块 \"../../../../../eazax-ccomponents/popups/PopupBase\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/ResPopupItem.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/ResPopupItem.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271138.3901,
+        "uuid": "7b3375bd-d969-42bb-a6ed-c02d53bc6384"
+      },
+      "chunkId": "f57279d1f2effb870e6108e061b24b17c5e3f946",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 45
+            },
+            "end": {
+              "line": 1,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../../ClickToLoadUrl",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/ResPopupItem.ts 为起点找不到模块 \"../../ClickToLoadUrl\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ResPopup.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271132.9653,
+        "uuid": "342f26f4-cd01-45fd-8b45-b17e9adc4ef4"
+      },
+      "chunkId": "c2c444308de76a4d1857e7364d0318b81288b79c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 53
+            },
+            "end": {
+              "line": 1,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../../../../../eazax-ccomponents/popups/PopupBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "./ResPopupItem",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ResPopup.ts 为起点找不到模块 \"../../../../../eazax-ccomponents/popups/PopupBase\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ResPopupItem.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ResPopupItem.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271138.3901,
+        "uuid": "7b3375bd-d969-42bb-a6ed-c02d53bc6384"
+      },
+      "chunkId": "5566fb8e5edd5133aa6b58b6ce05b0e9298b9773",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 45
+            },
+            "end": {
+              "line": 1,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../../ClickToLoadUrl",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ResPopupItem.ts 为起点找不到模块 \"../../ClickToLoadUrl\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/PopupBase.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271103.5881,
+        "uuid": "b4f066cc-29d7-4987-88f1-95927badc32d"
+      },
+      "chunkId": "6412ad0370922cb2613e9d2b2d90321002eeac18",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ScreenAdapter.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271106.8877,
+        "uuid": "32ac7537-f8e7-45a4-9308-988cb5ddbaf4"
+      },
+      "chunkId": "6727559e8f3fc68fae0656f16149e3130ea014a7",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 38
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "../core/EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ScreenAdapter.ts 为起点找不到模块 \"../core/EventManager\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271110.315,
+        "uuid": "7cf6d897-fffd-4be3-9051-059c63a7369b"
+      },
+      "chunkId": "f24bc2f008459df6be5908f47bb5272bd7cd346c",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/PopupManager.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271120.2275,
+        "uuid": "50eaac0b-3d94-4434-911c-184a555492ac"
+      },
+      "chunkId": "86902b88b86341edcf09da45bf0fb9e5e6b4c84a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "../components/popups/PopupBase",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 36,
+              "column": 22
+            },
+            "end": {
+              "line": 36,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/PopupManager.ts 为起点找不到模块 \"../components/popups/PopupBase\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts": {
+      "mTimestamp": {
+        "mtime": 1656420271124.4387,
+        "uuid": "c56fe374-e538-4940-a255-6fd4dca02a06"
+      },
+      "chunkId": "23ae0f45a3689cb4c05eb990f33998ff4243d772",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CaseSettings.ts": {
+      "mTimestamp": {
+        "mtime": 1656470202967.9373,
+        "uuid": "01dcd5a0-34bc-4dcf-a654-450260f65bbe"
+      },
+      "chunkId": "a2e8c0e453805ffc8545f859810e11868fb2e2d1",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 78
+            },
+            "end": {
+              "line": 1,
+              "column": 82
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 20
+            },
+            "end": {
+              "line": 2,
+              "column": 28
+            }
+          }
+        },
+        {
+          "value": "./ClickToShowResPopup",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 50
+            },
+            "end": {
+              "line": 5,
+              "column": 73
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts": {
+      "mTimestamp": {
+        "mtime": 1656483540654.9065,
+        "uuid": "4eefc4e1-08d3-48bf-b1e7-8baa0cb5e716"
+      },
+      "chunkId": "17e11746a22bcc01dc8602be66180f08ea4bff17",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 20
+            },
+            "end": {
+              "line": 2,
+              "column": 28
+            }
+          }
+        },
+        {
+          "value": "./PopupManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 25
+            },
+            "end": {
+              "line": 5,
+              "column": 41
+            }
+          }
+        },
+        {
+          "value": "./ResPopup",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 42
+            },
+            "end": {
+              "line": 6,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts 为起点找不到模块 \"./PopupManager\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts 为起点找不到模块 \"./ResPopup\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts": {
+      "mTimestamp": {
+        "mtime": 1656483540650.533,
+        "uuid": "ea72d7ec-f6e9-4bf3-aafd-582592935b6c"
+      },
+      "chunkId": "8e8c8fd1ee566eeebdbf5f06b595bdbaf3b69043",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 20
+            },
+            "end": {
+              "line": 2,
+              "column": 28
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts": {
+      "mTimestamp": {
+        "mtime": 1656483540660.8215,
+        "uuid": "7cf6d897-fffd-4be3-9051-059c63a7369b"
+      },
+      "chunkId": "4e94db51e1ee75bf90d08ba57f24fe98f49eea1b",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/PopupBase.ts": {
+      "mTimestamp": {
+        "mtime": 1656423861298.9526,
+        "uuid": "b4f066cc-29d7-4987-88f1-95927badc32d"
+      },
+      "chunkId": "463bee226380e6f4e517a16d84061c5422b47dab",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 69
+            },
+            "end": {
+              "line": 1,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 20
+            },
+            "end": {
+              "line": 2,
+              "column": 28
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ResPopupItem.ts": {
+      "mTimestamp": {
+        "mtime": 1656420960690.418,
+        "uuid": "7b3375bd-d969-42bb-a6ed-c02d53bc6384"
+      },
+      "chunkId": "289eca98cdbd0be3f78a142699852f21dec7f531",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 45
+            },
+            "end": {
+              "line": 1,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "./ClickToLoadUrl",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ScreenAdapter.ts": {
+      "mTimestamp": {
+        "mtime": 1656470515134.643,
+        "uuid": "32ac7537-f8e7-45a4-9308-988cb5ddbaf4"
+      },
+      "chunkId": "d17e994036820565700f5f1eed7054222e78e808",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 76
+            },
+            "end": {
+              "line": 1,
+              "column": 80
+            }
+          }
+        },
+        {
+          "value": "./EventManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 41
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts": {
+      "mTimestamp": {
+        "mtime": 1656486311916.022,
+        "uuid": "c56fe374-e538-4940-a255-6fd4dca02a06"
+      },
+      "chunkId": "126231d8d29348d8e61d04c8365f019f19a9dd61",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 46
+            },
+            "end": {
+              "line": 7,
+              "column": 50
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/Case_CardFlip.ts": {
+      "mTimestamp": {
+        "mtime": 1656471690663.7808,
+        "uuid": "d530227e-8665-464e-900f-e8b866ed1ce7"
+      },
+      "chunkId": "570be16b8eb2e7954b72b835a7f2911285da1826",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 59
+            },
+            "end": {
+              "line": 1,
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 20
+            },
+            "end": {
+              "line": 2,
+              "column": 28
+            }
+          }
+        },
+        {
+          "value": "./TweenUtil",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 22
+            },
+            "end": {
+              "line": 3,
+              "column": 35
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts": {
+      "mTimestamp": {
+        "mtime": 1656486219974.6506,
+        "uuid": "725a3300-63ee-4310-8232-886b49f07d6a"
+      },
+      "chunkId": "06da251deb6f94ed366a841c6c1e7306400dd983",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 67
+            },
+            "end": {
+              "line": 1,
+              "column": 71
+            }
+          }
+        },
+        {
+          "value": "cc/env",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 20
+            },
+            "end": {
+              "line": 2,
+              "column": 28
+            }
+          }
+        },
+        {
+          "value": "./TweenUtil",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 22
+            },
+            "end": {
+              "line": 3,
+              "column": 35
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cc/env"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts"
+          },
+          "messages": []
+        }
+      ]
+    }
+  }
+}

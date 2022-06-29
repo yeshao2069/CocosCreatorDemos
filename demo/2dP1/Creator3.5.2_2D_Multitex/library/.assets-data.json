@@ -1,0 +1,70 @@
+{
+  "27c77f7d-2281-40ab-96f2-c0bbd778575a": {
+    "url": "db://assets/multitex.scene",
+    "value": {}
+  },
+  "cf48174e-b305-48d5-9584-eaf3db3e799d": {
+    "url": "db://assets/res",
+    "value": {}
+  },
+  "6d74179e-2f66-4965-afe4-64af11b2d3b4": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "8fe9e638-178c-4769-a2ea-ef309c1b102d": {
+    "url": "db://assets/src",
+    "value": {}
+  },
+  "c4aa2b8a-1bd5-436a-a620-5ecdc23502d1": {
+    "url": "db://assets/res/multitex.effect",
+    "value": {}
+  },
+  "7bde4089-2867-4f1a-8996-e6fafe3e13a3": {
+    "url": "db://assets/res/multitex.mtl",
+    "value": {}
+  },
+  "526ef31e-912d-4b4f-9f9e-99fcf95ff9bb": {
+    "url": "db://assets/res/origin_sprite.effect",
+    "value": {}
+  },
+  "938626a0-d32c-4df8-8e62-e603251669e7": {
+    "url": "db://assets/resources/atlas",
+    "value": {}
+  },
+  "ead7e31d-6ce1-4ade-804e-2fc54840c675": {
+    "url": "db://assets/src/MTBatcher2D.ts",
+    "value": {}
+  },
+  "de746afb-8f3f-42f9-8544-a2bb1da40e2c": {
+    "url": "db://assets/src/MTSprite.ts",
+    "value": {}
+  },
+  "145241b4-a50b-4521-992b-31131ba57c6a": {
+    "url": "db://assets/src/MTTex.ts",
+    "value": {}
+  },
+  "7cdfdd93-13bd-44bf-b577-3cae38d5f82b": {
+    "url": "db://assets/resources/atlas/emoji.png",
+    "value": {}
+  },
+  "7aaef392-2317-4f83-9b99-16dd63a07a72": {
+    "url": "db://assets/resources/atlas/emoji.plist",
+    "value": {}
+  },
+  "673b443a-9339-4826-927c-1c76e6ce8dc4": {
+    "url": "db://assets/resources/atlas/sheep.png",
+    "value": {}
+  },
+  "23790525-23ad-4c82-bd6e-1a6ac6d92fe0": {
+    "url": "db://assets/resources/atlas/sheep.plist",
+    "value": {}
+  },
+  "b0422c65-2397-4343-bd7d-888c7ae763b5": {
+    "url": "db://assets/resources/atlas/ui.plist",
+    "value": {}
+  },
+  "295bfe3f-4205-4abf-aefc-fd41039f959a": {
+    "url": "db://assets/resources/atlas/ui.png",
+    "value": {}
+  }
+}

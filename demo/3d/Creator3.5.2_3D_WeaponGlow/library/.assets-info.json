@@ -1,0 +1,522 @@
+{
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/weapon_glow.scene.meta": {
+    "time": 1655965302998.8232
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/weapon_glow.scene": {
+    "time": 1655965818249.6824,
+    "uuid": "fcb39825-40e1-4b7a-a23a-a06262018778",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res.meta": {
+    "time": 1655965301979.4314
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common.meta": {
+    "time": 1655965301982.2058
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors.meta": {
+    "time": 1655965301983.9226
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/effects.meta": {
+    "time": 1655965302964.682
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res": {
+    "time": 1655965662768.3494,
+    "uuid": "a3c1f462-0717-4ed3-9060-11ce4bdb53ef",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common": {
+    "time": 1655965302978.8894,
+    "uuid": "9f7f855e-65ff-43c8-8856-60c8d6db9aac",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors": {
+    "time": 1655965302963.0117,
+    "uuid": "5ed22abb-41af-4502-be29-7d1ee79069eb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/effects": {
+    "time": 1655965302965.8984,
+    "uuid": "7d6797ec-70e4-465c-894e-ca930bfba261",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/images.meta": {
+    "time": 1655965302966.8013
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/images": {
+    "time": 1655965302974.604,
+    "uuid": "ca8e608f-10be-42d2-8618-4bb88c29cdde",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/materials.meta": {
+    "time": 1655965302975.7615
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/materials": {
+    "time": 1655965302977.5461,
+    "uuid": "7e8cde2f-9e20-4846-957c-ef095480e848",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox.meta": {
+    "time": 1655965302979.0774
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox": {
+    "time": 1655965900123.868,
+    "uuid": "900bb650-7ca1-445a-9b1a-154e12359353",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@BattleRetreat.FBX.meta": {
+    "time": 1655965656050.4888
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@BattleRetreat.FBX": {
+    "time": 1655965302008.3623,
+    "uuid": "2f981ece-097c-4c0c-855f-8387ba48a8f3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@BattleRun.FBX.meta": {
+    "time": 1655965656051.9436
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@BattleRun.FBX": {
+    "time": 1655965302026.2986,
+    "uuid": "2ceef282-a4cc-45e1-a7e2-0e65f4f60213",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@BattleStand.FBX.meta": {
+    "time": 1655965656107.0898
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@BattleStand.FBX": {
+    "time": 1655965302049.264,
+    "uuid": "9c4f53db-8e81-4f2f-adae-96d97a5f7e72",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Cast.FBX.meta": {
+    "time": 1655965656117.2844
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Cast.FBX": {
+    "time": 1655965302068.4333,
+    "uuid": "429d4c29-d066-420e-a6fb-3c9fc91163ff",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@DamageA.FBX.meta": {
+    "time": 1655965656123.3796
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@DamageA.FBX": {
+    "time": 1655965302081.7466,
+    "uuid": "64beedcb-722c-40a1-8cf3-e41e4f67f2b6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@DeadStand.FBX.meta": {
+    "time": 1655965656615.148
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@DeadStand.FBX": {
+    "time": 1655965302120.5283,
+    "uuid": "d545ac92-4453-4e8b-9386-8ef2aea4f990",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Dead.FBX.meta": {
+    "time": 1655965656845.828
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Dead.FBX": {
+    "time": 1655965302103.4768,
+    "uuid": "df323c87-0150-4a9a-a688-05038baf8af5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@IdleA.FBX.meta": {
+    "time": 1655965656878.438
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@IdleA.FBX": {
+    "time": 1655965302143.976,
+    "uuid": "dd27814a-50e7-41c0-9ea5-6a8327ef95d1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@IdleB.FBX.meta": {
+    "time": 1655965656995.2195
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@IdleB.FBX": {
+    "time": 1655965302167.6912,
+    "uuid": "98018075-0e6e-457d-8d34-5f2d811aa99e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@IdleC.FBX.meta": {
+    "time": 1655965656995.8284
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@IdleC.FBX": {
+    "time": 1655965302190.2942,
+    "uuid": "9a6e73c2-7393-4308-8a79-5f2b11402340",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@MountA.FBX.meta": {
+    "time": 1655965657189.741
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@MountA.FBX": {
+    "time": 1655965302372.261,
+    "uuid": "79152248-40bf-4c13-8fe6-75bb30b74aa6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@MountB.FBX.meta": {
+    "time": 1655965657358.2131
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@MountB.FBX": {
+    "time": 1655965302423.2202,
+    "uuid": "3ceddfc1-f28e-4c3a-a233-8f5a72953d7a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@MountC.FBX.meta": {
+    "time": 1655965657368.1262
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@MountC.FBX": {
+    "time": 1655965302447.0244,
+    "uuid": "6603a0d0-6b69-49a8-b005-33aca7849ec4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Pick1.FBX.meta": {
+    "time": 1655965657374.4265
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Pick1.FBX": {
+    "time": 1655965302461.7048,
+    "uuid": "4c0bfd69-dcc6-4bc2-9059-7a9b8aa5d575",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Pick2.FBX.meta": {
+    "time": 1655965657377.2434
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Pick2.FBX": {
+    "time": 1655965302480.2007,
+    "uuid": "0d69b7f6-6bff-4429-8daa-14ba94b4b923",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Pick3.FBX.meta": {
+    "time": 1655965657644.7883
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Pick3.FBX": {
+    "time": 1655965302591.0461,
+    "uuid": "0f1888b4-68ab-449c-9372-f944d3e56cd3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Revive.FBX.meta": {
+    "time": 1655965657840.0596
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Revive.FBX": {
+    "time": 1655965302621.6802,
+    "uuid": "71c3211a-f657-43c3-8f55-0bf53020ae8b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SitC.FBX.meta": {
+    "time": 1655965657845.8665
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SitC.FBX": {
+    "time": 1655965302681.1548,
+    "uuid": "bdef7e2b-aa97-44a9-b38a-91f508da56cd",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SitA.FBX.meta": {
+    "time": 1655965657846.6428
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SitA.FBX": {
+    "time": 1655965302644.0466,
+    "uuid": "62d3ab70-7967-4568-95d7-89f6ce464cd8",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SitB.FBX.meta": {
+    "time": 1655965657853.659
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SitB.FBX": {
+    "time": 1655965302664.515,
+    "uuid": "b802b9c5-9b5e-4b4a-9e67-d10a80b857aa",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillA.FBX.meta": {
+    "time": 1655965658219.444
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillA.FBX": {
+    "time": 1655965302697.04,
+    "uuid": "8ab2b8f3-ebaf-4314-9549-b4f64dd498e3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillB.FBX.meta": {
+    "time": 1655965658308.5781
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillB.FBX": {
+    "time": 1655965302715.1758,
+    "uuid": "9420b1a3-50db-46ac-b06b-282bdb338115",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillC.FBX.meta": {
+    "time": 1655965658309.123
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillC.FBX": {
+    "time": 1655965302729.7,
+    "uuid": "5774b5ed-78df-4874-bfcd-e6c395c07f9c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillD.FBX.meta": {
+    "time": 1655965658310.286
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillD.FBX": {
+    "time": 1655965302744.8801,
+    "uuid": "74cd2828-e137-476f-a82a-205afef1a7a9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillE.FBX.meta": {
+    "time": 1655965658398.1042
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillE.FBX": {
+    "time": 1655965302761.75,
+    "uuid": "c67efd44-2711-4c9c-ad0b-f6eaa04a566e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillL.FBX.meta": {
+    "time": 1655965658855.755
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillL.FBX": {
+    "time": 1655965302776.7031,
+    "uuid": "4e2c5e49-1dbb-48c1-a1c0-bd1b76a45f23",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillM_End.fbx.meta": {
+    "time": 1655965302782.4192
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillM_End.fbx": {
+    "time": 1655965302781.7107,
+    "uuid": "031b779f-d1c1-46cd-9c00-0b22362687f5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillM_Start.FBX.meta": {
+    "time": 1655965659026.8635
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@SkillM_Start.FBX": {
+    "time": 1655965302795.4067,
+    "uuid": "2d1ba026-5383-422e-a6c0-b650eedf897d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Stand.FBX.meta": {
+    "time": 1655965659033.5571
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Stand.FBX": {
+    "time": 1655965302811.441,
+    "uuid": "6ab3d1fc-e0f8-4903-8ee1-8866212b6f4f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Vertigo.FBX.meta": {
+    "time": 1655965659057.4844
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Vertigo.FBX": {
+    "time": 1655965302825.006,
+    "uuid": "c4a045b0-948c-40ec-9027-be07710fd5d5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Walk.FBX.meta": {
+    "time": 1655965659220.6536
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@Walk.FBX": {
+    "time": 1655965302834.8135,
+    "uuid": "660f5e54-458a-4f22-85aa-de438049b44e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpA.FBX.meta": {
+    "time": 1655965659282.507
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpA.FBX": {
+    "time": 1655965302211.7231,
+    "uuid": "def3a8a0-b5ca-48fe-8ce3-0b891d79aae4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpA_1.FBX.meta": {
+    "time": 1655965659292.5466
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpA_1.FBX": {
+    "time": 1655965302227.0708,
+    "uuid": "d01ffe2d-3ed3-4746-a419-9e13492afa18",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpA_2.FBX.meta": {
+    "time": 1655965659335.0232
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpA_2.FBX": {
+    "time": 1655965302245.882,
+    "uuid": "6fd6bc05-3de1-4f75-a99f-a2d76863eb61",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpA_C.FBX.meta": {
+    "time": 1655965659340.9868
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpA_C.FBX": {
+    "time": 1655965302264.2107,
+    "uuid": "4fe91525-2169-43e2-8d56-9209e7b954a5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpB.FBX.meta": {
+    "time": 1655965659615.303
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpB.FBX": {
+    "time": 1655965302278.3782,
+    "uuid": "deaf03df-042a-4770-8b45-ef63d0922d46",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpB_1.FBX.meta": {
+    "time": 1655965659624.7322
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpB_1.FBX": {
+    "time": 1655965302298.9236,
+    "uuid": "fd8c709c-2c55-42f5-8b35-ff72079b2797",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpB_2.FBX.meta": {
+    "time": 1655965659642.2825
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpB_2.FBX": {
+    "time": 1655965302312.9846,
+    "uuid": "16aa0b55-2b87-4294-8215-6c919cf4367a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpC.FBX.meta": {
+    "time": 1655965659734.7847
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpC.FBX": {
+    "time": 1655965302328.5518,
+    "uuid": "59dfc53d-9d96-4489-b336-82ff5640b8ba",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpC_2.FBX.meta": {
+    "time": 1655965659739.6416
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/@jumpC_2.FBX": {
+    "time": 1655965302350.7986,
+    "uuid": "ad363363-42de-4535-806f-f032baef9463",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/effects/effect-texture_move.effect.meta": {
+    "time": 1655965302966.0308
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/effects/effect-texture_move.effect": {
+    "time": 1655965302965.243,
+    "uuid": "9fb56b78-2787-46d9-981e-07532e4e334a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/materials/WeaponGlow.mtl.meta": {
+    "time": 1655965302977.7546
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/materials/WeaponGlow.mtl": {
+    "time": 1655965302976.8936,
+    "uuid": "6ca22abb-e837-4690-a548-7d3546252b53",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/cubemap_sky01.cubemap.meta": {
+    "time": 1655965302984.1208
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/cubemap_sky01.cubemap": {
+    "time": 1655965302980.7908,
+    "uuid": "beaf5ced-0687-4bd1-a3d2-972226c7957b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/images/PerlinNoiseAlpha.png.meta": {
+    "time": 1655965302974.7446
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/images/PerlinNoiseAlpha.png": {
+    "time": 1655965302974.0715,
+    "uuid": "2066cf0f-33b0-4d2d-b2a1-5a4a98f76ac9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/images/line.png.meta": {
+    "time": 1655965302967.9038
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/images/line.png": {
+    "time": 1655965302967.294,
+    "uuid": "84cb2553-65d4-41e1-bc8e-f5bce9c45b50",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/E3D-Syana.FBX.meta": {
+    "time": 1655965660882.513
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/actors/E3D-Syana.FBX": {
+    "time": 1655965302961.8313,
+    "uuid": "9dc579dc-db00-456f-9a84-e4ccdbf82e4d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/src.meta": {
+    "time": 1655965302993.9683
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/src": {
+    "time": 1655965355583.0803,
+    "uuid": "6f6f59f9-1a5e-4eed-a262-8d66332ef2da",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/src/AppStart_WeaponGlow.ts.meta": {
+    "time": 1655965302996.3213
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/src/AppStart_WeaponGlow.ts": {
+    "time": 1655966078082.3162,
+    "uuid": "1146e3d8-fa37-42e1-b538-55d15ee39168",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/src/FollowCamera.ts.meta": {
+    "time": 1655965302991.7788
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/src/FollowCamera.ts": {
+    "time": 1655966151798.6262,
+    "uuid": "8a6dda79-6e93-43a7-a19c-9ef44071109b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/src/PlayerCtrl.ts.meta": {
+    "time": 1655965302992.9153
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/src/PlayerCtrl.ts": {
+    "time": 1655966211209.418,
+    "uuid": "f67541b9-d122-4575-a923-e769f1c9bab3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01.meta": {
+    "time": 1655965759572.494
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0000.jpg.meta": {
+    "time": 1655916264116.5515
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0001.jpg.meta": {
+    "time": 1655916264121.3418
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0002.jpg.meta": {
+    "time": 1655916264130.8608
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0003.jpg.meta": {
+    "time": 1655916264132.8806
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0004.jpg.meta": {
+    "time": 1655916264139.12
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0005.jpg.meta": {
+    "time": 1655916264146.9512
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01": {
+    "time": 1598962855000,
+    "uuid": "a47bcdc5-b874-4f19-b20f-ace6c7910bab",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0000.jpg": {
+    "time": 1598962855000,
+    "uuid": "b67616c7-aba0-4b89-9917-ae8eb2e39d80",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0002.jpg": {
+    "time": 1598962855000,
+    "uuid": "897e99bc-174b-40d4-879c-0ce685ed5036",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0001.jpg": {
+    "time": 1598962855000,
+    "uuid": "aa1c32e9-5422-4c08-845e-448b4b9115f3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0004.jpg": {
+    "time": 1598962855000,
+    "uuid": "b9f06e4c-a787-4e50-ab8a-7a0e118837e6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0003.jpg": {
+    "time": 1598962855000,
+    "uuid": "563b6f18-fe9f-4860-95ce-ce09b3295565",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/skybox/Sky_01/Sky0005.jpg": {
+    "time": 1598962855000,
+    "uuid": "c1254332-fddc-4c5e-8706-a62ec9eea977",
+    "missing": false
+  }
+}

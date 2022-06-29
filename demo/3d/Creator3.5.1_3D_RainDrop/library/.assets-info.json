@@ -1,0 +1,218 @@
+{
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/raindrop.scene": {
+    "time": 1655713127743.4675,
+    "uuid": "750b24ee-081b-4f9b-a2bc-46e81f04005a",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/res": {
+    "time": 1655709151768.9465,
+    "uuid": "6125b5d2-5402-4ba1-abe2-12c02eebd0fb",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script": {
+    "time": 1655709151768.9465,
+    "uuid": "375c85c6-e053-4c48-baf7-e3a55e5fc434",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/res/raindrop.effect": {
+    "time": 1655709055388.439,
+    "uuid": "77f4c4d5-f34b-488c-a622-f170e186d7de",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/res/raindrop.mtl": {
+    "time": 1655709055463.6553,
+    "uuid": "a58aab85-351a-40d5-a229-a538b020ed3e",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script/PPBaseStage.ts": {
+    "time": 1655709055370.0615,
+    "uuid": "17a84c79-c7cb-4ca5-9fee-3d79a5254e0f",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script/PPMgr.ts": {
+    "time": 1655709055375.2444,
+    "uuid": "8a762b8e-d78f-46da-893e-b71f6d7c02cb",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script/PPRaindropStage.ts": {
+    "time": 1655713075965.5732,
+    "uuid": "a30f52b2-e1a1-4d60-bca3-58ca4c2532ab",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script/raindrop.ts": {
+    "time": 1655713117759.39,
+    "uuid": "66ec8896-0135-4027-b290-69dee19f95d0",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/res.meta": {
+    "time": 1655709055348.1477
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script.meta": {
+    "time": 1655709055368.4395
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script/PPBaseStage.ts.meta": {
+    "time": 1655709109078.8025
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script/PPMgr.ts.meta": {
+    "time": 1655709109080.5103
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script/PPRaindropStage.ts.meta": {
+    "time": 1655709109076.7632
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/script/raindrop.ts.meta": {
+    "time": 1655709109078.3867
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/res/raindrop.effect.meta": {
+    "time": 1655709109080.8425
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/raindrop.scene.meta": {
+    "time": 1655709109083.1113
+  },
+  "/Users/mu/Desktop/Creator3.3.2_3D_RainDrop/assets/res/raindrop.mtl.meta": {
+    "time": 1655709157630.665
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/raindrop.scene": {
+    "time": 1655720884583.7524,
+    "uuid": "750b24ee-081b-4f9b-a2bc-46e81f04005a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/res": {
+    "time": 1655709151768.9465,
+    "uuid": "6125b5d2-5402-4ba1-abe2-12c02eebd0fb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script": {
+    "time": 1655720059199.7546,
+    "uuid": "375c85c6-e053-4c48-baf7-e3a55e5fc434",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/res/raindrop.effect": {
+    "time": 1655713281384.9294,
+    "uuid": "77f4c4d5-f34b-488c-a622-f170e186d7de",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/res/raindrop.mtl": {
+    "time": 1655713281422.5823,
+    "uuid": "a58aab85-351a-40d5-a229-a538b020ed3e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script/PPBaseStage.ts": {
+    "time": 1655709055370.0615,
+    "uuid": "17a84c79-c7cb-4ca5-9fee-3d79a5254e0f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script/PPMgr.ts": {
+    "time": 1655720861471.4976,
+    "uuid": "8a762b8e-d78f-46da-893e-b71f6d7c02cb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script/PPRaindropStage.ts": {
+    "time": 1655713075965.5732,
+    "uuid": "a30f52b2-e1a1-4d60-bca3-58ca4c2532ab",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script/raindrop.ts": {
+    "time": 1655720883400.3252,
+    "uuid": "66ec8896-0135-4027-b290-69dee19f95d0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/res.meta": {
+    "time": 1655709055348.1477
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script.meta": {
+    "time": 1655709055368.4395
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script/PPBaseStage.ts.meta": {
+    "time": 1655713281414.4243
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script/PPMgr.ts.meta": {
+    "time": 1655713281417.1838
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/res/raindrop.effect.meta": {
+    "time": 1655713281420.3506
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script/PPRaindropStage.ts.meta": {
+    "time": 1655713281421.9998
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/script/raindrop.ts.meta": {
+    "time": 1655713281423.5063
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/res/raindrop.mtl.meta": {
+    "time": 1655713281448.3706
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.3.2_3D_RainDrop/assets/raindrop.scene.meta": {
+    "time": 1655713281502.6616
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/raindrop.scene": {
+    "time": 1655721492654.3428,
+    "uuid": "750b24ee-081b-4f9b-a2bc-46e81f04005a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/res": {
+    "time": 1655721195234.2612,
+    "uuid": "6125b5d2-5402-4ba1-abe2-12c02eebd0fb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script": {
+    "time": 1655721195236.51,
+    "uuid": "375c85c6-e053-4c48-baf7-e3a55e5fc434",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/res/raindrop.effect": {
+    "time": 1655721195233.7861,
+    "uuid": "77f4c4d5-f34b-488c-a622-f170e186d7de",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/res/raindrop.mtl": {
+    "time": 1655721195234.191,
+    "uuid": "a58aab85-351a-40d5-a229-a538b020ed3e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script/PPBaseStage.ts": {
+    "time": 1655721195234.8696,
+    "uuid": "17a84c79-c7cb-4ca5-9fee-3d79a5254e0f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script/PPMgr.ts": {
+    "time": 1655721491020.2622,
+    "uuid": "8a762b8e-d78f-46da-893e-b71f6d7c02cb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script/PPRaindropStage.ts": {
+    "time": 1655721195236.0134,
+    "uuid": "a30f52b2-e1a1-4d60-bca3-58ca4c2532ab",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script/raindrop.ts": {
+    "time": 1655721195236.4377,
+    "uuid": "66ec8896-0135-4027-b290-69dee19f95d0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/res.meta": {
+    "time": 1655721195233.506
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script.meta": {
+    "time": 1655721195234.5886
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script/PPBaseStage.ts.meta": {
+    "time": 1655721195235.173
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script/PPMgr.ts.meta": {
+    "time": 1655721195235.7988
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script/PPRaindropStage.ts.meta": {
+    "time": 1655721195236.2195
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/script/raindrop.ts.meta": {
+    "time": 1655721195236.6357
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/res/raindrop.effect.meta": {
+    "time": 1655721195233.9937
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/raindrop.scene.meta": {
+    "time": 1655721195233.2852
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_RainDrop/assets/res/raindrop.mtl.meta": {
+    "time": 1655721195234.3914
+  }
+}

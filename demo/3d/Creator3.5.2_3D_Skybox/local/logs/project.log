@@ -1,0 +1,970 @@
+2022-06-23T04:52:18.604Z - log: [Package] menu@1.0.0 enable
+2022-06-23T04:52:18.607Z - log: [Package] profile@1.0.0 enable
+2022-06-23T04:52:18.623Z - log: [Package] project@1.0.2 enable
+2022-06-23T04:52:18.630Z - log: [Package] messages@1.0.0 enable
+2022-06-23T04:52:18.636Z - log: [Package] program@1.0.0 enable
+2022-06-23T04:52:18.643Z - log: [Package] tester@1.0.0 enable
+2022-06-23T04:52:18.650Z - log: [Package] preferences@1.0.0 enable
+2022-06-23T04:52:19.476Z - log: Setup mods mgr.: 351.388ms
+2022-06-23T04:52:19.484Z - verbose: [Engine] QuickCompile engine (760ms)
+2022-06-23T04:52:19.488Z - log: [Package] engine@1.0.6 enable
+2022-06-23T04:52:20.399Z - log: [Package] programming@1.0.0 enable
+2022-06-23T04:52:20.692Z - log: [Package] device@1.0.1 enable
+2022-06-23T04:52:20.722Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-23T04:52:20.751Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-23T04:52:20.816Z - log: [Package] asset-db@1.0.0 enable
+2022-06-23T04:52:20.857Z - log: [Package] scene@1.0.0 enable
+2022-06-23T04:52:21.147Z - log: [Package] server@1.0.0 enable
+2022-06-23T04:52:21.147Z - warn: Server: Port 7456 is occupied
+2022-06-23T04:52:21.180Z - log: [Package] utils@1.0.0 enable
+2022-06-23T04:52:25.769Z - log: [Package] preview@1.0.1 enable
+2022-06-23T04:52:25.803Z - log: [Package] animator@1.0.0 enable
+2022-06-23T04:52:26.002Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T04:52:27.137Z - log: Profile changed: builder (log.level: 4)
+2022-06-23T04:52:27.146Z - log: [Package] builder@1.3.2 enable
+2022-06-23T04:52:27.179Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-23T04:52:27.212Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-23T04:52:27.235Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-23T04:52:27.266Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-23T04:52:27.310Z - log: [Package] about@1.0.0 enable
+2022-06-23T04:52:27.346Z - log: [Package] assets@1.0.0 enable
+2022-06-23T04:52:27.381Z - log: [Package] console@1.0.0 enable
+2022-06-23T04:52:27.715Z - log: [Package] extension@3.0.16 enable
+2022-06-23T04:52:27.751Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-23T04:52:27.791Z - log: [Package] inspector@1.0.0 enable
+2022-06-23T04:52:27.824Z - log: [Package] lightmap@1.0.4 enable
+2022-06-23T04:52:27.859Z - log: [Package] node-library@1.0.1 enable
+2022-06-23T04:52:27.885Z - log: [Package] package-asset@1.0.0 enable
+2022-06-23T04:52:27.921Z - log: [Package] process@1.0.0 enable
+2022-06-23T04:52:27.969Z - log: [Package] reference-image@1.0.0 enable
+2022-06-23T04:52:27.995Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-23T04:52:28.021Z - log: [Package] android@1.0.0 enable
+2022-06-23T04:52:28.052Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-23T04:52:28.083Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-23T04:52:28.112Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-23T04:52:28.140Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-23T04:52:28.166Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-23T04:52:29.826Z - log: [Package] ios@1.0.0 enable
+2022-06-23T04:52:29.852Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-23T04:52:29.876Z - log: [Package] link-sure@1.0.0 enable
+2022-06-23T04:52:29.902Z - log: [Package] linux@1.0.0 enable
+2022-06-23T04:52:29.930Z - log: [Package] mac@1.0.0 enable
+2022-06-23T04:52:30.108Z - log: [Package] native@1.0.0 enable
+2022-06-23T04:52:30.112Z - verbose: [AssetDB] Require engine code (3252ms)
+2022-06-23T04:52:30.139Z - log: [Package] ohos@1.0.0 enable
+2022-06-23T04:52:30.174Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-23T04:52:30.203Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-23T04:52:30.233Z - log: [Package] qtt@1.0.0 enable
+2022-06-23T04:52:30.269Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-23T04:52:30.313Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-23T04:52:30.353Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-23T04:52:30.395Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-23T04:52:30.422Z - log: [Package] windows@1.0.0 enable
+2022-06-23T04:52:30.527Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-23T04:52:31.058Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-23T04:52:31.197Z - log: [Package] importer@1.0.0 enable
+2022-06-23T04:52:31.582Z - log: [Im-plugin] Check im-plugin version.
+2022-06-23T04:52:31.601Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-23T04:52:32.418Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-23T04:52:32.891Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T04:52:45.185Z - verbose: [Scene] Require engine code (0ms)
+2022-06-23T04:52:45.199Z - verbose: [Scene] Startup engine (10ms)
+2022-06-23T04:52:45.287Z - log: [Scene] Cocos Creator v3.5.2
+2022-06-23T04:52:45.923Z - verbose: [Scene] Open engine (726ms)
+2022-06-23T04:52:45.923Z - verbose: [Scene] Configure engine (0ms)
+2022-06-23T04:52:45.489Z - info: [Scene] Forward render pipeline initialized.
+2022-06-23T04:57:43.412Z - warn: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。Error: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。
+    at logger (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:728:13)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:745:17)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+2022-06-23T04:57:43.414Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at rejector (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:732:15)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:750:13)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+2022-06-23T05:32:14.720Z - warn: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。Error: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。
+    at logger (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:728:13)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:745:17)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+2022-06-23T05:32:14.721Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at rejector (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:732:15)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:750:13)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+2022-06-23T05:32:33.696Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:33.701Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:33.735Z - warn: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。Error: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。
+    at logger (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:728:13)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:745:17)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+2022-06-23T05:32:33.735Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at rejector (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:732:15)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:750:13)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+2022-06-23T05:32:33.740Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/11/11ccf8e505b0c4c8d5abfecd873af0be2ad5525b.js 解析出模块 __unresolved_1。
+    at ExecutorSystem._throwUnresolved (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:145:15)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:94:21)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at async Executor.reload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/11/11ccf8e505b0c4c8d5abfecd873af0be2ad5525b.js 解析出模块 __unresolved_1。
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at async Executor.reload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:130:9)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+2022-06-23T05:32:34.477Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:34.480Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:38.879Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:38.881Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:38.943Z - warn: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。Error: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。
+    at logger (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:728:13)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:745:17)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+2022-06-23T05:32:38.943Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at rejector (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:732:15)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:750:13)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+2022-06-23T05:32:38.944Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/11/11ccf8e505b0c4c8d5abfecd873af0be2ad5525b.js 解析出模块 __unresolved_1。
+    at ExecutorSystem._throwUnresolved (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:145:15)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:94:21)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at async Executor.reload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/11/11ccf8e505b0c4c8d5abfecd873af0be2ad5525b.js 解析出模块 __unresolved_1。
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at async Executor.reload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:130:9)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+2022-06-23T05:32:39.104Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:39.105Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:42.842Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:42.844Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:42.886Z - warn: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。Error: [Scene] 你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。
+    at logger (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:728:13)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:745:17)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+2022-06-23T05:32:42.887Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at rejector (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:732:15)
+    at ExecutorSystem.resolve [as _detailResolve] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:750:13)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:86:14)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: Error: 以 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/src/AppStart_Skybox.ts 为起点找不到模块 "./hud/UI_Skybox_HUD"
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+2022-06-23T05:32:42.890Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/11/11ccf8e505b0c4c8d5abfecd873af0be2ad5525b.js 解析出模块 __unresolved_1。
+    at ExecutorSystem._throwUnresolved (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:145:15)
+    at ExecutorSystem._resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:94:21)
+    at SystemJS.resolve (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/editor-systemjs/index.js:28:23)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at async Executor.reload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:130:9)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} Error: 无法从 pack:///chunks/11/11ccf8e505b0c4c8d5abfecd873af0be2ad5525b.js 解析出模块 __unresolved_1。
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:355:37
+    at Array.map (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:353:41
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+    at async Object.execute (file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:8:7)
+    at async Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:208:13)
+    at async Executor.reload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:130:9)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5116)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3104)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:253:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/dist/executor/index.js:62:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:431:7
+    at async file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/temp/programming/packer-driver/targets/editor/chunks/7c/7c5545d0f1257a8181a07a5db294710fcae0d363.js:13:13
+2022-06-23T05:32:43.058Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIController.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:32:43.061Z - error: [Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.[Programming] 无法加载模块 file:///Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts ：Error: 在加载模块文件 /Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts 时发生错误：Error: ENOENT: no such file or directory, open '/Users/mu/Desktop/Creator3.5.2_3D_Skybox/assets/resources/qfw/base/UIMgr.ts'.  
+at Object.error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-06-23T05:33:02.154Z - warn: [Scene] Missing class: 88b0dhxjXhFKbl9VSWYWyMWError: [Scene] Missing class: 88b0dhxjXhFKbl9VSWYWyMW
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:87985:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200648:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200589:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200798:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200623:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200595:23)
+2022-06-23T05:33:02.162Z - error: [Scene] Script "88b0dhxjXhFKbl9VSWYWyMW" attached to "Canvas" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/skybox"
+Script UUID: "88b0d871-8d78-4529-b97d-5525985b2316"
+Class ID: "88b0dhxjXhFKbl9VSWYWyMW"
+Error: [Scene] Script "88b0dhxjXhFKbl9VSWYWyMW" attached to "Canvas" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/skybox"
+Script UUID: "88b0d871-8d78-4529-b97d-5525985b2316"
+Class ID: "88b0dhxjXhFKbl9VSWYWyMW"
+
+    at report (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-23T05:35:10.696Z - warn: Metrics: no valid info
+2022-06-23T05:39:11.134Z - log: [Package] menu@1.0.0 enable
+2022-06-23T05:39:11.137Z - log: [Package] profile@1.0.0 enable
+2022-06-23T05:39:11.152Z - log: [Package] project@1.0.2 enable
+2022-06-23T05:39:11.159Z - log: [Package] messages@1.0.0 enable
+2022-06-23T05:39:11.163Z - log: [Package] program@1.0.0 enable
+2022-06-23T05:39:11.168Z - log: [Package] tester@1.0.0 enable
+2022-06-23T05:39:11.175Z - log: [Package] preferences@1.0.0 enable
+2022-06-23T05:39:11.970Z - log: Setup mods mgr.: 358.625ms
+2022-06-23T05:39:11.979Z - verbose: [Engine] QuickCompile engine (733ms)
+2022-06-23T05:39:11.983Z - log: [Package] engine@1.0.6 enable
+2022-06-23T05:39:12.985Z - log: [Package] programming@1.0.0 enable
+2022-06-23T05:39:13.300Z - log: [Package] device@1.0.1 enable
+2022-06-23T05:39:13.330Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-23T05:39:13.353Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-23T05:39:13.430Z - log: [Package] asset-db@1.0.0 enable
+2022-06-23T05:39:13.484Z - log: [Package] scene@1.0.0 enable
+2022-06-23T05:39:13.740Z - log: [Package] server@1.0.0 enable
+2022-06-23T05:39:13.740Z - warn: Server: Port 7456 is occupied
+2022-06-23T05:39:13.773Z - log: [Package] utils@1.0.0 enable
+2022-06-23T05:39:19.605Z - log: [Package] preview@1.0.1 enable
+2022-06-23T05:39:19.644Z - log: [Package] animator@1.0.0 enable
+2022-06-23T05:39:19.841Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T05:39:20.883Z - log: [Package] builder@1.3.2 enable
+2022-06-23T05:39:20.918Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-23T05:39:20.950Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-23T05:39:20.973Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-23T05:39:20.996Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-23T05:39:21.031Z - log: [Package] about@1.0.0 enable
+2022-06-23T05:39:21.064Z - log: [Package] assets@1.0.0 enable
+2022-06-23T05:39:21.100Z - log: [Package] console@1.0.0 enable
+2022-06-23T05:39:21.333Z - log: [Package] extension@3.0.16 enable
+2022-06-23T05:39:21.371Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-23T05:39:21.425Z - log: [Package] inspector@1.0.0 enable
+2022-06-23T05:39:21.462Z - log: [Package] lightmap@1.0.4 enable
+2022-06-23T05:39:21.503Z - log: [Package] node-library@1.0.1 enable
+2022-06-23T05:39:21.538Z - log: [Package] package-asset@1.0.0 enable
+2022-06-23T05:39:21.591Z - log: [Package] process@1.0.0 enable
+2022-06-23T05:39:21.635Z - log: [Package] reference-image@1.0.0 enable
+2022-06-23T05:39:21.662Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-23T05:39:21.690Z - log: [Package] android@1.0.0 enable
+2022-06-23T05:39:21.721Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-23T05:39:21.747Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-23T05:39:21.775Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-23T05:39:21.804Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-23T05:39:21.828Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-23T05:39:23.464Z - log: [Package] ios@1.0.0 enable
+2022-06-23T05:39:23.491Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-23T05:39:23.537Z - log: [Package] link-sure@1.0.0 enable
+2022-06-23T05:39:23.610Z - log: [Package] linux@1.0.0 enable
+2022-06-23T05:39:23.662Z - log: [Package] mac@1.0.0 enable
+2022-06-23T05:39:23.836Z - log: [Package] native@1.0.0 enable
+2022-06-23T05:39:23.838Z - verbose: [AssetDB] Require engine code (3024ms)
+2022-06-23T05:39:23.860Z - log: [Package] ohos@1.0.0 enable
+2022-06-23T05:39:23.888Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-23T05:39:23.912Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-23T05:39:23.937Z - log: [Package] qtt@1.0.0 enable
+2022-06-23T05:39:23.963Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-23T05:39:24.004Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-23T05:39:24.061Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-23T05:39:24.121Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-23T05:39:24.148Z - log: [Package] windows@1.0.0 enable
+2022-06-23T05:39:24.172Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-23T05:39:24.633Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-23T05:39:24.737Z - log: [Package] importer@1.0.0 enable
+2022-06-23T05:39:25.136Z - log: [Im-plugin] Check im-plugin version.
+2022-06-23T05:39:25.151Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-23T05:39:25.859Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-23T05:39:26.258Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T05:39:35.470Z - verbose: [Scene] Require engine code (0ms)
+2022-06-23T05:39:35.472Z - verbose: [Scene] Startup engine (0ms)
+2022-06-23T05:39:35.527Z - log: [Scene] Cocos Creator v3.5.2
+2022-06-23T05:39:35.987Z - verbose: [Scene] Open engine (515ms)
+2022-06-23T05:39:35.988Z - verbose: [Scene] Configure engine (0ms)
+2022-06-23T05:39:35.681Z - info: [Scene] Forward render pipeline initialized.
+2022-06-23T05:41:22.053Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T05:47:06.475Z - log: /Users/mu/Desktop/qfw-master/client/assets/resources/common/skybox/cubemap_sky02.cubemap 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2022-06-23T05:47:06.476Z - log: /Users/mu/Desktop/qfw-master/client/assets/resources/common/skybox/cubemap_sky03.cubemap 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2022-06-23T05:47:06.482Z - log: /Users/mu/Desktop/qfw-master/client/assets/resources/common/skybox/cubemap_sky04.cubemap 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2022-06-23T05:47:06.483Z - log: /Users/mu/Desktop/qfw-master/client/assets/resources/common/skybox/cubemap_sky05.cubemap 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2022-06-23T05:47:06.485Z - log: /Users/mu/Desktop/qfw-master/client/assets/resources/common/skybox/cubemap_sky07.cubemap 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2022-06-23T05:47:06.488Z - log: /Users/mu/Desktop/qfw-master/client/assets/resources/common/skybox/cubemap_sky09.cubemap 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2022-06-23T05:47:06.489Z - log: /Users/mu/Desktop/qfw-master/client/assets/resources/common/skybox/cubemap_sky06.cubemap 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2022-06-23T05:47:06.489Z - log: /Users/mu/Desktop/qfw-master/client/assets/resources/common/skybox/cubemap_sky10.cubemap 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2022-06-23T05:47:06.494Z - log: /Users/mu/Desktop/qfw-master/client/assets/resources/common/skybox/cubemap_sky08.cubemap 资源 meta 文件已存在，跳过 meta 导入，如果需要请在偏好设置内开启
+2022-06-23T05:48:49.125Z - warn: Metrics: no valid info
+2022-06-23T05:48:56.714Z - log: [Package] menu@1.0.0 enable
+2022-06-23T05:48:56.718Z - log: [Package] profile@1.0.0 enable
+2022-06-23T05:48:56.730Z - log: [Package] project@1.0.2 enable
+2022-06-23T05:48:56.738Z - log: [Package] messages@1.0.0 enable
+2022-06-23T05:48:56.741Z - log: [Package] program@1.0.0 enable
+2022-06-23T05:48:56.748Z - log: [Package] tester@1.0.0 enable
+2022-06-23T05:48:56.755Z - log: [Package] preferences@1.0.0 enable
+2022-06-23T05:48:57.520Z - log: Setup mods mgr.: 339.825ms
+2022-06-23T05:48:57.536Z - verbose: [Engine] QuickCompile engine (718ms)
+2022-06-23T05:48:57.539Z - log: [Package] engine@1.0.6 enable
+2022-06-23T05:48:58.433Z - log: [Package] programming@1.0.0 enable
+2022-06-23T05:48:58.741Z - log: [Package] device@1.0.1 enable
+2022-06-23T05:48:58.772Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-23T05:48:58.803Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-23T05:48:58.876Z - log: [Package] asset-db@1.0.0 enable
+2022-06-23T05:48:58.936Z - log: [Package] scene@1.0.0 enable
+2022-06-23T05:48:59.160Z - log: [Package] server@1.0.0 enable
+2022-06-23T05:48:59.164Z - warn: Server: Port 7456 is occupied
+2022-06-23T05:48:59.241Z - log: [Package] utils@1.0.0 enable
+2022-06-23T05:49:03.948Z - log: [Package] preview@1.0.1 enable
+2022-06-23T05:49:04.005Z - log: [Package] animator@1.0.0 enable
+2022-06-23T05:49:04.136Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T05:49:05.243Z - log: [Package] builder@1.3.2 enable
+2022-06-23T05:49:05.280Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-23T05:49:05.327Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-23T05:49:05.351Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-23T05:49:05.375Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-23T05:49:05.410Z - log: [Package] about@1.0.0 enable
+2022-06-23T05:49:05.446Z - log: [Package] assets@1.0.0 enable
+2022-06-23T05:49:05.488Z - log: [Package] console@1.0.0 enable
+2022-06-23T05:49:05.737Z - log: [Package] extension@3.0.16 enable
+2022-06-23T05:49:05.803Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-23T05:49:05.856Z - log: [Package] inspector@1.0.0 enable
+2022-06-23T05:49:05.893Z - log: [Package] lightmap@1.0.4 enable
+2022-06-23T05:49:05.931Z - log: [Package] node-library@1.0.1 enable
+2022-06-23T05:49:05.964Z - log: [Package] package-asset@1.0.0 enable
+2022-06-23T05:49:06.027Z - log: [Package] process@1.0.0 enable
+2022-06-23T05:49:06.072Z - log: [Package] reference-image@1.0.0 enable
+2022-06-23T05:49:06.105Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-23T05:49:06.152Z - log: [Package] android@1.0.0 enable
+2022-06-23T05:49:06.186Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-23T05:49:06.213Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-23T05:49:06.238Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-23T05:49:06.275Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-23T05:49:06.304Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-23T05:49:07.719Z - log: [Package] ios@1.0.0 enable
+2022-06-23T05:49:07.748Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-23T05:49:07.772Z - log: [Package] link-sure@1.0.0 enable
+2022-06-23T05:49:07.799Z - log: [Package] linux@1.0.0 enable
+2022-06-23T05:49:07.826Z - log: [Package] mac@1.0.0 enable
+2022-06-23T05:49:07.967Z - log: [Package] native@1.0.0 enable
+2022-06-23T05:49:07.991Z - log: [Package] ohos@1.0.0 enable
+2022-06-23T05:49:08.017Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-23T05:49:08.042Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-23T05:49:08.069Z - log: [Package] qtt@1.0.0 enable
+2022-06-23T05:49:08.097Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-23T05:49:08.145Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-23T05:49:08.198Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-23T05:49:08.309Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-23T05:49:08.335Z - verbose: [AssetDB] Require engine code (3280ms)
+2022-06-23T05:49:08.337Z - log: [Package] windows@1.0.0 enable
+2022-06-23T05:49:08.376Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-23T05:49:08.798Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-23T05:49:08.972Z - log: [Package] importer@1.0.0 enable
+2022-06-23T05:49:09.429Z - log: [Im-plugin] Check im-plugin version.
+2022-06-23T05:49:09.451Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-23T05:49:10.576Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-23T05:49:11.092Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T05:49:17.427Z - verbose: [Scene] Require engine code (1ms)
+2022-06-23T05:49:17.431Z - verbose: [Scene] Startup engine (1ms)
+2022-06-23T05:49:17.489Z - log: [Scene] Cocos Creator v3.5.2
+2022-06-23T05:49:18.104Z - verbose: [Scene] Open engine (669ms)
+2022-06-23T05:49:18.104Z - verbose: [Scene] Configure engine (0ms)
+2022-06-23T05:49:17.673Z - info: [Scene] Forward render pipeline initialized.
+2022-06-23T05:56:51.977Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.977Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.977Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.977Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.978Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.978Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.978Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.979Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.979Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.980Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.980Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.980Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.980Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.980Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.980Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.981Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.981Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.981Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.982Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.983Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.983Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.983Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.983Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.983Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.984Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.984Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.984Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.985Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.985Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:51.985Z - log: [Scene] 00 -1 0
+2022-06-23T05:56:52.208Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.221Z - log: [Scene] 033554432 66 1665091208
+2022-06-23T05:56:52.222Z - log: [Scene] 01073741824 66 2140785694
+2022-06-23T05:56:52.222Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.223Z - log: [Scene] 033554432 66 1419411547
+2022-06-23T05:56:52.224Z - log: [Scene] 01073741824 66 3337336320
+2022-06-23T05:56:52.224Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.225Z - log: [Scene] 033554432 66 3054901129
+2022-06-23T05:56:52.226Z - log: [Scene] 01073741824 66 2826386064
+2022-06-23T05:56:52.226Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.227Z - log: [Scene] 033554432 66 1784567266
+2022-06-23T05:56:52.227Z - log: [Scene] 01073741824 66 1797117278
+2022-06-23T05:56:52.228Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.229Z - log: [Scene] 033554432 66 2218791061
+2022-06-23T05:56:52.229Z - log: [Scene] 01073741824 66 1257377250
+2022-06-23T05:56:52.230Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.231Z - log: [Scene] 033554432 66 2965534729
+2022-06-23T05:56:52.231Z - log: [Scene] 01073741824 66 3340214552
+2022-06-23T05:56:52.231Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.234Z - log: [Scene] 033554432 66 890199129
+2022-06-23T05:56:52.235Z - log: [Scene] 01073741824 66 2380394894
+2022-06-23T05:56:52.243Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.244Z - log: [Scene] 033554432 66 2146763071
+2022-06-23T05:56:52.245Z - log: [Scene] 01073741824 66 2141375440
+2022-06-23T05:56:52.245Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.246Z - log: [Scene] 033554432 66 1809790003
+2022-06-23T05:56:52.247Z - log: [Scene] 01073741824 66 812741853
+2022-06-23T05:56:52.247Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:56:52.250Z - log: [Scene] 033554432 66 1336126466
+2022-06-23T05:56:52.251Z - log: [Scene] 01073741824 66 4031794255
+2022-06-23T05:57:10.531Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.532Z - log: [Scene] 033554432 66 1665091208
+2022-06-23T05:57:10.532Z - log: [Scene] 033554432 66 2140785694
+2022-06-23T05:57:10.532Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.532Z - log: [Scene] 033554432 66 1419411547
+2022-06-23T05:57:10.533Z - log: [Scene] 033554432 66 3337336320
+2022-06-23T05:57:10.533Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.533Z - log: [Scene] 033554432 66 3054901129
+2022-06-23T05:57:10.533Z - log: [Scene] 033554432 66 2826386064
+2022-06-23T05:57:10.533Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.533Z - log: [Scene] 033554432 66 1784567266
+2022-06-23T05:57:10.533Z - log: [Scene] 033554432 66 1797117278
+2022-06-23T05:57:10.533Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.534Z - log: [Scene] 033554432 66 2218791061
+2022-06-23T05:57:10.534Z - log: [Scene] 033554432 66 1257377250
+2022-06-23T05:57:10.534Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.534Z - log: [Scene] 033554432 66 2965534729
+2022-06-23T05:57:10.534Z - log: [Scene] 033554432 66 3340214552
+2022-06-23T05:57:10.534Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.534Z - log: [Scene] 033554432 66 890199129
+2022-06-23T05:57:10.535Z - log: [Scene] 033554432 66 2380394894
+2022-06-23T05:57:10.535Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.535Z - log: [Scene] 033554432 66 2146763071
+2022-06-23T05:57:10.535Z - log: [Scene] 033554432 66 2141375440
+2022-06-23T05:57:10.535Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.535Z - log: [Scene] 033554432 66 1809790003
+2022-06-23T05:57:10.535Z - log: [Scene] 033554432 66 812741853
+2022-06-23T05:57:10.535Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:57:10.535Z - log: [Scene] 033554432 66 1336126466
+2022-06-23T05:57:10.536Z - log: [Scene] 033554432 66 4031794255
+2022-06-23T05:59:35.437Z - log: [Scene] 033554432 66 2316635418
+2022-06-23T05:59:35.438Z - log: [Scene] 033554432 66 3300545123
+2022-06-23T05:59:35.438Z - log: [Scene] 033554432 66 2473247307
+2022-06-23T05:59:35.439Z - log: [Scene] 033554432 66 758313129
+2022-06-23T05:59:35.439Z - log: [Scene] 033554432 66 3952131144
+2022-06-23T05:59:35.439Z - log: [Scene] 033554432 66 366507666
+2022-06-23T05:59:35.483Z - log: [Scene] 033554432 66 3454089243
+2022-06-23T05:59:35.484Z - log: [Scene] 033554432 66 3202344721
+2022-06-23T05:59:35.484Z - log: [Scene] 033554432 66 2977330698
+2022-06-23T05:59:35.562Z - log: [Scene] 033554432 66 1665091208
+2022-06-23T05:59:35.562Z - log: [Scene] 033554432 66 2316635418
+2022-06-23T05:59:35.562Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.562Z - log: [Scene] 033554432 66 1419411547
+2022-06-23T05:59:35.563Z - log: [Scene] 033554432 66 3300545123
+2022-06-23T05:59:35.563Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.563Z - log: [Scene] 033554432 66 3054901129
+2022-06-23T05:59:35.563Z - log: [Scene] 033554432 66 2473247307
+2022-06-23T05:59:35.564Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.565Z - log: [Scene] 033554432 66 1784567266
+2022-06-23T05:59:35.565Z - log: [Scene] 033554432 66 758313129
+2022-06-23T05:59:35.565Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.567Z - log: [Scene] 033554432 66 2218791061
+2022-06-23T05:59:35.567Z - log: [Scene] 033554432 66 3952131144
+2022-06-23T05:59:35.567Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.569Z - log: [Scene] 033554432 66 2965534729
+2022-06-23T05:59:35.570Z - log: [Scene] 033554432 66 366507666
+2022-06-23T05:59:35.573Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.575Z - log: [Scene] 033554432 66 890199129
+2022-06-23T05:59:35.575Z - log: [Scene] 033554432 66 3454089243
+2022-06-23T05:59:35.575Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.575Z - log: [Scene] 033554432 66 2146763071
+2022-06-23T05:59:35.575Z - log: [Scene] 033554432 66 3202344721
+2022-06-23T05:59:35.575Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.575Z - log: [Scene] 033554432 66 1809790003
+2022-06-23T05:59:35.575Z - log: [Scene] 033554432 66 2977330698
+2022-06-23T05:59:35.575Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.576Z - log: [Scene] 033554432 66 1336126466
+2022-06-23T05:59:35.576Z - log: [Scene] 033554432 66 4031794255
+2022-06-23T05:59:35.576Z - log: [Scene] 033554432 66 3968142997
+2022-06-23T05:59:35.715Z - warn: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOVError: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOV
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:87985:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200648:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200589:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200798:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200623:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200595:23)
+2022-06-23T05:59:35.722Z - warn: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOVError: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOV
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:87985:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200648:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200589:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200798:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200623:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200595:23)
+2022-06-23T05:59:35.723Z - warn: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOVError: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOV
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:87985:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200648:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200589:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200798:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200623:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200595:23)
+2022-06-23T05:59:35.724Z - warn: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOVError: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOV
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:87985:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200648:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200589:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200798:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200623:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200595:23)
+2022-06-23T05:59:35.724Z - warn: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOVError: [Scene] Missing class: 59efeALQDZHU65gNyEHtjOV
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:87985:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200648:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200589:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200798:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200623:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200595:23)
+2022-06-23T05:59:35.725Z - warn: [Scene] Missing class: 88b0dhxjXhFKbl9VSWYWyMWError: [Scene] Missing class: 88b0dhxjXhFKbl9VSWYWyMW
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:87985:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200648:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200589:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200798:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200623:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:200595:23)
+2022-06-23T05:59:35.731Z - error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Sphere" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Sphere"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+Error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Sphere" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Sphere"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+
+    at report (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-23T05:59:35.737Z - error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Sphere-001" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Sphere-001"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+Error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Sphere-001" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Sphere-001"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+
+    at report (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-23T05:59:35.738Z - error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Node" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Node"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+Error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Node" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Node"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+
+    at report (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-23T05:59:35.738Z - error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Cone" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Cone"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+Error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Cone" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Cone"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+
+    at report (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-23T05:59:35.739Z - error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Capsule" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Capsule"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+Error: [Scene] Script "59efeALQDZHU65gNyEHtjOV" attached to "Capsule" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Capsule"
+Asset url: "db://assets/skybox"
+Script UUID: "59efe00b-4036-4753-ae60-372107b63395"
+Class ID: "59efeALQDZHU65gNyEHtjOV"
+
+    at report (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-23T05:59:35.740Z - error: [Scene] Script "88b0dhxjXhFKbl9VSWYWyMW" attached to "Canvas" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/skybox"
+Script UUID: "88b0d871-8d78-4529-b97d-5525985b2316"
+Class ID: "88b0dhxjXhFKbl9VSWYWyMW"
+Error: [Scene] Script "88b0dhxjXhFKbl9VSWYWyMW" attached to "Canvas" in scene "skybox" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/skybox"
+Script UUID: "88b0d871-8d78-4529-b97d-5525985b2316"
+Class ID: "88b0dhxjXhFKbl9VSWYWyMW"
+
+    at report (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-23T06:01:00.919Z - warn: Metrics: no valid info
+2022-06-23T06:05:06.738Z - log: [Package] menu@1.0.0 enable
+2022-06-23T06:05:06.741Z - log: [Package] profile@1.0.0 enable
+2022-06-23T06:05:06.758Z - log: [Package] project@1.0.2 enable
+2022-06-23T06:05:06.766Z - log: [Package] messages@1.0.0 enable
+2022-06-23T06:05:06.770Z - log: [Package] program@1.0.0 enable
+2022-06-23T06:05:06.778Z - log: [Package] tester@1.0.0 enable
+2022-06-23T06:05:06.785Z - log: [Package] preferences@1.0.0 enable
+2022-06-23T06:05:07.573Z - log: Setup mods mgr.: 337.497ms
+2022-06-23T06:05:07.581Z - verbose: [Engine] QuickCompile engine (722ms)
+2022-06-23T06:05:07.585Z - log: [Package] engine@1.0.6 enable
+2022-06-23T06:05:08.452Z - log: [Package] programming@1.0.0 enable
+2022-06-23T06:05:08.763Z - log: [Package] device@1.0.1 enable
+2022-06-23T06:05:08.796Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-23T06:05:08.819Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-23T06:05:08.893Z - log: [Package] asset-db@1.0.0 enable
+2022-06-23T06:05:08.936Z - log: [Package] scene@1.0.0 enable
+2022-06-23T06:05:09.280Z - log: [Package] server@1.0.0 enable
+2022-06-23T06:05:09.281Z - warn: Server: Port 7456 is occupied
+2022-06-23T06:05:09.323Z - log: [Package] utils@1.0.0 enable
+2022-06-23T06:05:14.319Z - log: [Package] preview@1.0.1 enable
+2022-06-23T06:05:14.350Z - log: [Package] animator@1.0.0 enable
+2022-06-23T06:05:14.590Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T06:05:15.563Z - log: [Package] builder@1.3.2 enable
+2022-06-23T06:05:15.598Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-23T06:05:15.634Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-23T06:05:15.657Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-23T06:05:15.684Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-23T06:05:15.718Z - log: [Package] about@1.0.0 enable
+2022-06-23T06:05:15.751Z - log: [Package] assets@1.0.0 enable
+2022-06-23T06:05:15.785Z - log: [Package] console@1.0.0 enable
+2022-06-23T06:05:16.107Z - log: [Package] extension@3.0.16 enable
+2022-06-23T06:05:16.188Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-23T06:05:16.227Z - log: [Package] inspector@1.0.0 enable
+2022-06-23T06:05:16.266Z - log: [Package] lightmap@1.0.4 enable
+2022-06-23T06:05:16.304Z - log: [Package] node-library@1.0.1 enable
+2022-06-23T06:05:16.329Z - log: [Package] package-asset@1.0.0 enable
+2022-06-23T06:05:16.364Z - log: [Package] process@1.0.0 enable
+2022-06-23T06:05:16.403Z - log: [Package] reference-image@1.0.0 enable
+2022-06-23T06:05:16.433Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-23T06:05:16.463Z - log: [Package] android@1.0.0 enable
+2022-06-23T06:05:16.492Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-23T06:05:16.518Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-23T06:05:16.544Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-23T06:05:16.569Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-23T06:05:16.593Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-23T06:05:18.137Z - log: [Package] ios@1.0.0 enable
+2022-06-23T06:05:18.166Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-23T06:05:18.192Z - log: [Package] link-sure@1.0.0 enable
+2022-06-23T06:05:18.217Z - log: [Package] linux@1.0.0 enable
+2022-06-23T06:05:18.244Z - log: [Package] mac@1.0.0 enable
+2022-06-23T06:05:18.385Z - log: [Package] native@1.0.0 enable
+2022-06-23T06:05:18.421Z - log: [Package] ohos@1.0.0 enable
+2022-06-23T06:05:18.427Z - verbose: [AssetDB] Require engine code (3093ms)
+2022-06-23T06:05:18.453Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-23T06:05:18.495Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-23T06:05:18.601Z - log: [Package] qtt@1.0.0 enable
+2022-06-23T06:05:18.661Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-23T06:05:18.702Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-23T06:05:18.743Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-23T06:05:18.785Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-23T06:05:18.817Z - log: [Package] windows@1.0.0 enable
+2022-06-23T06:05:18.843Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-23T06:05:19.236Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-23T06:05:19.277Z - log: [Package] importer@1.0.0 enable
+2022-06-23T06:05:19.801Z - log: [Im-plugin] Check im-plugin version.
+2022-06-23T06:05:19.819Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-23T06:05:21.116Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T06:05:21.556Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-23T06:05:27.978Z - verbose: [Scene] Require engine code (1ms)
+2022-06-23T06:05:28.084Z - verbose: [Scene] Startup engine (104ms)
+2022-06-23T06:05:28.158Z - log: [Scene] Cocos Creator v3.5.2
+2022-06-23T06:05:28.583Z - verbose: [Scene] Open engine (499ms)
+2022-06-23T06:05:28.583Z - verbose: [Scene] Configure engine (0ms)
+2022-06-23T06:05:28.267Z - info: [Scene] Forward render pipeline initialized.
+2022-06-23T06:07:22.980Z - warn: Metrics: no valid info

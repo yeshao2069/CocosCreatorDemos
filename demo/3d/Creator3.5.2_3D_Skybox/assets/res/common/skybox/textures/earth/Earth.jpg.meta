@@ -1,0 +1,42 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "8c9ee2c1-3df8-4ddf-a7de-74835172b9b9",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "8c9ee2c1-3df8-4ddf-a7de-74835172b9b9@6c48a",
+      "displayName": "Earth",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8c9ee2c1-3df8-4ddf-a7de-74835172b9b9"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "8c9ee2c1-3df8-4ddf-a7de-74835172b9b9@6c48a",
+    "hasAlpha": false,
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

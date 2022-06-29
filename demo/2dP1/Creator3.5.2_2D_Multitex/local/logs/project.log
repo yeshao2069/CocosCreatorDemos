@@ -1,0 +1,613 @@
+2022-06-22T06:06:59.320Z - log: [Package] menu@1.0.0 enable
+2022-06-22T06:06:59.323Z - log: [Package] profile@1.0.0 enable
+2022-06-22T06:06:59.335Z - log: [Package] project@1.0.2 enable
+2022-06-22T06:06:59.342Z - log: [Package] messages@1.0.0 enable
+2022-06-22T06:06:59.345Z - log: [Package] program@1.0.0 enable
+2022-06-22T06:06:59.352Z - log: [Package] tester@1.0.0 enable
+2022-06-22T06:06:59.358Z - log: [Package] preferences@1.0.0 enable
+2022-06-22T06:07:00.195Z - log: Setup mods mgr.: 348.672ms
+2022-06-22T06:07:00.210Z - verbose: [Engine] QuickCompile engine (781ms)
+2022-06-22T06:07:00.213Z - log: [Package] engine@1.0.6 enable
+2022-06-22T06:07:01.135Z - log: [Package] programming@1.0.0 enable
+2022-06-22T06:07:01.439Z - log: [Package] device@1.0.1 enable
+2022-06-22T06:07:01.468Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-22T06:07:01.506Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-22T06:07:01.572Z - log: [Package] asset-db@1.0.0 enable
+2022-06-22T06:07:01.614Z - log: [Package] scene@1.0.0 enable
+2022-06-22T06:07:01.820Z - log: [Package] server@1.0.0 enable
+2022-06-22T06:07:01.880Z - log: [Package] utils@1.0.0 enable
+2022-06-22T06:07:06.864Z - log: [Package] preview@1.0.1 enable
+2022-06-22T06:07:06.898Z - log: [Package] animator@1.0.0 enable
+2022-06-22T06:07:06.998Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T06:07:08.020Z - log: [Package] builder@1.3.2 enable
+2022-06-22T06:07:08.056Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-22T06:07:08.096Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-22T06:07:08.128Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-22T06:07:08.153Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-22T06:07:08.183Z - log: [Package] about@1.0.0 enable
+2022-06-22T06:07:08.217Z - log: [Package] assets@1.0.0 enable
+2022-06-22T06:07:08.253Z - log: [Package] console@1.0.0 enable
+2022-06-22T06:07:08.503Z - log: [Package] extension@3.0.16 enable
+2022-06-22T06:07:08.580Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-22T06:07:08.645Z - log: [Package] inspector@1.0.0 enable
+2022-06-22T06:07:08.700Z - log: [Package] lightmap@1.0.4 enable
+2022-06-22T06:07:08.747Z - log: [Package] node-library@1.0.1 enable
+2022-06-22T06:07:08.774Z - log: [Package] package-asset@1.0.0 enable
+2022-06-22T06:07:08.813Z - log: [Package] process@1.0.0 enable
+2022-06-22T06:07:08.846Z - log: [Package] reference-image@1.0.0 enable
+2022-06-22T06:07:08.869Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-22T06:07:08.899Z - log: [Package] android@1.0.0 enable
+2022-06-22T06:07:08.930Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-22T06:07:08.963Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-22T06:07:08.989Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-22T06:07:09.015Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-22T06:07:09.040Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-22T06:07:10.357Z - log: [Package] ios@1.0.0 enable
+2022-06-22T06:07:10.386Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-22T06:07:10.411Z - log: [Package] link-sure@1.0.0 enable
+2022-06-22T06:07:10.439Z - log: [Package] linux@1.0.0 enable
+2022-06-22T06:07:10.467Z - log: [Package] mac@1.0.0 enable
+2022-06-22T06:07:10.607Z - log: [Package] native@1.0.0 enable
+2022-06-22T06:07:10.614Z - verbose: [AssetDB] Require engine code (2854ms)
+2022-06-22T06:07:10.638Z - log: [Package] ohos@1.0.0 enable
+2022-06-22T06:07:10.769Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-22T06:07:10.798Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-22T06:07:10.826Z - log: [Package] qtt@1.0.0 enable
+2022-06-22T06:07:10.856Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-22T06:07:10.900Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-22T06:07:10.964Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-22T06:07:11.019Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-22T06:07:11.045Z - log: [Package] windows@1.0.0 enable
+2022-06-22T06:07:11.074Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-22T06:07:11.485Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-22T06:07:11.528Z - log: [Package] importer@1.0.0 enable
+2022-06-22T06:07:12.211Z - log: [Im-plugin] Check im-plugin version.
+2022-06-22T06:07:12.230Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-22T06:07:13.106Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-22T06:07:14.626Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T06:07:32.329Z - verbose: [Scene] Require engine code (0ms)
+2022-06-22T06:07:32.331Z - verbose: [Scene] Startup engine (1ms)
+2022-06-22T06:07:32.366Z - log: [Scene] Cocos Creator v3.5.1
+2022-06-22T06:07:32.853Z - verbose: [Scene] Open engine (522ms)
+2022-06-22T06:07:32.854Z - verbose: [Scene] Configure engine (0ms)
+2022-06-22T06:07:32.567Z - info: [Scene] Forward render pipeline initialized.
+2022-06-22T06:10:37.907Z - error: [Preview]Uncaught TypeError: frame.getGFXTexture is not a function in http://localhost:7456/scripting/x/chunks/ec/ec4ea794280db33afd91d6fb8961f1e0075d316f.js
+2022-06-22T06:12:52.658Z - error: [Preview]Uncaught TypeError: frame.getGFXSampler is not a function in http://localhost:7456/scripting/x/chunks/e3/e3cd71c29c42ac3a681ed76f86742bab1d886e04.js
+2022-06-22T06:17:16.727Z - error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'getGFXSampler') in http://localhost:7456/scripting/x/chunks/5e/5e3b22410ddd91baf9bac1f88462eda10acfad53.js
+2022-06-22T06:18:49.908Z - error: [Preview]Uncaught TypeError: frame.getGFXSampler is not a function in http://localhost:7456/scripting/x/chunks/e3/e3cd71c29c42ac3a681ed76f86742bab1d886e04.js
+2022-06-22T06:19:03.041Z - error: [Preview]Uncaught TypeError: frame.getGFXSampler is not a function in http://localhost:7456/scripting/x/chunks/e3/e3cd71c29c42ac3a681ed76f86742bab1d886e04.js
+2022-06-22T06:20:59.586Z - error: [Preview]Uncaught TypeError: frame.getGFXSampler is not a function in http://localhost:7456/scripting/x/chunks/2f/2fa690ba474b7a9f7d6dd096c04792589efbfe48.js
+2022-06-22T06:21:00.749Z - error: [Preview]Uncaught TypeError: frame.getGFXSampler is not a function in http://localhost:7456/scripting/x/chunks/2f/2fa690ba474b7a9f7d6dd096c04792589efbfe48.js
+2022-06-22T06:23:33.837Z - error: [Preview]Uncaught TypeError: frame.getGFXSampler is not a function in http://localhost:7456/scripting/x/chunks/ac/ace9309067e75186851b3bae4c9861a3257e2b2c.js
+2022-06-22T06:23:57.221Z - error: [Preview]Uncaught TypeError: frame.getGFXSampler is not a function in http://localhost:7456/scripting/x/chunks/ac/ace9309067e75186851b3bae4c9861a3257e2b2c.js
+2022-06-22T06:24:27.710Z - error: [Preview]Uncaught TypeError: frame.getGFXSampler is not a function in http://localhost:7456/scripting/x/chunks/ac/ace9309067e75186851b3bae4c9861a3257e2b2c.js
+2022-06-22T06:29:33.193Z - error: [Preview]Uncaught TypeError: assembler.fillBuffers is not a function in http://localhost:7456/scripting/x/chunks/89/898ccecda1ed6e68bef89c47fe95752fc242ba71.js
+2022-06-22T06:54:14.362Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:00:37.833Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:02:26.297Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:02:26.522Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:02:27.690Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:02:42.201Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:02:47.103Z - warn: [Scene] Missing class: cbf06QGTzVEsYfBglaoaiNDError: [Scene] Missing class: cbf06QGTzVEsYfBglaoaiND
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:02:47.113Z - error: [Scene] Script "cbf06QGTzVEsYfBglaoaiND" attached to "Canvas" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Script UUID: "cbf06406-4f35-44b1-87c1-8256a86a2343"
+Class ID: "cbf06QGTzVEsYfBglaoaiND"
+Error: [Scene] Script "cbf06QGTzVEsYfBglaoaiND" attached to "Canvas" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Script UUID: "cbf06406-4f35-44b1-87c1-8256a86a2343"
+Class ID: "cbf06QGTzVEsYfBglaoaiND"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:03:58.386Z - warn: [Scene] Missing class: cbf06QGTzVEsYfBglaoaiNDError: [Scene] Missing class: cbf06QGTzVEsYfBglaoaiND
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:03:58.389Z - error: [Scene] Script "cbf06QGTzVEsYfBglaoaiND" attached to "Canvas" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Script UUID: "cbf06406-4f35-44b1-87c1-8256a86a2343"
+Class ID: "cbf06QGTzVEsYfBglaoaiND"
+Error: [Scene] Script "cbf06QGTzVEsYfBglaoaiND" attached to "Canvas" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Script UUID: "cbf06406-4f35-44b1-87c1-8256a86a2343"
+Class ID: "cbf06QGTzVEsYfBglaoaiND"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:17:02.209Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:17:03.610Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:17:57.210Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:17:59.327Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:24:40.180Z - error: [Asset DB] /Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/library/c4/c4aa2b8a-1bd5-436a-a620-5ecdc23502d1.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/library/c4/c4aa2b8a-1bd5-436a-a620-5ecdc23502d1.json'Error: /Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/library/c4/c4aa2b8a-1bd5-436a-a620-5ecdc23502d1.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/library/c4/c4aa2b8a-1bd5-436a-a620-5ecdc23502d1.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2115)
+2022-06-22T07:24:45.326Z - error: [Preview]Uncaught TypeError: frame.getGFXTexture is not a function in http://localhost:7456/scripting/x/chunks/ec/ec4ea794280db33afd91d6fb8961f1e0075d316f.js
+2022-06-22T07:24:49.831Z - error: [Preview]Uncaught TypeError: frame.getGFXTexture is not a function in http://localhost:7456/scripting/x/chunks/ec/ec4ea794280db33afd91d6fb8961f1e0075d316f.js
+2022-06-22T07:27:33.075Z - warn: Metrics: no valid info
+2022-06-22T07:27:33.106Z - error: Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: Invalid guestInstanceId: 6
+    at getGuestForWebContents (electron/js2c/browser_init.js:181:6307)
+    at electron/js2c/browser_init.js:181:5372
+    at electron/js2c/browser_init.js:181:1637
+    at electron/js2c/browser_init.js:197:579
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9782)
+    at Object.emit (events.js:315:20)
+2022-06-22T07:28:43.239Z - log: [Package] menu@1.0.0 enable
+2022-06-22T07:28:43.241Z - log: [Package] profile@1.0.0 enable
+2022-06-22T07:28:43.255Z - log: [Package] project@1.0.2 enable
+2022-06-22T07:28:43.261Z - log: [Package] messages@1.0.0 enable
+2022-06-22T07:28:43.266Z - log: [Package] program@1.0.0 enable
+2022-06-22T07:28:43.273Z - log: [Package] tester@1.0.0 enable
+2022-06-22T07:28:43.279Z - log: [Package] preferences@1.0.0 enable
+2022-06-22T07:28:44.094Z - log: Setup mods mgr.: 333.792ms
+2022-06-22T07:28:44.111Z - verbose: [Engine] QuickCompile engine (760ms)
+2022-06-22T07:28:44.114Z - log: [Package] engine@1.0.6 enable
+2022-06-22T07:28:45.029Z - log: [Package] programming@1.0.0 enable
+2022-06-22T07:28:45.376Z - log: [Package] device@1.0.1 enable
+2022-06-22T07:28:45.407Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-22T07:28:45.433Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-22T07:28:45.508Z - log: [Package] asset-db@1.0.0 enable
+2022-06-22T07:28:45.553Z - log: [Package] scene@1.0.0 enable
+2022-06-22T07:28:45.825Z - log: [Package] server@1.0.0 enable
+2022-06-22T07:28:45.865Z - log: [Package] utils@1.0.0 enable
+2022-06-22T07:28:51.532Z - log: [Package] preview@1.0.1 enable
+2022-06-22T07:28:51.642Z - log: [Package] animator@1.0.0 enable
+2022-06-22T07:28:51.755Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:28:52.855Z - log: [Package] builder@1.3.2 enable
+2022-06-22T07:28:52.890Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-22T07:28:52.923Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-22T07:28:52.946Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-22T07:28:52.969Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-22T07:28:53.010Z - log: [Package] about@1.0.0 enable
+2022-06-22T07:28:53.124Z - log: [Package] assets@1.0.0 enable
+2022-06-22T07:28:53.163Z - log: [Package] console@1.0.0 enable
+2022-06-22T07:28:53.519Z - log: [Package] extension@3.0.16 enable
+2022-06-22T07:28:53.557Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-22T07:28:53.592Z - log: [Package] inspector@1.0.0 enable
+2022-06-22T07:28:53.636Z - log: [Package] lightmap@1.0.4 enable
+2022-06-22T07:28:53.680Z - log: [Package] node-library@1.0.1 enable
+2022-06-22T07:28:53.704Z - log: [Package] package-asset@1.0.0 enable
+2022-06-22T07:28:53.743Z - log: [Package] process@1.0.0 enable
+2022-06-22T07:28:53.782Z - log: [Package] reference-image@1.0.0 enable
+2022-06-22T07:28:53.819Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-22T07:28:53.845Z - log: [Package] android@1.0.0 enable
+2022-06-22T07:28:53.871Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-22T07:28:53.900Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-22T07:28:53.925Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-22T07:28:53.955Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-22T07:28:53.986Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-22T07:28:55.709Z - log: [Package] ios@1.0.0 enable
+2022-06-22T07:28:55.749Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-22T07:28:55.794Z - log: [Package] link-sure@1.0.0 enable
+2022-06-22T07:28:55.827Z - log: [Package] linux@1.0.0 enable
+2022-06-22T07:28:55.857Z - log: [Package] mac@1.0.0 enable
+2022-06-22T07:28:56.015Z - log: [Package] native@1.0.0 enable
+2022-06-22T07:28:56.042Z - log: [Package] ohos@1.0.0 enable
+2022-06-22T07:28:56.066Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-22T07:28:56.094Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-22T07:28:56.127Z - log: [Package] qtt@1.0.0 enable
+2022-06-22T07:28:56.153Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-22T07:28:56.200Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-22T07:28:56.239Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-22T07:28:56.329Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-22T07:28:56.370Z - verbose: [AssetDB] Require engine code (3740ms)
+2022-06-22T07:28:56.373Z - log: [Package] windows@1.0.0 enable
+2022-06-22T07:28:56.399Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-22T07:28:56.737Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-22T07:28:56.879Z - log: [Package] importer@1.0.0 enable
+2022-06-22T07:28:57.528Z - log: [Im-plugin] Check im-plugin version.
+2022-06-22T07:28:57.551Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-22T07:28:59.015Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-22T07:28:59.294Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T07:29:06.287Z - verbose: [Scene] Require engine code (2ms)
+2022-06-22T07:29:06.289Z - verbose: [Scene] Startup engine (1ms)
+2022-06-22T07:29:06.504Z - log: [Scene] Cocos Creator v3.5.1
+2022-06-22T07:29:06.940Z - verbose: [Scene] Open engine (650ms)
+2022-06-22T07:29:06.941Z - verbose: [Scene] Configure engine (0ms)
+2022-06-22T07:29:06.613Z - info: [Scene] Forward render pipeline initialized.
+2022-06-22T07:31:40.850Z - warn: [Scene] Missing class: 14524G0pQtFIZkrMRMbpXxqError: [Scene] Missing class: 14524G0pQtFIZkrMRMbpXxq
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.854Z - warn: [Scene] Missing class: de746r7jz9C+YVEorsdpA4sError: [Scene] Missing class: de746r7jz9C+YVEorsdpA4s
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.854Z - warn: [Scene] Missing class: de746r7jz9C+YVEorsdpA4sError: [Scene] Missing class: de746r7jz9C+YVEorsdpA4s
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.854Z - warn: [Scene] Missing class: de746r7jz9C+YVEorsdpA4sError: [Scene] Missing class: de746r7jz9C+YVEorsdpA4s
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.855Z - warn: [Scene] Missing class: de746r7jz9C+YVEorsdpA4sError: [Scene] Missing class: de746r7jz9C+YVEorsdpA4s
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.855Z - warn: [Scene] Missing class: de746r7jz9C+YVEorsdpA4sError: [Scene] Missing class: de746r7jz9C+YVEorsdpA4s
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.855Z - warn: [Scene] Missing class: de746r7jz9C+YVEorsdpA4sError: [Scene] Missing class: de746r7jz9C+YVEorsdpA4s
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.856Z - warn: [Scene] Missing class: de746r7jz9C+YVEorsdpA4sError: [Scene] Missing class: de746r7jz9C+YVEorsdpA4s
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.856Z - warn: [Scene] Missing class: de746r7jz9C+YVEorsdpA4sError: [Scene] Missing class: de746r7jz9C+YVEorsdpA4s
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.857Z - warn: [Scene] Missing class: de746r7jz9C+YVEorsdpA4sError: [Scene] Missing class: de746r7jz9C+YVEorsdpA4s
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:40.858Z - error: [Scene] Script "14524G0pQtFIZkrMRMbpXxq" attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Main Camera"
+Script UUID: "145241b4-a50b-4521-992b-31131ba57c6a"
+Class ID: "14524G0pQtFIZkrMRMbpXxq"
+Error: [Scene] Script "14524G0pQtFIZkrMRMbpXxq" attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Main Camera"
+Script UUID: "145241b4-a50b-4521-992b-31131ba57c6a"
+Class ID: "14524G0pQtFIZkrMRMbpXxq"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:40.860Z - error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "emoji1" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/emoji1"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+Error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "emoji1" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/emoji1"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:40.861Z - error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "sheep_down_0" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/sheep_down_0"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+Error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "sheep_down_0" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/sheep_down_0"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:40.861Z - error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "emoji2" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/emoji2"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+Error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "emoji2" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/emoji2"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:40.862Z - error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "sheep_down_1" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/sheep_down_1"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+Error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "sheep_down_1" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/sheep_down_1"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:40.862Z - error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "emoji3" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/emoji3"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+Error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "emoji3" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/emoji3"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:40.863Z - error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "sheep_down_2" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/sheep_down_2"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+Error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "sheep_down_2" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/sheep_down_2"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:40.864Z - error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "ui_attention" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/ui_attention"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+Error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "ui_attention" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/ui_attention"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:40.867Z - error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "sheep_jump_0" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/sheep_jump_0"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+Error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "sheep_jump_0" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/sheep_jump_0"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:40.868Z - error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "ui_add" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/ui_add"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+Error: [Scene] Script "de746r7jz9C+YVEorsdpA4s" attached to "ui_add" is missing or invalid. Detailed information:
+Node path: "Canvas/ui/ui_add"
+Script UUID: "de746afb-8f3f-42f9-8544-a2bb1da40e2c"
+Class ID: "de746r7jz9C+YVEorsdpA4s"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:31:56.237Z - warn: [Scene] Missing class: 14524G0pQtFIZkrMRMbpXxqError: [Scene] Missing class: 14524G0pQtFIZkrMRMbpXxq
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:99671:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110673:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110614:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110823:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110648:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110620:23)
+2022-06-22T07:31:56.242Z - error: [Scene] Script "14524G0pQtFIZkrMRMbpXxq" attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Main Camera"
+Script UUID: "145241b4-a50b-4521-992b-31131ba57c6a"
+Class ID: "14524G0pQtFIZkrMRMbpXxq"
+Error: [Scene] Script "14524G0pQtFIZkrMRMbpXxq" attached to "Main Camera" is missing or invalid. Detailed information:
+Node path: "Main Camera"
+Script UUID: "145241b4-a50b-4521-992b-31131ba57c6a"
+Class ID: "14524G0pQtFIZkrMRMbpXxq"
+
+    at report (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-06-22T07:32:06.997Z - error: [Asset DB] /Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/library/c4/c4aa2b8a-1bd5-436a-a620-5ecdc23502d1.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/library/c4/c4aa2b8a-1bd5-436a-a620-5ecdc23502d1.json'Error: /Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/library/c4/c4aa2b8a-1bd5-436a-a620-5ecdc23502d1.json: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/library/c4/c4aa2b8a-1bd5-436a-a620-5ecdc23502d1.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2115)
+2022-06-22T07:34:36.671Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T08:00:20.404Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T08:00:24.052Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T08:38:39.708Z - error: [Preview]Uncaught ReferenceError: texture is not defined in http://localhost:7456/scripting/x/chunks/dd/dd14cef9c74d1005f047e36e05691ea977565c71.js
+2022-06-22T08:39:00.050Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T11:13:38.058Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T11:13:40.230Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-22T13:24:29.822Z - warn: Metrics: no valid info
+2022-06-22T13:24:29.858Z - error: Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: Invalid guestInstanceId: 6
+    at getGuestForWebContents (electron/js2c/browser_init.js:181:6307)
+    at electron/js2c/browser_init.js:181:5372
+    at electron/js2c/browser_init.js:181:1637
+    at electron/js2c/browser_init.js:197:579
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9782)
+    at Object.emit (events.js:315:20)
+2022-06-23T02:50:07.974Z - log: [Package] menu@1.0.0 enable
+2022-06-23T02:50:07.977Z - log: [Package] profile@1.0.0 enable
+2022-06-23T02:50:07.990Z - log: [Package] project@1.0.2 enable
+2022-06-23T02:50:07.996Z - log: [Package] messages@1.0.0 enable
+2022-06-23T02:50:07.998Z - log: [Package] program@1.0.0 enable
+2022-06-23T02:50:08.006Z - log: [Package] tester@1.0.0 enable
+2022-06-23T02:50:08.012Z - log: [Package] preferences@1.0.0 enable
+2022-06-23T02:50:08.852Z - log: Setup mods mgr.: 346.85ms
+2022-06-23T02:50:08.863Z - verbose: [Engine] QuickCompile engine (776ms)
+2022-06-23T02:50:08.866Z - log: [Package] engine@1.0.6 enable
+2022-06-23T02:50:09.754Z - log: [Package] programming@1.0.0 enable
+2022-06-23T02:50:10.066Z - log: [Package] device@1.0.1 enable
+2022-06-23T02:50:10.093Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-23T02:50:10.129Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-23T02:50:10.206Z - log: [Package] asset-db@1.0.0 enable
+2022-06-23T02:50:10.254Z - log: [Package] scene@1.0.0 enable
+2022-06-23T02:50:10.547Z - log: [Package] server@1.0.0 enable
+2022-06-23T02:50:10.587Z - log: [Package] utils@1.0.0 enable
+2022-06-23T02:50:16.193Z - log: [Package] preview@1.0.1 enable
+2022-06-23T02:50:16.233Z - log: [Package] animator@1.0.0 enable
+2022-06-23T02:50:16.341Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T02:50:17.684Z - log: [Package] builder@1.3.2 enable
+2022-06-23T02:50:17.720Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-23T02:50:17.753Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-23T02:50:17.779Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-23T02:50:17.801Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-23T02:50:17.835Z - log: [Package] about@1.0.0 enable
+2022-06-23T02:50:17.873Z - log: [Package] assets@1.0.0 enable
+2022-06-23T02:50:17.908Z - log: [Package] console@1.0.0 enable
+2022-06-23T02:50:18.196Z - log: [Package] extension@3.0.16 enable
+2022-06-23T02:50:18.251Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-23T02:50:18.294Z - log: [Package] inspector@1.0.0 enable
+2022-06-23T02:50:18.331Z - log: [Package] lightmap@1.0.4 enable
+2022-06-23T02:50:18.366Z - log: [Package] node-library@1.0.1 enable
+2022-06-23T02:50:18.393Z - log: [Package] package-asset@1.0.0 enable
+2022-06-23T02:50:18.432Z - log: [Package] process@1.0.0 enable
+2022-06-23T02:50:18.467Z - log: [Package] reference-image@1.0.0 enable
+2022-06-23T02:50:18.494Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-23T02:50:18.523Z - log: [Package] android@1.0.0 enable
+2022-06-23T02:50:18.554Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-23T02:50:18.585Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-23T02:50:18.612Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-23T02:50:18.641Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-23T02:50:18.668Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-23T02:50:20.447Z - log: [Package] ios@1.0.0 enable
+2022-06-23T02:50:20.475Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-23T02:50:20.501Z - log: [Package] link-sure@1.0.0 enable
+2022-06-23T02:50:20.526Z - log: [Package] linux@1.0.0 enable
+2022-06-23T02:50:20.556Z - log: [Package] mac@1.0.0 enable
+2022-06-23T02:50:20.789Z - log: [Package] native@1.0.0 enable
+2022-06-23T02:50:20.798Z - verbose: [AssetDB] Require engine code (3398ms)
+2022-06-23T02:50:20.836Z - log: [Package] ohos@1.0.0 enable
+2022-06-23T02:50:20.887Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-23T02:50:20.931Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-23T02:50:20.970Z - log: [Package] qtt@1.0.0 enable
+2022-06-23T02:50:21.002Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-23T02:50:21.053Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-23T02:50:21.107Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-23T02:50:21.153Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-23T02:50:21.194Z - log: [Package] windows@1.0.0 enable
+2022-06-23T02:50:21.221Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-23T02:50:21.569Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-23T02:50:21.607Z - log: [Package] importer@1.0.0 enable
+2022-06-23T02:50:22.012Z - log: [Im-plugin] Check im-plugin version.
+2022-06-23T02:50:22.033Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-23T02:50:22.876Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-23T02:50:23.392Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-23T02:50:40.345Z - verbose: [Scene] Require engine code (0ms)
+2022-06-23T02:50:40.348Z - verbose: [Scene] Startup engine (1ms)
+2022-06-23T02:50:40.390Z - log: [Scene] Cocos Creator v3.5.2
+2022-06-23T02:50:41.114Z - verbose: [Scene] Open engine (766ms)
+2022-06-23T02:50:41.114Z - verbose: [Scene] Configure engine (0ms)
+2022-06-23T02:50:40.677Z - info: [Scene] Forward render pipeline initialized.
+2022-06-23T03:32:25.719Z - log: Start Quick Compile
+2022-06-23T03:33:33.359Z - log: QuickCompiler:Bundling target 0: 3.457s
+2022-06-23T03:33:33.388Z - log: QuickCompiler:Compile target 0: 1:06.892 (m:ss.mmm)
+2022-06-23T03:34:44.193Z - log: QuickCompiler:Bundling target 1: 3.358s
+2022-06-23T03:34:44.198Z - log: QuickCompiler:Compile target 1: 1:10.808 (m:ss.mmm)
+2022-06-23T03:34:44.217Z - log: Quick Compile: 138498ms
+2022-06-23T04:45:59.071Z - warn: Metrics: no valid info
+2022-06-23T04:45:59.098Z - error: Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: Invalid guestInstanceId: 6
+    at getGuestForWebContents (electron/js2c/browser_init.js:181:6307)
+    at electron/js2c/browser_init.js:181:5372
+    at electron/js2c/browser_init.js:181:1637
+    at electron/js2c/browser_init.js:197:579
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9782)
+    at Object.emit (events.js:315:20)

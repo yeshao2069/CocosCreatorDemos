@@ -1,0 +1,534 @@
+{
+  "a3c1f462-0717-4ed3-9060-11ce4bdb53ef": {
+    "url": "db://assets/res",
+    "value": {}
+  },
+  "9f7f855e-65ff-43c8-8856-60c8d6db9aac": {
+    "url": "db://assets/res/common",
+    "value": {}
+  },
+  "62ad80a4-a891-4db0-b19a-1b2bef87c37c": {
+    "url": "db://assets/res/qfw",
+    "value": {}
+  },
+  "6f6f59f9-1a5e-4eed-a262-8d66332ef2da": {
+    "url": "db://assets/res/scenes",
+    "value": {}
+  },
+  "900bb650-7ca1-445a-9b1a-154e12359353": {
+    "url": "db://assets/res/common/skybox",
+    "value": {}
+  },
+  "95061d68-bb4e-4875-ba92-e85fcf3bc777": {
+    "url": "db://assets/res/qfw/base",
+    "value": {}
+  },
+  "4ef8afc3-0122-4940-a3a8-be2ecda430b6": {
+    "url": "db://assets/res/qfw/components",
+    "value": {}
+  },
+  "5e25008f-8374-4285-a4b5-a5eefb85e666": {
+    "url": "db://assets/res/common/skybox",
+    "value": {}
+  },
+  "beaf5ced-0687-4bd1-a3d2-972226c7957b": {
+    "url": "db://assets/resources/cubemap/cubemap_sky01.cubemap",
+    "value": {}
+  },
+  "de70297f-154d-46c8-8ce1-7cb5b678da8f": {
+    "url": "db://assets/src/UIController.ts",
+    "value": {}
+  },
+  "82a59405-4865-4862-b064-ae0017d54dab": {
+    "url": "db://assets/src/UIMgr.ts",
+    "value": {}
+  },
+  "59efe00b-4036-4753-ae60-372107b63395": {
+    "url": "db://assets/src/NodeFloatingAnim.ts",
+    "value": {}
+  },
+  "88b0d871-8d78-4529-b97d-5525985b2316": {
+    "url": "db://assets/src/AppStart_Skybox.ts",
+    "value": {}
+  },
+  "a5d64fb9-04d2-47a4-bb99-07f166adc9f9": {
+    "url": "db://assets/res/scenes/skybox/hud",
+    "value": {}
+  },
+  "470bd19d-51f5-463a-87e7-563b304062cd": {
+    "url": "db://assets/res/common/skybox/materials",
+    "value": {}
+  },
+  "8f231588-36a8-4784-af86-43bf57f8acbe": {
+    "url": "db://assets/skybox.scene",
+    "value": {}
+  },
+  "5e53f7de-5452-4032-8dbd-c598ff114eb7": {
+    "url": "db://assets/res/common/skybox/textures",
+    "value": {}
+  },
+  "2e18f93b-5987-4c84-8252-03c3ce79398c": {
+    "url": "db://assets/resources/scenes/skybox/hud/UI_Skybox_HUD.ts",
+    "value": {}
+  },
+  "ddcc2ee8-7b6d-4c0e-83dd-14da14e96f3b": {
+    "url": "db://assets/res/common/skybox/materials/MarsMat.mtl",
+    "value": {}
+  },
+  "10384a0b-93e1-4b31-92c3-25b0d564c497": {
+    "url": "db://assets/res/common/skybox/materials/material.mtl",
+    "value": {}
+  },
+  "acf2ebcb-3467-4ca2-983f-68538b109c78": {
+    "url": "db://assets/res/common/skybox/textures/Mars.jpg",
+    "value": {}
+  },
+  "18ee62b1-0acf-4cac-bcc7-28ac7cbd0e80": {
+    "url": "db://assets/res/common/skybox/textures/earth",
+    "value": {}
+  },
+  "ed01894c-f1a3-4b67-b135-2f0c534ef449": {
+    "url": "db://assets/res/common/skybox/textures/earth.mtl",
+    "value": {}
+  },
+  "8c9ee2c1-3df8-4ddf-a7de-74835172b9b9": {
+    "url": "db://assets/res/common/skybox/textures/earth/Earth.jpg",
+    "value": {}
+  },
+  "1ef2c39b-2ef6-471c-bc38-ca651dcfb33b": {
+    "url": "db://assets/res/common/skybox/textures/earth/Earth_Glossiness_6K.jpg",
+    "value": {}
+  },
+  "00174fad-8068-4afe-b3eb-b25e6e45fb00": {
+    "url": "db://assets/res/common/skybox/textures/earth/Earth_Illumination_6K.jpg",
+    "value": {}
+  },
+  "0a0190c8-9481-4815-b917-c4a14e0e5e0d": {
+    "url": "db://assets/src",
+    "value": {}
+  },
+  "f65df281-3f9c-4654-a05d-fd0d4a30ee84": {
+    "url": "db://assets/src/UI_Skybox_HUD.ts",
+    "value": {}
+  },
+  "b60cbaf8-ed36-4509-9da1-b7687c62d5b1": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "213a779e-e490-45f9-8254-e06493ea6e3a": {
+    "url": "db://assets/resources/prefab",
+    "value": {}
+  },
+  "acaa2f21-681a-4e92-991b-26e5d5d48865": {
+    "url": "db://assets/res/common/cubemap_sky02.cubemap.meta",
+    "value": {}
+  },
+  "a981b7a5-383e-4c47-aae5-4eb2a52cab29": {
+    "url": "db://assets/res/common/cubemap_sky03.cubemap.meta",
+    "value": {}
+  },
+  "1649004f-4a1a-4b3f-a618-de32682a4ad5": {
+    "url": "db://assets/res/common/cubemap_sky04.cubemap.meta",
+    "value": {}
+  },
+  "c76cb6d8-aab2-4aea-863a-6f829aee2bfa": {
+    "url": "db://assets/res/common/cubemap_sky06.cubemap.meta",
+    "value": {}
+  },
+  "1f3c2f8f-1a60-43c4-a0b0-f5dcd045c481": {
+    "url": "db://assets/res/common/cubemap_sky07.cubemap.meta",
+    "value": {}
+  },
+  "ec644bef-6c4e-4305-875f-48ab9e337fb0": {
+    "url": "db://assets/res/common/cubemap_sky08.cubemap.meta",
+    "value": {}
+  },
+  "f35806ce-3f27-41dc-ab72-3a24b7cc1ceb": {
+    "url": "db://assets/res/common/cubemap_sky05.cubemap.meta",
+    "value": {}
+  },
+  "5579a2cf-8c2c-4388-bc44-71b3b3d9c53c": {
+    "url": "db://assets/res/common/cubemap_sky10.cubemap.meta",
+    "value": {}
+  },
+  "ebc986cf-942c-4e79-b570-c0ba4a11cc6a": {
+    "url": "db://assets/res/common/cubemap_sky01.cubemap.meta",
+    "value": {}
+  },
+  "a7d6a561-1759-4148-bc0a-b10bc5e5fed3": {
+    "url": "db://assets/res/common/cubemap_sky09.cubemap.meta",
+    "value": {}
+  },
+  "c557f2c9-e1cf-4600-9b6d-7435dc74108c": {
+    "url": "db://assets/resources/cubemap/cubemap_sky02.cubemap",
+    "value": {}
+  },
+  "57410778-fa13-48b2-9d57-7474d31de405": {
+    "url": "db://assets/resources/cubemap/cubemap_sky03.cubemap",
+    "value": {}
+  },
+  "4d8393a9-bd52-4113-8fc1-b66395e9aeca": {
+    "url": "db://assets/resources/cubemap/cubemap_sky04.cubemap",
+    "value": {}
+  },
+  "2921bd04-8451-418b-ac0b-6d142a584a08": {
+    "url": "db://assets/resources/cubemap/cubemap_sky05.cubemap",
+    "value": {}
+  },
+  "fa1148d2-effd-488a-ae67-c2129907f05e": {
+    "url": "db://assets/resources/cubemap/cubemap_sky07.cubemap",
+    "value": {}
+  },
+  "031815de-1e7f-4c93-82e5-15ae156d35ed": {
+    "url": "db://assets/resources/cubemap/cubemap_sky10.cubemap",
+    "value": {}
+  },
+  "5cefa511-2816-4455-aba6-0c54109631a5": {
+    "url": "db://assets/resources/cubemap/cubemap_sky06.cubemap",
+    "value": {}
+  },
+  "1f39e355-0c8c-4223-9a84-d6e74be830e1": {
+    "url": "db://assets/resources/cubemap/cubemap_sky08.cubemap",
+    "value": {}
+  },
+  "056d89a5-7e92-4482-8cd3-e8c8552ea4b3": {
+    "url": "db://assets/resources/cubemap/cubemap_sky09.cubemap",
+    "value": {}
+  },
+  "d8ee4072-89a4-46ae-b1a1-d6b67173cde8": {
+    "url": "db://assets/res/common/skybox/Sky_03",
+    "value": {}
+  },
+  "ee0b34df-681b-4b08-a29c-49b3ecef4975": {
+    "url": "db://assets/res/common/skybox/Sky_03/Sky0000.jpg",
+    "value": {}
+  },
+  "882083bf-c614-4d0f-bfd9-9a97c0d3aadb": {
+    "url": "db://assets/res/common/skybox/Sky_03/Sky0001.jpg",
+    "value": {}
+  },
+  "6d616e98-053a-47a1-b219-225e98ee872a": {
+    "url": "db://assets/res/common/skybox/Sky_03/Sky0002.jpg",
+    "value": {}
+  },
+  "ec2f3015-3f71-4a84-9b45-4d612ac3a466": {
+    "url": "db://assets/res/common/skybox/Sky_03/Sky0003.jpg",
+    "value": {}
+  },
+  "62eaadea-f08e-4b31-a09e-50e77b18b2c0": {
+    "url": "db://assets/res/common/skybox/Sky_03/Sky0004.jpg",
+    "value": {}
+  },
+  "3c781326-d2c1-4e44-bba7-c04ad68e759e": {
+    "url": "db://assets/res/common/skybox/Sky_03/Sky0005.jpg",
+    "value": {}
+  },
+  "7f027ae2-47cb-476a-882d-9db7963fe66d": {
+    "url": "db://assets/res/common/skybox/Sky_01",
+    "value": {}
+  },
+  "b67616c7-aba0-4b89-9917-ae8eb2e39d80": {
+    "url": "db://assets/res/common/skybox/Sky_01/Sky0000.jpg",
+    "value": {}
+  },
+  "aa1c32e9-5422-4c08-845e-448b4b9115f3": {
+    "url": "db://assets/res/common/skybox/Sky_01/Sky0001.jpg",
+    "value": {}
+  },
+  "897e99bc-174b-40d4-879c-0ce685ed5036": {
+    "url": "db://assets/res/common/skybox/Sky_01/Sky0002.jpg",
+    "value": {}
+  },
+  "563b6f18-fe9f-4860-95ce-ce09b3295565": {
+    "url": "db://assets/res/common/skybox/Sky_01/Sky0003.jpg",
+    "value": {}
+  },
+  "b9f06e4c-a787-4e50-ab8a-7a0e118837e6": {
+    "url": "db://assets/res/common/skybox/Sky_01/Sky0004.jpg",
+    "value": {}
+  },
+  "c1254332-fddc-4c5e-8706-a62ec9eea977": {
+    "url": "db://assets/res/common/skybox/Sky_01/Sky0005.jpg",
+    "value": {}
+  },
+  "c0832107-2f14-42aa-8e72-9d51856ae0b9": {
+    "url": "db://assets/res/common/skybox/Sky_02",
+    "value": {}
+  },
+  "9840b602-3c05-4856-b48b-41e24183d140": {
+    "url": "db://assets/res/common/skybox/Sky_02/Sky0000.jpg",
+    "value": {}
+  },
+  "0e6d8824-3cee-43a7-a006-b25b7027f9f6": {
+    "url": "db://assets/res/common/skybox/Sky_02/Sky0001.jpg",
+    "value": {}
+  },
+  "394a0e33-7c66-47f3-bcd0-a32a98880da2": {
+    "url": "db://assets/res/common/skybox/Sky_02/Sky0002.jpg",
+    "value": {}
+  },
+  "a6944268-a767-4436-bc04-56b8b17139a4": {
+    "url": "db://assets/res/common/skybox/Sky_02/Sky0003.jpg",
+    "value": {}
+  },
+  "47d850a9-a028-4176-8caa-13bd27bed79e": {
+    "url": "db://assets/res/common/skybox/Sky_02/Sky0004.jpg",
+    "value": {}
+  },
+  "5c2ab96a-9cae-48a5-ada3-92e00dc291bc": {
+    "url": "db://assets/res/common/skybox/Sky_02/Sky0005.jpg",
+    "value": {}
+  },
+  "63ac5758-a485-484d-9a50-0f041b0dde5a": {
+    "url": "db://assets/res/common/skybox/Sky_04",
+    "value": {}
+  },
+  "73d8c636-a321-4e4b-afdf-810bb17e85b8": {
+    "url": "db://assets/res/common/skybox/Sky_04/Sky0000.jpg",
+    "value": {}
+  },
+  "a580acd0-b7eb-4610-bce0-d4feda3ddd23": {
+    "url": "db://assets/res/common/skybox/Sky_04/Sky0001.jpg",
+    "value": {}
+  },
+  "924a7c86-77d5-4199-a0b6-9a25c680766e": {
+    "url": "db://assets/res/common/skybox/Sky_04/Sky0002.jpg",
+    "value": {}
+  },
+  "1450bd9e-8799-4a3f-9f68-af5e764ec0e7": {
+    "url": "db://assets/res/common/skybox/Sky_04/Sky0003.jpg",
+    "value": {}
+  },
+  "d68c9a57-3e30-4026-93e7-01a925304e04": {
+    "url": "db://assets/res/common/skybox/Sky_04/Sky0004.jpg",
+    "value": {}
+  },
+  "273590b4-222f-437c-82c2-0ab3b8e4c089": {
+    "url": "db://assets/res/common/skybox/Sky_04/Sky0005.jpg",
+    "value": {}
+  },
+  "8c662ded-f755-408d-a6dc-5d3b2980554b": {
+    "url": "db://assets/res/common/skybox/Sky_05",
+    "value": {}
+  },
+  "6a536155-2b57-4a7c-8b93-e5e2f80167af": {
+    "url": "db://assets/res/common/skybox/Sky_05/Sky0000.jpg",
+    "value": {}
+  },
+  "e4b8e520-7307-41a6-9f7e-397937afa02b": {
+    "url": "db://assets/res/common/skybox/Sky_05/Sky0001.jpg",
+    "value": {}
+  },
+  "3b733f5d-cfed-44bf-9e9c-152a155a5830": {
+    "url": "db://assets/res/common/skybox/Sky_05/Sky0002.jpg",
+    "value": {}
+  },
+  "161dbf18-18dc-4306-bedf-5fd558576cd8": {
+    "url": "db://assets/res/common/skybox/Sky_05/Sky0003.jpg",
+    "value": {}
+  },
+  "030c2fca-673e-4127-9cbf-25b635f575ff": {
+    "url": "db://assets/res/common/skybox/Sky_05/Sky0004.jpg",
+    "value": {}
+  },
+  "cce3a657-b6db-4bb2-9dd5-5b1c087939a0": {
+    "url": "db://assets/res/common/skybox/Sky_05/Sky0005.jpg",
+    "value": {}
+  },
+  "ddeabd8c-75c1-46ca-9acc-cd2a2f9a8060": {
+    "url": "db://assets/res/common/skybox/Sky_06",
+    "value": {}
+  },
+  "9aa4f5e1-bbc0-4475-90e8-59ddc0a29076": {
+    "url": "db://assets/res/common/skybox/Sky_06/Sky0000.jpg",
+    "value": {}
+  },
+  "17b56b7b-6cbb-4677-a0b8-5233a7d92025": {
+    "url": "db://assets/res/common/skybox/Sky_06/Sky0001.jpg",
+    "value": {}
+  },
+  "57e65ba3-6de2-4e11-af02-4853f1076b34": {
+    "url": "db://assets/res/common/skybox/Sky_06/Sky0002.jpg",
+    "value": {}
+  },
+  "48df8ed8-0de9-4516-acb0-2512d7e87d30": {
+    "url": "db://assets/res/common/skybox/Sky_06/Sky0003.jpg",
+    "value": {}
+  },
+  "c9f98a59-18a1-4040-ab46-867da392fdae": {
+    "url": "db://assets/res/common/skybox/Sky_06/Sky0004.jpg",
+    "value": {}
+  },
+  "68b36d20-2281-41ed-aaee-aa61963ef1a3": {
+    "url": "db://assets/res/common/skybox/Sky_06/Sky0005.jpg",
+    "value": {}
+  },
+  "283673f8-b9d3-4e4f-b1ac-9f8951c2a27d": {
+    "url": "db://assets/res/common/skybox/Sky_08",
+    "value": {}
+  },
+  "26d3e3aa-ff97-42ff-b9e3-2b02930eb34e": {
+    "url": "db://assets/res/common/skybox/Sky_08/Sky0000.png",
+    "value": {}
+  },
+  "2c1e35a8-997b-484f-ab57-747fff3d29c2": {
+    "url": "db://assets/res/common/skybox/Sky_08/Sky0001.png",
+    "value": {}
+  },
+  "64572244-9d21-4343-bdb5-49fa07cb84c8": {
+    "url": "db://assets/res/common/skybox/Sky_08/Sky0002.png",
+    "value": {}
+  },
+  "dbdf8e49-3757-4ff5-8988-c9b41455fbc8": {
+    "url": "db://assets/res/common/skybox/Sky_08/Sky0003.png",
+    "value": {}
+  },
+  "64997c39-474a-401d-89a3-ea691af20922": {
+    "url": "db://assets/res/common/skybox/Sky_08/Sky0004.png",
+    "value": {}
+  },
+  "2369ca18-2607-47d9-86bd-378e29c9d831": {
+    "url": "db://assets/res/common/skybox/Sky_08/Sky0005.png",
+    "value": {}
+  },
+  "0ddc188a-4b93-4854-a227-cf8ba8b70ac4": {
+    "url": "db://assets/res/common/skybox/Sky_09",
+    "value": {}
+  },
+  "19fe9182-da62-4a1b-9852-175ecf9db68d": {
+    "url": "db://assets/res/common/skybox/Sky_09/Sky0000.png",
+    "value": {}
+  },
+  "c8bad51f-d539-431f-899b-187f8ce747af": {
+    "url": "db://assets/res/common/skybox/Sky_09/Sky0001.png",
+    "value": {}
+  },
+  "9ce321c0-ee60-4851-9b97-f127c95f734b": {
+    "url": "db://assets/res/common/skybox/Sky_09/Sky0002.png",
+    "value": {}
+  },
+  "edac8638-bd08-4a0f-afe8-f8d3c2b454e8": {
+    "url": "db://assets/res/common/skybox/Sky_09/Sky0003.png",
+    "value": {}
+  },
+  "6852e15a-89e7-4005-a324-acf5aa745de2": {
+    "url": "db://assets/res/common/skybox/Sky_09/Sky0004.png",
+    "value": {}
+  },
+  "93aff618-94ba-493c-adf9-60bde9102458": {
+    "url": "db://assets/res/common/skybox/Sky_09/Sky0005.png",
+    "value": {}
+  },
+  "1bf92c9c-c2d8-49c9-b20d-e549d04fa95e": {
+    "url": "db://assets/res/common/skybox/Sky_07",
+    "value": {}
+  },
+  "e26d8617-e627-4a91-99c2-09d0f555cb17": {
+    "url": "db://assets/res/common/skybox/Sky_07/Sky0000.jpg",
+    "value": {}
+  },
+  "8199f3c7-55e1-415c-a332-d317ce696069": {
+    "url": "db://assets/res/common/skybox/Sky_07/Sky0000.png",
+    "value": {}
+  },
+  "de1eb24a-5034-4b45-97b1-85ea776e66bf": {
+    "url": "db://assets/res/common/skybox/Sky_07/Sky0001.jpg",
+    "value": {}
+  },
+  "d7810337-3c7c-4c6c-91a8-e3379c581a55": {
+    "url": "db://assets/res/common/skybox/Sky_07/Sky0002.jpg",
+    "value": {}
+  },
+  "00b05b3a-cc9c-4ccd-9425-72632b659eff": {
+    "url": "db://assets/res/common/skybox/Sky_07/Sky0003.jpg",
+    "value": {}
+  },
+  "a6c47018-859e-41bc-96a9-3d1f0b088109": {
+    "url": "db://assets/res/common/skybox/Sky_07/Sky0004.jpg",
+    "value": {}
+  },
+  "fb26d584-06e0-4996-8b0c-b8a752b18e8f": {
+    "url": "db://assets/res/common/skybox/Sky_07/Sky0005.jpg",
+    "value": {}
+  },
+  "8e1dc4e9-d44a-4a35-832b-37a359ab0e08": {
+    "url": "db://assets/res/common/skybox/Sky_10",
+    "value": {}
+  },
+  "d2476684-1f9a-4efa-af74-234767475f8e": {
+    "url": "db://assets/res/common/skybox/Sky_10/Sky0000.png",
+    "value": {}
+  },
+  "70892b50-844a-4989-a500-b2055a86a3b7": {
+    "url": "db://assets/res/common/skybox/Sky_10/Sky0001.png",
+    "value": {}
+  },
+  "372cba5e-a4e2-43f9-8dfc-0c83a8236e1a": {
+    "url": "db://assets/res/common/skybox/Sky_10/Sky0002.png",
+    "value": {}
+  },
+  "21f5b557-8e3f-4aa0-aa84-4f89fdfc926b": {
+    "url": "db://assets/res/common/skybox/Sky_10/Sky0003.png",
+    "value": {}
+  },
+  "32811a18-b9ed-4081-b28f-618b6b2d7561": {
+    "url": "db://assets/res/common/skybox/Sky_10/Sky0004.png",
+    "value": {}
+  },
+  "5e6f7365-d76b-40a3-8389-360ac193d154": {
+    "url": "db://assets/res/common/skybox/Sky_10/Sky0005.png",
+    "value": {}
+  },
+  "fe986846-4d89-4dc7-8b03-3a2f5a69b7c0": {
+    "url": "db://assets/resources/prefab/ui_skybox_hud_panel.prefab",
+    "value": {}
+  },
+  "66969715-b621-42c9-a7fa-ce43d839fcff": {
+    "url": "db://assets/resources/cubemap",
+    "value": {}
+  },
+  "cd3c992c-5fee-4678-a196-9204900d245e": {
+    "url": "db://assets/resources/skybox_icons",
+    "value": {}
+  },
+  "32234aa7-626f-4943-ab90-25e09bb86c78": {
+    "url": "db://assets/resources/skybox_icons/icon_01.jpg",
+    "value": {}
+  },
+  "d0b52083-60df-4a16-8424-a9c1b9fc8b9f": {
+    "url": "db://assets/resources/skybox_icons/icon_02.jpg",
+    "value": {}
+  },
+  "be86e06f-526a-4d87-80b8-7e4de3021569": {
+    "url": "db://assets/resources/skybox_icons/icon_03.jpg",
+    "value": {}
+  },
+  "aef76910-2473-4d35-9a00-c8aa6fcc8881": {
+    "url": "db://assets/resources/skybox_icons/icon_04.jpg",
+    "value": {}
+  },
+  "f41e38cb-3eef-4361-a457-d0a4d4ac910d": {
+    "url": "db://assets/resources/skybox_icons/icon_05.jpg",
+    "value": {}
+  },
+  "8911518f-88d3-4238-914e-7c3e52caa123": {
+    "url": "db://assets/resources/skybox_icons/icon_06.jpg",
+    "value": {}
+  },
+  "6216ae74-ae66-496f-b818-3fa4c27612cf": {
+    "url": "db://assets/resources/skybox_icons/icon_07.jpg",
+    "value": {}
+  },
+  "079a4405-415c-4f79-8140-60e82218b6ca": {
+    "url": "db://assets/resources/skybox_icons/icon_08.jpg",
+    "value": {}
+  },
+  "a2c0ac0a-d586-42f5-82ac-a254621f4d5b": {
+    "url": "db://assets/resources/skybox_icons/icon_09.jpg",
+    "value": {}
+  },
+  "7de48cfc-400d-4896-b0e9-bb25b51c4f73": {
+    "url": "db://assets/resources/skybox_icons/icon_10.jpg",
+    "value": {}
+  }
+}

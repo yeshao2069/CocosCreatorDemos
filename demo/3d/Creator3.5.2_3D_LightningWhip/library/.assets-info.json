@@ -1,0 +1,66 @@
+{
+  "/Users/mu/Desktop/Creator3.5.2_2D_LightningWhip/assets/main.scene.meta": {
+    "time": 1656317380868.444
+  },
+  "/Users/mu/Desktop/Creator3.5.2_2D_LightningWhip/assets/main.scene": {
+    "time": 1656320348337.1558,
+    "uuid": "4c62216d-1575-4323-800e-61d5956cd3ac",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.2_2D_LightningWhip/assets/res.meta": {
+    "time": 1656317393133.74
+  },
+  "/Users/mu/Desktop/Creator3.5.2_2D_LightningWhip/assets/res": {
+    "time": 1656317397369.5874,
+    "uuid": "b1f458fa-7eb9-4a43-851b-4378be83b92d",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.2_2D_LightningWhip/assets/res/light.jpeg.meta": {
+    "time": 1656318577658.4006
+  },
+  "/Users/mu/Desktop/Creator3.5.2_2D_LightningWhip/assets/res/light.jpeg": {
+    "time": 1656317397368.5034,
+    "uuid": "ffd7f517-acbe-4135-b258-c4d0348dafb9",
+    "missing": false
+  },
+  "/Users/mu/Desktop/Creator3.5.2_2D_LightningWhip/assets/Lightning.ts.meta": {
+    "time": 1656317707084.8767
+  },
+  "/Users/mu/Desktop/Creator3.5.2_2D_LightningWhip/assets/Lightning.ts": {
+    "time": 1656319609833.0732,
+    "uuid": "1f1fa9f5-b5de-45be-a5bc-9dd43a307118",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_LightningWhip/assets/Lightning.ts": {
+    "time": 1656319609833.0732,
+    "uuid": "1f1fa9f5-b5de-45be-a5bc-9dd43a307118",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_LightningWhip/assets/main.scene": {
+    "time": 1656320348337.1558,
+    "uuid": "4c62216d-1575-4323-800e-61d5956cd3ac",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_LightningWhip/assets/res": {
+    "time": 1656317397369.5874,
+    "uuid": "b1f458fa-7eb9-4a43-851b-4378be83b92d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_LightningWhip/assets/res/light.jpeg": {
+    "time": 1656317397368.5034,
+    "uuid": "ffd7f517-acbe-4135-b258-c4d0348dafb9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_LightningWhip/assets/res.meta": {
+    "time": 1656317393133.74
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_LightningWhip/assets/Lightning.ts.meta": {
+    "time": 1656317707084.8767
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_LightningWhip/assets/main.scene.meta": {
+    "time": 1656317380868.444
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_LightningWhip/assets/res/light.jpeg.meta": {
+    "time": 1656318577658.4006
+  }
+}

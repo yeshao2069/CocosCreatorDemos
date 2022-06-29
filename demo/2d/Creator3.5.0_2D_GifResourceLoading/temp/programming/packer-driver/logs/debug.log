@@ -1,0 +1,174 @@
+debug: Mon, 27 Jun 2022 03:15:30 GMT
+debug: Project: /Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading
+debug: Targets: editor,preview
+debug: Packer deriver version file lost or format incorrect: Error: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/temp/programming/packer-driver/VERSION'
+debug: Clearing out the targets...
+debug: Engine path: /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/temp/programming/packer-driver/targets/editor/main-record.json'
+debug: Loading cache costs 0.33498500008136034ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Record file loaded failed with error: Error: ENOENT: no such file or directory, open '/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/temp/programming/packer-driver/targets/preview/main-record.json'
+debug: Loading cache costs 0.3630520002916455ms.
+debug: Sync engine features: 2d,animation,audio,base,dragon-bones,gfx-webgl,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 11.192343999631703ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 4
+Feature changed: false
+debug: Target(editor) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts as cce:/internal/x/cc.
+debug: Resolve ./GIF from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as external dependency cc/env.
+debug: Resolve ./LZW from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts as cce:/internal/x/cc.
+debug: Resolve ./CCGIF from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts.
+debug: Target(editor) ends with cost 1110.948767999187ms.
+debug: Target(preview) build started.
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts as cce:/internal/code-quality/cr.mjs.
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts as cce:/internal/x/cc.
+debug: Resolve ./GIF from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as cce:/internal/x/cc.
+debug: Resolve cc/env from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as external dependency cc/env.
+debug: Resolve ./LZW from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts as cce:/internal/x/cc.
+debug: Resolve ./CCGIF from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts.
+debug: Target(preview) ends with cost 1052.5544599993154ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:16 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:01:52 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 138.264790000394ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:18 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:01:52 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts.
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 115.4138869997114ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:01:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:02:29 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts. Last mtime: Mon Jun 27 2022 11:17:06 GMT+0800 (中国标准时间)@4b286cd2-1afe-4c2f-97a2-5d3c092dba0f, Current mtime: Mon Jun 27 2022 11:17:35 GMT+0800 (中国标准时间)@4b286cd2-1afe-4c2f-97a2-5d3c092dba0f
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 122.01029399968684ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:01:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:02:29 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts.
+debug: Resolve file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts from cce:/internal/x/prerequisite-imports as file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts.
+debug: Detected change: file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts. Last mtime: Mon Jun 27 2022 11:17:06 GMT+0800 (中国标准时间)@4b286cd2-1afe-4c2f-97a2-5d3c092dba0f, Current mtime: Mon Jun 27 2022 11:17:35 GMT+0800 (中国标准时间)@4b286cd2-1afe-4c2f-97a2-5d3c092dba0f
+debug: Inspect file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 127.60553199984133ms.

@@ -1,0 +1,995 @@
+{
+  "chunks": {
+    "7a85ab553148dcfeae5be37e35d68866e154eb95": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "b26708773231cc1d865f5661a11bd53e59db5ea4"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420272135
+    },
+    "b26708773231cc1d865f5661a11bd53e59db5ea4": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420272222
+    },
+    "d502d64bb2e43c6e5fe8910c44a920dd58c05deb": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420272382
+    },
+    "31d21463edbec767f182f98e7260bec6137b35fa": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420272497
+    },
+    "5f05830bfa48cb53ecdfaaf43336b6c230dae4ac": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/cases/cardFlip/scripts/Case_CardFlip.ts 为起点找不到模块 \"../../../eazax-cutils/TweenUtil\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420272977
+    },
+    "10663ab4e1d3a13044935ad91f0bb01bf8d917d3": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "e2c7742fd6501872acdd770059770c958287987c"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420273227
+    },
+    "e2c7742fd6501872acdd770059770c958287987c": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/ClickToShowResPopup.ts 为起点找不到模块 \"../../../eazax-ccore/PopupManager\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "732c44a14032fff25467672bf0ba1602d2b01454"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420273405
+    },
+    "732c44a14032fff25467672bf0ba1602d2b01454": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/components/popups/resPopup/ResPopup.ts 为起点找不到模块 \"../../../../../eazax-ccomponents/popups/PopupBase\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "f919be9de399bdeeea2ffcc041b2b7fea04d05fa"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420273480
+    },
+    "f919be9de399bdeeea2ffcc041b2b7fea04d05fa": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420273538
+    },
+    "2204792af85fcd9eae2686249e9a1143661a6601": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "2640e913595bd671f91b8a10b252c661ce26bd1d"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420318315
+    },
+    "2640e913595bd671f91b8a10b252c661ce26bd1d": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts 为起点找不到模块 \"../../../eazax-ccore/PopupManager\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts 为起点找不到模块 \"./popups/resPopup/ResPopup\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420318373
+    },
+    "a67d02be0451fb81cab8acb565ccfebe429d9aa3": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420318411
+    },
+    "632aa36c4ebbea947887d7c34ff4097cc31bfef6": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/ResPopup.ts 为起点找不到模块 \"../../../../../eazax-ccomponents/popups/PopupBase\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "f57279d1f2effb870e6108e061b24b17c5e3f946"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420322600
+    },
+    "f57279d1f2effb870e6108e061b24b17c5e3f946": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/common/ResPopupItem.ts 为起点找不到模块 \"../../ClickToLoadUrl\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420322642
+    },
+    "c2c444308de76a4d1857e7364d0318b81288b79c": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ResPopup.ts 为起点找不到模块 \"../../../../../eazax-ccomponents/popups/PopupBase\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "5566fb8e5edd5133aa6b58b6ce05b0e9298b9773"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420333285
+    },
+    "5566fb8e5edd5133aa6b58b6ce05b0e9298b9773": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ResPopupItem.ts 为起点找不到模块 \"../../ClickToLoadUrl\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420333323
+    },
+    "6412ad0370922cb2613e9d2b2d90321002eeac18": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420365502
+    },
+    "6727559e8f3fc68fae0656f16149e3130ea014a7": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/ScreenAdapter.ts 为起点找不到模块 \"../core/EventManager\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420368018
+    },
+    "f24bc2f008459df6be5908f47bb5272bd7cd346c": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420377017
+    },
+    "86902b88b86341edcf09da45bf0fb9e5e6b4c84a": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/Desktop/Creator3.5.2_2D_CardFlip/assets/scripts/PopupManager.ts 为起点找不到模块 \"../components/popups/PopupBase\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420377145
+    },
+    "23ae0f45a3689cb4c05eb990f33998ff4243d772": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656420380855
+    },
+    "463bee226380e6f4e517a16d84061c5422b47dab": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656469450929
+    },
+    "289eca98cdbd0be3f78a142699852f21dec7f531": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "8e8c8fd1ee566eeebdbf5f06b595bdbaf3b69043"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656469451039
+    },
+    "a2e8c0e453805ffc8545f859810e11868fb2e2d1": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "17e11746a22bcc01dc8602be66180f08ea4bff17"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656470653549
+    },
+    "d17e994036820565700f5f1eed7054222e78e808": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "4e94db51e1ee75bf90d08ba57f24fe98f49eea1b"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656470653909
+    },
+    "570be16b8eb2e7954b72b835a7f2911285da1826": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "be9410256bb91250a32a2dbca794ab925c94c7d8"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656471714712
+    },
+    "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
+          },
+          "messages": []
+        },
+        "__unresolved_10": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        "__unresolved_11": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-box2d"
+          },
+          "messages": []
+        },
+        "__unresolved_12": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        "__unresolved_13": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-ammo"
+          },
+          "messages": []
+        },
+        "__unresolved_14": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
+          },
+          "messages": []
+        },
+        "__unresolved_15": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/wait-for-ammo-instantiation"
+          },
+          "messages": []
+        },
+        "__unresolved_16": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
+          },
+          "messages": []
+        },
+        "__unresolved_17": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        "__unresolved_18": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        "__unresolved_19": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        "__unresolved_20": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
+          },
+          "messages": []
+        },
+        "__unresolved_21": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        "__unresolved_22": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        "__unresolved_23": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        "__unresolved_24": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        "__unresolved_25": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        "__unresolved_4": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        "__unresolved_5": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        },
+        "__unresolved_6": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        "__unresolved_7": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        "__unresolved_8": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        "__unresolved_9": {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656472339307
+    },
+    "3a1fd7b13056478820ebedd306d3446d1aa408cc": {
+      "imports": {},
+      "timestamp": 1656472339380
+    },
+    "8e8c8fd1ee566eeebdbf5f06b595bdbaf3b69043": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656483544686
+    },
+    "17e11746a22bcc01dc8602be66180f08ea4bff17": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts 为起点找不到模块 \"./PopupManager\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: 以 file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToShowResPopup.ts 为起点找不到模块 \"./ResPopup\""
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "你是否遗漏了扩展名？请注意你不能在模块说明符中省略扩展名。"
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656483544777
+    },
+    "4e94db51e1ee75bf90d08ba57f24fe98f49eea1b": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656483545103
+    },
+    "06da251deb6f94ed366a841c6c1e7306400dd983": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3a1fd7b13056478820ebedd306d3446d1aa408cc"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "126231d8d29348d8e61d04c8365f019f19a9dd61"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656486222748
+    },
+    "e690d8d21c3264f88cef1049bc05ae341c5f161a": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "06da251deb6f94ed366a841c6c1e7306400dd983"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "8e8c8fd1ee566eeebdbf5f06b595bdbaf3b69043"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "4e94db51e1ee75bf90d08ba57f24fe98f49eea1b"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "chunk",
+            "id": "126231d8d29348d8e61d04c8365f019f19a9dd61"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656486341480
+    },
+    "126231d8d29348d8e61d04c8365f019f19a9dd61": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1656486341737
+    }
+  },
+  "entries": {
+    "cce:/internal/x/cc": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53",
+    "cce:/internal/x/prerequisite-imports": "e690d8d21c3264f88cef1049bc05ae341c5f161a",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/ClickToLoadUrl.ts": "8e8c8fd1ee566eeebdbf5f06b595bdbaf3b69043",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/EventManager.ts": "4e94db51e1ee75bf90d08ba57f24fe98f49eea1b",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/CardFlip.ts": "06da251deb6f94ed366a841c6c1e7306400dd983",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_CardFlip/assets/scripts/TweenUtil.ts": "126231d8d29348d8e61d04c8365f019f19a9dd61"
+  }
+}

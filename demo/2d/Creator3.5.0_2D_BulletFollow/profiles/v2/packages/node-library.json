@@ -1,0 +1,9 @@
+{
+  "__version__": "1.0.1",
+  "custom": [
+    {
+      "name": "i18n:node-library.groups.custom",
+      "items": []
+    }
+  ]
+}

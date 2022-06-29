@@ -1,0 +1,210 @@
+{
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF": {
+    "time": 1656299826641.0527,
+    "uuid": "7a64da34-8a2e-4bd0-a758-4c59d5792aca",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GifSupport.scene": {
+    "time": 1656299869911.632,
+    "uuid": "d5c14380-1e43-4890-aa6e-97193bdd186f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources": {
+    "time": 1656036474048.0454,
+    "uuid": "cf9d512a-2e45-49bd-908c-25fc51242705",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts": {
+    "time": 1656036474043.8123,
+    "uuid": "c0ff535c-20de-413c-84e0-3f52108826cf",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts": {
+    "time": 1656036474044.6367,
+    "uuid": "c63d8577-7363-4fcd-8341-dec3776f6d5c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts": {
+    "time": 1656036474045.2512,
+    "uuid": "1f356e9c-3f54-4e23-817d-32cf76d76239",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts": {
+    "time": 1656036474045.8962,
+    "uuid": "5cab8751-79e0-45b9-a08b-5f3d0377af05",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif": {
+    "time": 1656036474271.4482,
+    "uuid": "55d3d191-2417-4cdf-af62-f31fe87c5935",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/Rotating_earth_(small).gif": {
+    "time": 1656036474053.4417,
+    "uuid": "6588f5b2-f2f7-47e2-98b0-090c5f0ad736",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/adam.gif": {
+    "time": 1656036474056.743,
+    "uuid": "c8b6df67-a560-4523-a9dd-d5ed21494474",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/allefant.gif": {
+    "time": 1656036474057.6177,
+    "uuid": "6231de0d-4112-4c2a-9cb9-599d5975c63b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/bouncing_ball.gif": {
+    "time": 1656036474058.8027,
+    "uuid": "34db8ea1-f241-4e7d-9030-8e8b5b26e811",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/cat.gif": {
+    "time": 1656036474077.441,
+    "uuid": "a4ec9bbf-5920-4e0b-9adc-17a00a3c8aad",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/cirl.gif": {
+    "time": 1656036474079.1128,
+    "uuid": "5e3b6208-76fe-4c7d-a5a8-33686f120d3f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/dispose.gif": {
+    "time": 1656036474080.0647,
+    "uuid": "6f6e169c-95ed-4ff3-816f-4dd8950bf22f",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/duck1.gif": {
+    "time": 1656036474088.832,
+    "uuid": "7b977980-ad4a-43b6-a19d-b0adbca55a06",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/duck2.gif": {
+    "time": 1656036474095.218,
+    "uuid": "743f55ae-1782-48a7-a5bd-0280db35d1f7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/duck3.gif": {
+    "time": 1656036474098.8606,
+    "uuid": "3151d52f-8d7e-4baf-9b11-e4ebc5f88f2b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/light.gif": {
+    "time": 1656036474101.9734,
+    "uuid": "f29d811c-62d8-4383-8ae7-d6517498f764",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/queen_kitty.gif": {
+    "time": 1656036474227.3394,
+    "uuid": "5d03b839-ddee-439b-9356-5c9b65dddc80",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/recv.gif": {
+    "time": 1656036474229.0034,
+    "uuid": "3c15a82c-6bdc-4832-8252-2164e2323a9a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/rgb.gif": {
+    "time": 1656036474229.7742,
+    "uuid": "02017684-2c39-402c-97e1-43bcd3c72f8e",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/sort.gif": {
+    "time": 1656036474249.4277,
+    "uuid": "42ff4d2b-dff5-4afd-8a33-ede6fcbb00f4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/spin.gif": {
+    "time": 1656036474270.1694,
+    "uuid": "5c19afd2-afcd-4aa1-a9c9-dbcb4c3afd39",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/wait.gif": {
+    "time": 1656036474271.1716,
+    "uuid": "04c0310b-573d-41a2-97ca-1132bfd922ca",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF.meta": {
+    "time": 1656036474043.3562
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources.meta": {
+    "time": 1656036474047.5159
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/CCGIF.ts.meta": {
+    "time": 1656036474044.1992
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif.meta": {
+    "time": 1656036474047.9678
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GIF.ts.meta": {
+    "time": 1656036474044.947
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/GifSupport.ts.meta": {
+    "time": 1656036474045.5317
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/LZW.ts.meta": {
+    "time": 1656036474046.183
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GifSupport.scene.meta": {
+    "time": 1656036474047.1426
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/bouncing_ball.gif.meta": {
+    "time": 1656036474059.227
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/adam.gif.meta": {
+    "time": 1656036474057.2551
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/Rotating_earth_(small).gif.meta": {
+    "time": 1656036474055.4546
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/allefant.gif.meta": {
+    "time": 1656036474058.2334
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/cat.gif.meta": {
+    "time": 1656036474078.5654
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/cirl.gif.meta": {
+    "time": 1656036474079.6301
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/duck1.gif.meta": {
+    "time": 1656036474090.1462
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/dispose.gif.meta": {
+    "time": 1656036474080.3816
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/duck2.gif.meta": {
+    "time": 1656036474095.6118
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/duck3.gif.meta": {
+    "time": 1656036474099.9248
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/light.gif.meta": {
+    "time": 1656036474103.9338
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/recv.gif.meta": {
+    "time": 1656036474229.465
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/rgb.gif.meta": {
+    "time": 1656036474230.0908
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/sort.gif.meta": {
+    "time": 1656036474265.032
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/wait.gif.meta": {
+    "time": 1656036474272.1448
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/spin.gif.meta": {
+    "time": 1656036474270.5637
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/resources/gif/queen_kitty.gif.meta": {
+    "time": 1656036474228.5286
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts.meta": {
+    "time": 1656299826642.471
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2d/Creator3.5.0_2D_GifResourceLoading/assets/GIF/TestDynamic.ts": {
+    "time": 1656299855659.7053,
+    "uuid": "4b286cd2-1afe-4c2f-97a2-5d3c092dba0f",
+    "missing": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__version__": "1.0.0",
+  "options": {
+    "ios": {
+      "orientation": {
+        "landscapeRight": true,
+        "landscapeLeft": true
+      },
+      "renderBackEnd": {
+        "metal": true
+      },
+      "skipUpdateXcodeProject": false,
+      "targetVersion": "12.0",
+      "osTarget": {
+        "iphoneos": true,
+        "simulator": false
+      },
+      "developerTeam": "7PAN3EY4VP",
+      "packageName": "com.copyclipper.test"
+    }
+  }
+}

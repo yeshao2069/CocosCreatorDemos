@@ -1,0 +1,1306 @@
+2022-06-27T08:08:56.669Z - log: [Package] menu@1.0.0 enable
+2022-06-27T08:08:56.673Z - log: [Package] profile@1.0.0 enable
+2022-06-27T08:08:56.690Z - log: [Package] project@1.0.2 enable
+2022-06-27T08:08:56.695Z - log: [Package] messages@1.0.0 enable
+2022-06-27T08:08:56.701Z - log: [Package] program@1.0.0 enable
+2022-06-27T08:08:56.708Z - log: [Package] tester@1.0.0 enable
+2022-06-27T08:08:56.713Z - log: [Package] preferences@1.0.0 enable
+2022-06-27T08:08:57.571Z - log: Setup mods mgr.: 371.921ms
+2022-06-27T08:08:57.581Z - verbose: [Engine] QuickCompile engine (792ms)
+2022-06-27T08:08:57.585Z - log: [Package] engine@1.0.6 enable
+2022-06-27T08:08:58.486Z - log: [Package] programming@1.0.0 enable
+2022-06-27T08:08:58.796Z - log: [Package] device@1.0.1 enable
+2022-06-27T08:08:58.823Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-27T08:08:58.854Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-27T08:08:58.925Z - log: [Package] asset-db@1.0.0 enable
+2022-06-27T08:08:58.971Z - log: [Package] scene@1.0.0 enable
+2022-06-27T08:08:59.234Z - log: [Package] server@1.0.0 enable
+2022-06-27T08:08:59.398Z - log: [Package] utils@1.0.0 enable
+2022-06-27T08:09:04.524Z - log: [Package] preview@1.0.1 enable
+2022-06-27T08:09:04.566Z - log: [Package] animator@1.0.0 enable
+2022-06-27T08:09:04.797Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:09:05.927Z - log: Profile changed: builder (log.level: 4)
+2022-06-27T08:09:05.936Z - log: [Package] builder@1.3.2 enable
+2022-06-27T08:09:05.968Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-27T08:09:06.003Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-27T08:09:06.028Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-27T08:09:06.050Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-27T08:09:06.086Z - log: [Package] about@1.0.0 enable
+2022-06-27T08:09:06.132Z - log: [Package] assets@1.0.0 enable
+2022-06-27T08:09:06.174Z - log: [Package] console@1.0.0 enable
+2022-06-27T08:09:06.469Z - log: [Package] extension@3.0.16 enable
+2022-06-27T08:09:06.537Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-27T08:09:06.577Z - log: [Package] inspector@1.0.0 enable
+2022-06-27T08:09:06.614Z - log: [Package] lightmap@1.0.4 enable
+2022-06-27T08:09:06.656Z - log: [Package] node-library@1.0.1 enable
+2022-06-27T08:09:06.682Z - log: [Package] package-asset@1.0.0 enable
+2022-06-27T08:09:06.722Z - log: [Package] process@1.0.0 enable
+2022-06-27T08:09:06.762Z - log: [Package] reference-image@1.0.0 enable
+2022-06-27T08:09:06.787Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-27T08:09:06.815Z - log: [Package] android@1.0.0 enable
+2022-06-27T08:09:06.841Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-27T08:09:06.869Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-27T08:09:06.898Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-27T08:09:06.928Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-27T08:09:06.953Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-27T08:09:08.647Z - log: [Package] ios@1.0.0 enable
+2022-06-27T08:09:08.710Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-27T08:09:08.764Z - log: [Package] link-sure@1.0.0 enable
+2022-06-27T08:09:08.813Z - log: [Package] linux@1.0.0 enable
+2022-06-27T08:09:08.838Z - log: [Package] mac@1.0.0 enable
+2022-06-27T08:09:09.014Z - log: [Package] native@1.0.0 enable
+2022-06-27T08:09:09.022Z - verbose: [AssetDB] Require engine code (3284ms)
+2022-06-27T08:09:09.042Z - log: [Package] ohos@1.0.0 enable
+2022-06-27T08:09:09.067Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-27T08:09:09.089Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-27T08:09:09.112Z - log: [Package] qtt@1.0.0 enable
+2022-06-27T08:09:09.138Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-27T08:09:09.323Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-27T08:09:09.399Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-27T08:09:09.455Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-27T08:09:09.481Z - log: [Package] windows@1.0.0 enable
+2022-06-27T08:09:09.508Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-27T08:09:09.870Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-27T08:09:09.950Z - log: [Package] importer@1.0.0 enable
+2022-06-27T08:09:10.467Z - log: [Im-plugin] Check im-plugin version.
+2022-06-27T08:09:10.486Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-27T08:09:11.363Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-27T08:09:12.021Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:09:24.440Z - verbose: [Scene] Require engine code (1ms)
+2022-06-27T08:09:24.441Z - verbose: [Scene] Startup engine (1ms)
+2022-06-27T08:09:24.541Z - log: [Scene] Cocos Creator v3.5.2
+2022-06-27T08:09:25.540Z - verbose: [Scene] Open engine (1099ms)
+2022-06-27T08:09:25.540Z - verbose: [Scene] Configure engine (0ms)
+2022-06-27T08:09:25.264Z - info: [Scene] Forward render pipeline initialized.
+2022-06-27T08:14:02.102Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lignting".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lignting".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:14:02.103Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lignting".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lignting".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:14:02.108Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lignting".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lignting".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:14:34.724Z - log: [Scene] 00 -1 0
+2022-06-27T08:14:34.840Z - log: [Scene] 033554432 66 4091909572
+2022-06-27T08:15:07.355Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:15:07.355Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:15:07.356Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:15:07.461Z - log: [Scene] 033554432 66 4091909572
+2022-06-27T08:15:07.462Z - log: [Scene] 00 -1 0
+2022-06-27T08:15:07.491Z - log: [Scene] 033554432 66 1797117278
+2022-06-27T08:15:16.847Z - log: [Scene] 033554432 66 1797117278
+2022-06-27T08:19:42.548Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:22:46.601Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:22:46.602Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:22:46.602Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:25:04.350Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:25:04.350Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:25:04.350Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:25:15.314Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:25:16.631Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:25:32.957Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:25:52.318Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:26:12.806Z - log: [Scene] 00 -1 0
+2022-06-27T08:26:12.816Z - log: [Scene] 033554432 66 3750497590
+2022-06-27T08:26:41.489Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:26:45.669Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:30:34.240Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:30:34.240Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:30:34.241Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:32:42.214Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:32:42.214Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:32:42.214Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:34:44.651Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:35:40.596Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:40:12.973Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:42:41.450Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:46:57.726Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:46:57.726Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:46:57.726Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T08:47:10.707Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:50:46.048Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:51:12.383Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:59:06.385Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T08:59:12.396Z - warn: Metrics: no valid info
+2022-06-27T09:04:21.892Z - log: [Package] menu@1.0.0 enable
+2022-06-27T09:04:21.896Z - log: [Package] profile@1.0.0 enable
+2022-06-27T09:04:21.908Z - log: [Package] project@1.0.2 enable
+2022-06-27T09:04:21.918Z - log: [Package] messages@1.0.0 enable
+2022-06-27T09:04:21.921Z - log: [Package] program@1.0.0 enable
+2022-06-27T09:04:21.928Z - log: [Package] tester@1.0.0 enable
+2022-06-27T09:04:21.934Z - log: [Package] preferences@1.0.0 enable
+2022-06-27T09:04:22.759Z - log: Setup mods mgr.: 343.76ms
+2022-06-27T09:04:22.768Z - verbose: [Engine] QuickCompile engine (764ms)
+2022-06-27T09:04:22.771Z - log: [Package] engine@1.0.6 enable
+2022-06-27T09:04:23.632Z - log: [Package] programming@1.0.0 enable
+2022-06-27T09:04:23.945Z - log: [Package] device@1.0.1 enable
+2022-06-27T09:04:23.973Z - log: [Package] ui-kit@1.0.1 enable
+2022-06-27T09:04:24.013Z - log: [Package] engine-extends@1.0.0 enable
+2022-06-27T09:04:24.087Z - log: [Package] asset-db@1.0.0 enable
+2022-06-27T09:04:24.129Z - log: [Package] scene@1.0.0 enable
+2022-06-27T09:04:24.402Z - log: [Package] server@1.0.0 enable
+2022-06-27T09:04:24.522Z - log: [Package] utils@1.0.0 enable
+2022-06-27T09:04:29.604Z - log: [Package] preview@1.0.1 enable
+2022-06-27T09:04:29.639Z - log: [Package] animator@1.0.0 enable
+2022-06-27T09:04:29.865Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T09:04:30.967Z - log: [Package] builder@1.3.2 enable
+2022-06-27T09:04:31.000Z - log: [Package] shortcuts@1.0.1 enable
+2022-06-27T09:04:31.034Z - log: [Package] animation-graph@1.0.0 enable
+2022-06-27T09:04:31.057Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-27T09:04:31.083Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-27T09:04:31.115Z - log: [Package] about@1.0.0 enable
+2022-06-27T09:04:31.149Z - log: [Package] assets@1.0.0 enable
+2022-06-27T09:04:31.185Z - log: [Package] console@1.0.0 enable
+2022-06-27T09:04:31.427Z - log: [Package] extension@3.0.16 enable
+2022-06-27T09:04:31.500Z - log: [Package] hierarchy@1.0.0 enable
+2022-06-27T09:04:31.543Z - log: [Package] inspector@1.0.0 enable
+2022-06-27T09:04:31.597Z - log: [Package] lightmap@1.0.4 enable
+2022-06-27T09:04:31.733Z - log: [Package] node-library@1.0.1 enable
+2022-06-27T09:04:31.763Z - log: [Package] package-asset@1.0.0 enable
+2022-06-27T09:04:31.807Z - log: [Package] process@1.0.0 enable
+2022-06-27T09:04:31.848Z - log: [Package] reference-image@1.0.0 enable
+2022-06-27T09:04:31.876Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-27T09:04:31.912Z - log: [Package] android@1.0.0 enable
+2022-06-27T09:04:31.969Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-27T09:04:32.000Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-27T09:04:32.032Z - log: [Package] cocos-play@1.0.0 enable
+2022-06-27T09:04:32.063Z - log: [Package] huawei-agc@1.0.0 enable
+2022-06-27T09:04:32.090Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-27T09:04:33.486Z - log: [Package] ios@1.0.0 enable
+2022-06-27T09:04:33.513Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-06-27T09:04:33.536Z - log: [Package] link-sure@1.0.0 enable
+2022-06-27T09:04:33.566Z - log: [Package] linux@1.0.0 enable
+2022-06-27T09:04:33.590Z - log: [Package] mac@1.0.0 enable
+2022-06-27T09:04:33.740Z - log: [Package] native@1.0.0 enable
+2022-06-27T09:04:33.768Z - log: [Package] ohos@1.0.0 enable
+2022-06-27T09:04:33.776Z - verbose: [AssetDB] Require engine code (3099ms)
+2022-06-27T09:04:33.793Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-06-27T09:04:33.820Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-27T09:04:33.845Z - log: [Package] qtt@1.0.0 enable
+2022-06-27T09:04:33.871Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-27T09:04:33.910Z - log: [Package] web-desktop@1.0.0 enable
+2022-06-27T09:04:33.951Z - log: [Package] web-mobile@1.0.0 enable
+2022-06-27T09:04:33.993Z - log: [Package] wechatgame@1.0.1 enable
+2022-06-27T09:04:34.021Z - log: [Package] windows@1.0.0 enable
+2022-06-27T09:04:34.051Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-27T09:04:34.528Z - log: [Package] cocos-service@3.0.3 enable
+2022-06-27T09:04:34.569Z - log: [Package] importer@1.0.0 enable
+2022-06-27T09:04:35.047Z - log: [Im-plugin] Check im-plugin version.
+2022-06-27T09:04:35.060Z - log: [Package] im-plugin@3.0.8 enable
+2022-06-27T09:04:35.832Z - log: [Im-plugin] No online info of im-plugin.
+2022-06-27T09:04:36.555Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-06-27T09:04:42.878Z - verbose: [Scene] Require engine code (2ms)
+2022-06-27T09:04:42.881Z - verbose: [Scene] Startup engine (2ms)
+2022-06-27T09:04:42.990Z - log: [Scene] Cocos Creator v3.5.2
+2022-06-27T09:04:43.105Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T09:04:43.105Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T09:04:43.106Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T09:04:43.406Z - verbose: [Scene] Open engine (524ms)
+2022-06-27T09:04:43.406Z - verbose: [Scene] Configure engine (0ms)
+2022-06-27T09:04:43.116Z - info: [Scene] Forward render pipeline initialized.
+2022-06-27T09:04:44.430Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "detail" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T09:04:44.430Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "displacement" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T09:04:44.431Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "yOffset" of cc class "Lightning".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:289)
+    at Logger.record (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129105:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129324:3)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109503:23)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109100:3)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109334:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109379:5)
+    at /Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:215995:34
+2022-06-27T09:06:28.863Z - warn: Metrics: no valid info

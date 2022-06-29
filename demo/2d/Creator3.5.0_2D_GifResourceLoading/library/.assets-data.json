@@ -1,0 +1,106 @@
+{
+  "7a64da34-8a2e-4bd0-a758-4c59d5792aca": {
+    "url": "db://assets/GIF",
+    "value": {}
+  },
+  "d5c14380-1e43-4890-aa6e-97193bdd186f": {
+    "url": "db://assets/GifSupport.scene",
+    "value": {}
+  },
+  "cf9d512a-2e45-49bd-908c-25fc51242705": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "c0ff535c-20de-413c-84e0-3f52108826cf": {
+    "url": "db://assets/GIF/CCGIF.ts",
+    "value": {}
+  },
+  "c63d8577-7363-4fcd-8341-dec3776f6d5c": {
+    "url": "db://assets/GIF/GIF.ts",
+    "value": {}
+  },
+  "1f356e9c-3f54-4e23-817d-32cf76d76239": {
+    "url": "db://assets/GIF/GifSupport.ts",
+    "value": {}
+  },
+  "5cab8751-79e0-45b9-a08b-5f3d0377af05": {
+    "url": "db://assets/GIF/LZW.ts",
+    "value": {}
+  },
+  "55d3d191-2417-4cdf-af62-f31fe87c5935": {
+    "url": "db://assets/resources/gif",
+    "value": {}
+  },
+  "6588f5b2-f2f7-47e2-98b0-090c5f0ad736": {
+    "url": "db://assets/resources/gif/Rotating_earth_(small).gif",
+    "value": {}
+  },
+  "c8b6df67-a560-4523-a9dd-d5ed21494474": {
+    "url": "db://assets/resources/gif/adam.gif",
+    "value": {}
+  },
+  "6231de0d-4112-4c2a-9cb9-599d5975c63b": {
+    "url": "db://assets/resources/gif/allefant.gif",
+    "value": {}
+  },
+  "34db8ea1-f241-4e7d-9030-8e8b5b26e811": {
+    "url": "db://assets/resources/gif/bouncing_ball.gif",
+    "value": {}
+  },
+  "a4ec9bbf-5920-4e0b-9adc-17a00a3c8aad": {
+    "url": "db://assets/resources/gif/cat.gif",
+    "value": {}
+  },
+  "5e3b6208-76fe-4c7d-a5a8-33686f120d3f": {
+    "url": "db://assets/resources/gif/cirl.gif",
+    "value": {}
+  },
+  "6f6e169c-95ed-4ff3-816f-4dd8950bf22f": {
+    "url": "db://assets/resources/gif/dispose.gif",
+    "value": {}
+  },
+  "7b977980-ad4a-43b6-a19d-b0adbca55a06": {
+    "url": "db://assets/resources/gif/duck1.gif",
+    "value": {}
+  },
+  "743f55ae-1782-48a7-a5bd-0280db35d1f7": {
+    "url": "db://assets/resources/gif/duck2.gif",
+    "value": {}
+  },
+  "3151d52f-8d7e-4baf-9b11-e4ebc5f88f2b": {
+    "url": "db://assets/resources/gif/duck3.gif",
+    "value": {}
+  },
+  "f29d811c-62d8-4383-8ae7-d6517498f764": {
+    "url": "db://assets/resources/gif/light.gif",
+    "value": {}
+  },
+  "5d03b839-ddee-439b-9356-5c9b65dddc80": {
+    "url": "db://assets/resources/gif/queen_kitty.gif",
+    "value": {}
+  },
+  "3c15a82c-6bdc-4832-8252-2164e2323a9a": {
+    "url": "db://assets/resources/gif/recv.gif",
+    "value": {}
+  },
+  "02017684-2c39-402c-97e1-43bcd3c72f8e": {
+    "url": "db://assets/resources/gif/rgb.gif",
+    "value": {}
+  },
+  "42ff4d2b-dff5-4afd-8a33-ede6fcbb00f4": {
+    "url": "db://assets/resources/gif/sort.gif",
+    "value": {}
+  },
+  "5c19afd2-afcd-4aa1-a9c9-dbcb4c3afd39": {
+    "url": "db://assets/resources/gif/spin.gif",
+    "value": {}
+  },
+  "04c0310b-573d-41a2-97ca-1132bfd922ca": {
+    "url": "db://assets/resources/gif/wait.gif",
+    "value": {}
+  },
+  "4b286cd2-1afe-4c2f-97a2-5d3c092dba0f": {
+    "url": "db://assets/GIF/TestDynamic.ts",
+    "value": {}
+  }
+}

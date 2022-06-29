@@ -1,0 +1,90 @@
+{
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/main.scene": {
+    "time": 1655184978411.3484,
+    "uuid": "3734ef02-2cbc-4646-8e8f-db9bba15aae9",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res": {
+    "time": 1655172699666.9614,
+    "uuid": "2be2a60a-134d-41fc-b99f-618ad22bbe2d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/scripts": {
+    "time": 1655173164515.7197,
+    "uuid": "627b99f1-8b5f-4e0d-8a7e-70286745909c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/decalmat.effect": {
+    "time": 1655184806249.9954,
+    "uuid": "cd9d9337-58e5-4ac7-aa0d-4eae96c9682c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/decalmat.mtl": {
+    "time": 1655184977235.2527,
+    "uuid": "29379b99-c104-4057-857e-4f31ccbef3c6",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/textures": {
+    "time": 1655101351109.9937,
+    "uuid": "3bc78cb8-a71f-47fa-a640-2a907e232f36",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/scripts/DecalMeshRenderer.ts": {
+    "time": 1655101730743.21,
+    "uuid": "7eb5e4d4-b91d-4654-a7fb-fb29553426e0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/scripts/DragAndRotate.ts": {
+    "time": 1654288436065.029,
+    "uuid": "2301421d-bd56-4d3e-b26c-d10a99f10938",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/scripts/decal.ts": {
+    "time": 1655178626340.81,
+    "uuid": "1bbb9bc8-90e6-4654-bbf1-018d23a58380",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/textures/decal-diffuse.png": {
+    "time": 1654288436076.7795,
+    "uuid": "7cc1916e-56f8-4f75-8106-a017237044d2",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/textures/decal-normal.jpg": {
+    "time": 1654288436080.814,
+    "uuid": "66cdbeec-33c8-4cad-971c-9aa755df25cd",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res.meta": {
+    "time": 1655101358732.8044
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/scripts.meta": {
+    "time": 1654288436060.8997
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/textures.meta": {
+    "time": 1654288436069.6807
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/scripts/DecalMeshRenderer.ts.meta": {
+    "time": 1655170827240.8025
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/scripts/DragAndRotate.ts.meta": {
+    "time": 1654288436092.132
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/scripts/decal.ts.meta": {
+    "time": 1654288436097.812
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/decalmat.effect.meta": {
+    "time": 1655175715182.5552
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/main.scene.meta": {
+    "time": 1654288436173.9346
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/decalmat.mtl.meta": {
+    "time": 1655175715215.5503
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/textures/decal-diffuse.png.meta": {
+    "time": 1655174183212.3645
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_Graffiti/assets/res/textures/decal-normal.jpg.meta": {
+    "time": 1654288436220.3152
+  }
+}

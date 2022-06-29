@@ -1,0 +1,160 @@
+{
+  "__version__": "1.3.2",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "android",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android",
+    "name": "Creator3.5.2_CopyFile"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1656052654659": {
+        "id": "1656052654659",
+        "progress": 1,
+        "state": "success",
+        "message": "2022-6-24 15:54 Build success in 8332 ms!",
+        "options": {
+          "name": "Creator3.5.2_CopyFile",
+          "platform": "ios",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "47eda9e7-d8fd-44d6-a09b-65174ba2d3f1",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "47eda9e7-d8fd-44d6-a09b-65174ba2d3f1",
+              "inBundle": false
+            }
+          ],
+          "outputName": "ios",
+          "packages": {
+            "ios": {
+              "orientation": {
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "renderBackEnd": {
+                "metal": true
+              },
+              "skipUpdateXcodeProject": false,
+              "targetVersion": "12.0",
+              "osTarget": {
+                "iphoneos": true,
+                "simulator": false
+              },
+              "developerTeam": "7PAN3EY4VP",
+              "packageName": "com.copyclipper.test"
+            },
+            "cocos-service": {
+              "configID": "870eec",
+              "services": []
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "dc07j5YTFFMpjxSP",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "none"
+            }
+          }
+        },
+        "time": "2022-6-24 15:54",
+        "dirty": false
+      },
+      "1656060196837": {
+        "id": "1656060196837",
+        "progress": 1,
+        "state": "success",
+        "message": "2022-6-24 16:43 Build success in 8967 ms!",
+        "options": {
+          "name": "Creator3.5.2_CopyFile",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "47eda9e7-d8fd-44d6-a09b-65174ba2d3f1",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "47eda9e7-d8fd-44d6-a09b-65174ba2d3f1",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "com.copyclipper.test",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-26",
+              "appABIs": [
+                "arm64-v8a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false
+            },
+            "cocos-service": {
+              "configID": "870eec",
+              "services": []
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "830aCHAJBDA4KLgW",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "none"
+            }
+          }
+        },
+        "time": "2022-6-24 16:43",
+        "dirty": false
+      }
+    }
+  }
+}

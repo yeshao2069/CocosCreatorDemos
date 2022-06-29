@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.Material",
+  "_name": "HoloFillDark",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_VERTEX_COLOR": true
+    }
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "blendState": {
+        "targets": [
+          {
+            "blend": true,
+            "blendSrc": 2,
+            "blendDst": 4,
+            "blendDstAlpha": 4
+          }
+        ]
+      },
+      "depthStencilState": {
+        "depthWrite": false
+      }
+    }
+  ],
+  "_props": [
+    {
+      "albedoScale": {
+        "__type__": "cc.Vec3",
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "metallic": 0.9224466463,
+      "roughness": 0.7029344512,
+      "emissiveScale": {
+        "__type__": "cc.Vec4",
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      }
+    }
+  ]
+}

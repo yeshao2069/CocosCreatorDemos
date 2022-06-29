@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sheep",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 2,
+      "width": 506,
+      "height": 614
+    },
+    "offset": {
+      "x": -1,
+      "y": 203
+    },
+    "originalSize": {
+      "width": 512,
+      "height": 1024
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "673b443a-9339-4826-927c-1c76e6ce8dc4@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "path": {
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/resources/common/effects/effect-texture_move.effect": [
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/input.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/morph.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-skinning.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/skinning-lbs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local-batch.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/output.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/gamma.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/unlit-vs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/input.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/decode.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/decode-base.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/common.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/morph.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/cc-skinning.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/skinning-lbs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/cc-global.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/cc-local-batch.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/cc-local.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/unlit-fs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/output.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/gamma.chunk"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/effects/effect-texture_move.effect": [
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-vs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/input.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/decode-base.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/morph.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-skinning.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/skinning-lbs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-global.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local-batch.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/cc-local.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-fs.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/output.chunk",
+      "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/gamma.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/unlit-vs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/input.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/decode.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/decode-base.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/common.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/morph.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/cc-skinning.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/skinning-lbs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/cc-global.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/cc-local-batch.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/cc-local.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/unlit-fs.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/output.chunk",
+      "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/chunks/gamma.chunk"
+    ]
+  },
+  "uuid": {
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/resources/common/materials/WeaponGlow.mtl": [
+      "9fb56b78-2787-46d9-981e-07532e4e334a"
+    ],
+    "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.2_3D_WeaponGlow/assets/res/common/materials/WeaponGlow.mtl": [
+      "9fb56b78-2787-46d9-981e-07532e4e334a"
+    ]
+  }
+}

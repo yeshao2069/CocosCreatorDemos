@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "9ed83af2-7710-4cb2-8f79-7d96582b6e54",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/UIMgr.js",
+    "simulateGlobals": []
+  }
+}

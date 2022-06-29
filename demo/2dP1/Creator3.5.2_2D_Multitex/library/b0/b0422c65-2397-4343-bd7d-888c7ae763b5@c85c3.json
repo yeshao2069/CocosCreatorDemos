@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scrollview_barBg",
+    "atlas": "b0422c65-2397-4343-bd7d-888c7ae763b5",
+    "rect": {
+      "x": 167,
+      "y": 92,
+      "width": 19,
+      "height": 22
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 19,
+      "height": 22
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "295bfe3f-4205-4abf-aefc-fd41039f959a@6c48a",
+    "packable": true
+  }
+}

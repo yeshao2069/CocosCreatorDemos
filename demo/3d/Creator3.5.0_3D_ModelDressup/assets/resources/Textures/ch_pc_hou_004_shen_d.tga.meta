@@ -1,0 +1,42 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b0ad489f-9263-4f6d-95bb-fa041a2d8787",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b0ad489f-9263-4f6d-95bb-fa041a2d8787@6c48a",
+      "displayName": "ch_pc_hou_004_shen_d",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b0ad489f-9263-4f6d-95bb-fa041a2d8787"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "b0ad489f-9263-4f6d-95bb-fa041a2d8787@6c48a",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

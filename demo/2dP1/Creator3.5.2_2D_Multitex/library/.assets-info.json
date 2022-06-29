@@ -1,0 +1,274 @@
+{
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources.meta": {
+    "time": 1655883115025.0977
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas.meta": {
+    "time": 1655883115026.0642
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/emoji.plist.meta": {
+    "time": 1655883115027.9072
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/emoji.png.meta": {
+    "time": 1655883115370.6394
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/sheep.plist.meta": {
+    "time": 1655883115031.334
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/sheep.png.meta": {
+    "time": 1655883115599.6755
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/ui.plist.meta": {
+    "time": 1655883115041.548
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/ui.png.meta": {
+    "time": 1655883115665.8489
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources": {
+    "time": 1655883115025.8984,
+    "uuid": "6d74179e-2f66-4965-afe4-64af11b2d3b4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas": {
+    "time": 1655883115042.9773,
+    "uuid": "938626a0-d32c-4df8-8e62-e603251669e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/emoji.png": {
+    "time": 1655883115028.7322,
+    "uuid": "7cdfdd93-13bd-44bf-b577-3cae38d5f82b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/emoji.plist": {
+    "time": 1655883115027.0464,
+    "uuid": "7aaef392-2317-4f83-9b99-16dd63a07a72",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/sheep.png": {
+    "time": 1655883115035.1467,
+    "uuid": "673b443a-9339-4826-927c-1c76e6ce8dc4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/ui.png": {
+    "time": 1655883115042.2295,
+    "uuid": "295bfe3f-4205-4abf-aefc-fd41039f959a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/sheep.plist": {
+    "time": 1655883115030.49,
+    "uuid": "23790525-23ad-4c82-bd6e-1a6ac6d92fe0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/resources/atlas/ui.plist": {
+    "time": 1655883115040.7822,
+    "uuid": "b0422c65-2397-4343-bd7d-888c7ae763b5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/multitex.scene.meta": {
+    "time": 1655883115336.5981
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/multitex.scene": {
+    "time": 1655896355882.5972,
+    "uuid": "27c77f7d-2281-40ab-96f2-c0bbd778575a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res.meta": {
+    "time": 1655883115000.8723
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res": {
+    "time": 1655883140470.6028,
+    "uuid": "cf48174e-b305-48d5-9584-eaf3db3e799d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/multitex.mtl.meta": {
+    "time": 1655883127064.8086
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/multitex.mtl": {
+    "time": 1655885350134.7373,
+    "uuid": "7bde4089-2867-4f1a-8996-e6fafe3e13a3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/multitex.effect.meta": {
+    "time": 1655883115298.4773
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/multitex.effect": {
+    "time": 1655885321931.111,
+    "uuid": "c4aa2b8a-1bd5-436a-a620-5ecdc23502d1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/origin_sprite.effect.meta": {
+    "time": 1655883115311.4998
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/res/origin_sprite.effect": {
+    "time": 1655883115177.2104,
+    "uuid": "526ef31e-912d-4b4f-9f9e-99fcf95ff9bb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/src.meta": {
+    "time": 1655883135032.398
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/src": {
+    "time": 1655883140470.6028,
+    "uuid": "8fe9e638-178c-4769-a2ea-ef309c1b102d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/src/MTSprite.ts.meta": {
+    "time": 1655883115171.7676
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/src/MTSprite.ts": {
+    "time": 1655883262261.0815,
+    "uuid": "de746afb-8f3f-42f9-8544-a2bb1da40e2c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/src/MTBatcher2D.ts.meta": {
+    "time": 1655883115171.0251
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/src/MTBatcher2D.ts": {
+    "time": 1655896347485.6794,
+    "uuid": "ead7e31d-6ce1-4ade-804e-2fc54840c675",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/src/MTTex.ts.meta": {
+    "time": 1655883115172.1824
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.1_2D_Multitex/assets/src/MTTex.ts": {
+    "time": 1655883115011.485,
+    "uuid": "145241b4-a50b-4521-992b-31131ba57c6a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/multitex.scene": {
+    "time": 1655956397746.6777,
+    "uuid": "27c77f7d-2281-40ab-96f2-c0bbd778575a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res": {
+    "time": 1655883140470.6028,
+    "uuid": "cf48174e-b305-48d5-9584-eaf3db3e799d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources": {
+    "time": 1655883115025.8984,
+    "uuid": "6d74179e-2f66-4965-afe4-64af11b2d3b4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src": {
+    "time": 1655883140470.6028,
+    "uuid": "8fe9e638-178c-4769-a2ea-ef309c1b102d",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res/multitex.effect": {
+    "time": 1655885321931.111,
+    "uuid": "c4aa2b8a-1bd5-436a-a620-5ecdc23502d1",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res/multitex.mtl": {
+    "time": 1655885350134.7373,
+    "uuid": "7bde4089-2867-4f1a-8996-e6fafe3e13a3",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res/origin_sprite.effect": {
+    "time": 1655883115177.2104,
+    "uuid": "526ef31e-912d-4b4f-9f9e-99fcf95ff9bb",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas": {
+    "time": 1655883115042.9773,
+    "uuid": "938626a0-d32c-4df8-8e62-e603251669e7",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src/MTBatcher2D.ts": {
+    "time": 1655956393457.1548,
+    "uuid": "ead7e31d-6ce1-4ade-804e-2fc54840c675",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src/MTSprite.ts": {
+    "time": 1655883262261.0815,
+    "uuid": "de746afb-8f3f-42f9-8544-a2bb1da40e2c",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src/MTTex.ts": {
+    "time": 1655883115011.485,
+    "uuid": "145241b4-a50b-4521-992b-31131ba57c6a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/emoji.plist": {
+    "time": 1655883115027.0464,
+    "uuid": "7aaef392-2317-4f83-9b99-16dd63a07a72",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/emoji.png": {
+    "time": 1655883115028.7322,
+    "uuid": "7cdfdd93-13bd-44bf-b577-3cae38d5f82b",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/sheep.plist": {
+    "time": 1655883115030.49,
+    "uuid": "23790525-23ad-4c82-bd6e-1a6ac6d92fe0",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/sheep.png": {
+    "time": 1655883115035.1467,
+    "uuid": "673b443a-9339-4826-927c-1c76e6ce8dc4",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/ui.plist": {
+    "time": 1655883115040.7822,
+    "uuid": "b0422c65-2397-4343-bd7d-888c7ae763b5",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/ui.png": {
+    "time": 1655883115042.2295,
+    "uuid": "295bfe3f-4205-4abf-aefc-fd41039f959a",
+    "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res.meta": {
+    "time": 1655883115000.8723
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources.meta": {
+    "time": 1655883115025.0977
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src.meta": {
+    "time": 1655883135032.398
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas.meta": {
+    "time": 1655883115026.0642
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src/MTBatcher2D.ts.meta": {
+    "time": 1655883115171.0251
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src/MTSprite.ts.meta": {
+    "time": 1655883115171.7676
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res/multitex.effect.meta": {
+    "time": 1655883115298.4773
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/src/MTTex.ts.meta": {
+    "time": 1655883115172.1824
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res/origin_sprite.effect.meta": {
+    "time": 1655883115311.4998
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/multitex.scene.meta": {
+    "time": 1655883115336.5981
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/res/multitex.mtl.meta": {
+    "time": 1655883127064.8086
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/emoji.png.meta": {
+    "time": 1655952640239.1235
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/emoji.plist.meta": {
+    "time": 1655952640266.4749
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/sheep.png.meta": {
+    "time": 1655952640268.5125
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/ui.png.meta": {
+    "time": 1655952640307.5203
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/sheep.plist.meta": {
+    "time": 1655952640333.835
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/2dP1/Creator3.5.2_2D_Multitex/assets/resources/atlas/ui.plist.meta": {
+    "time": 1655952640341.218
+  }
+}
