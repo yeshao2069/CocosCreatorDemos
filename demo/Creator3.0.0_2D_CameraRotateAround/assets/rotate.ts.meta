@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2133334b-dc4d-4fb7-a89b-ecbd7337f200",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/rotate.js",
+    "importerSettings": 7
+  }
+}

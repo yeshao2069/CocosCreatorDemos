@@ -1,0 +1,124 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "380e8e85-9eea-4a5a-849a-52c22c277f61",
+  "files": [],
+  "subMetas": {
+    "a4d09": {
+      "importer": "gltf-mesh",
+      "uuid": "380e8e85-9eea-4a5a-849a-52c22c277f61@a4d09",
+      "displayName": "",
+      "id": "a4d09",
+      "name": "ch_we_one_hou_008.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "43c71": {
+      "importer": "gltf-embeded-image",
+      "uuid": "380e8e85-9eea-4a5a-849a-52c22c277f61@43c71",
+      "displayName": "",
+      "id": "43c71",
+      "name": "file1.image",
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "d20e9": {
+      "importer": "texture",
+      "uuid": "380e8e85-9eea-4a5a-849a-52c22c277f61@d20e9",
+      "displayName": "",
+      "id": "d20e9",
+      "name": "file1.texture",
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "380e8e85-9eea-4a5a-849a-52c22c277f61@43c71"
+      }
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "380e8e85-9eea-4a5a-849a-52c22c277f61@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "433ec": {
+      "importer": "gltf-scene",
+      "uuid": "380e8e85-9eea-4a5a-849a-52c22c277f61@433ec",
+      "displayName": "",
+      "id": "433ec",
+      "name": "ch_pc_hou_008_weapon.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file1",
+        "uri": "380e8e85-9eea-4a5a-849a-52c22c277f61@43c71"
+      }
+    ],
+    "redirect": "380e8e85-9eea-4a5a-849a-52c22c277f61@433ec",
+    "assetFinder": {
+      "meshes": [
+        "380e8e85-9eea-4a5a-849a-52c22c277f61@a4d09"
+      ],
+      "skeletons": [],
+      "textures": [
+        "380e8e85-9eea-4a5a-849a-52c22c277f61@d20e9"
+      ],
+      "materials": [
+        "380e8e85-9eea-4a5a-849a-52c22c277f61@7a3ca"
+      ],
+      "scenes": [
+        "380e8e85-9eea-4a5a-849a-52c22c277f61@433ec"
+      ]
+    },
+    "legacyFbxImporter": true
+  }
+}

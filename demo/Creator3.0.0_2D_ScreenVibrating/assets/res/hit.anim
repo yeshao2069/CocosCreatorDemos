@@ -1,0 +1,56 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "hit",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 4,
+    "speed": 10,
+    "wrapMode": 1,
+    "events": [],
+    "_duration": 1,
+    "_keys": [
+      [
+        0,
+        0.25,
+        0.5,
+        0.75
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "7a6c54ad-ba8d-49b3-8e9c-181f234d1286@f9941"
+            },
+            {
+              "__uuid__": "7a6c54ad-ba8d-49b3-8e9c-181f234d1286@f9941"
+            },
+            {
+              "__uuid__": "7a6c54ad-ba8d-49b3-8e9c-181f234d1286@f9941"
+            },
+            {
+              "__uuid__": "e5743cff-12e7-4fc4-8220-d10442002071@f9941"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 1638231910
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]

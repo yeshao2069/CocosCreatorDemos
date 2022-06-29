@@ -1,0 +1,852 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d",
+  "files": [],
+  "subMetas": {
+    "85244": {
+      "importer": "gltf-material",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@85244",
+      "displayName": "",
+      "id": "85244",
+      "name": "Mech_desert.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "88764": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@88764",
+      "displayName": "",
+      "id": "88764",
+      "name": "Armature|Walk_oneleg.animation",
+      "userData": {
+        "gltfIndex": 17,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "98739": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@98739",
+      "displayName": "",
+      "id": "98739",
+      "name": "Armature|Jump.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.125
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b69a5": {
+      "importer": "gltf-mesh",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@b69a5",
+      "displayName": "",
+      "id": "b69a5",
+      "name": "Mech5_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08c68": {
+      "importer": "gltf-mesh",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@08c68",
+      "displayName": "",
+      "id": "08c68",
+      "name": "Plane.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bef37": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@bef37",
+      "displayName": "",
+      "id": "bef37",
+      "name": "Standwalk.002.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.458333492279053
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f4e2": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@8f4e2",
+      "displayName": "",
+      "id": "8f4e2",
+      "name": "Stand.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.3333333432674408
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "27d43": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@27d43",
+      "displayName": "",
+      "id": "27d43",
+      "name": "Armature|Jump_forw.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.125
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6d270": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@6d270",
+      "displayName": "",
+      "id": "6d270",
+      "name": "Armature|Reload.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb0bc": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@cb0bc",
+      "displayName": "",
+      "id": "cb0bc",
+      "name": "Armature|Run_forw.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eecaf": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@eecaf",
+      "displayName": "",
+      "id": "eecaf",
+      "name": "Armature|Run.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "752a0": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@752a0",
+      "displayName": "",
+      "id": "752a0",
+      "name": "Armature|Run_forw.001.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0851f": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@0851f",
+      "displayName": "",
+      "id": "0851f",
+      "name": "Armature|Run_forw_old.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "02f41": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@02f41",
+      "displayName": "",
+      "id": "02f41",
+      "name": "Armature|Stand.animation",
+      "userData": {
+        "gltfIndex": 9,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ebd0f": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@ebd0f",
+      "displayName": "",
+      "id": "ebd0f",
+      "name": "Armature|Standwalk.002.animation",
+      "userData": {
+        "gltfIndex": 10,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0833333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47e6b": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@47e6b",
+      "displayName": "",
+      "id": "47e6b",
+      "name": "Armature|Turn.002.animation",
+      "userData": {
+        "gltfIndex": 11,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.166666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4e2d": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@d4e2d",
+      "displayName": "",
+      "id": "d4e2d",
+      "name": "Armature|Twist.animation",
+      "userData": {
+        "gltfIndex": 12,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.4166667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b663a": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@b663a",
+      "displayName": "",
+      "id": "b663a",
+      "name": "Armature|Walk.animation",
+      "userData": {
+        "gltfIndex": 13,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.5833333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "63e5c": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@63e5c",
+      "displayName": "",
+      "id": "63e5c",
+      "name": "Armature|Walk2.animation",
+      "userData": {
+        "gltfIndex": 14,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fe66": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@7fe66",
+      "displayName": "",
+      "id": "7fe66",
+      "name": "Armature|Walk_forward.animation",
+      "userData": {
+        "gltfIndex": 15,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f3b5": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@6f3b5",
+      "displayName": "",
+      "id": "6f3b5",
+      "name": "Armature|Walk_forward.001.animation",
+      "userData": {
+        "gltfIndex": 16,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.1666667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1d61": {
+      "importer": "gltf-animation",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@e1d61",
+      "displayName": "",
+      "id": "e1d61",
+      "name": "Armature|Walk_onelegforw.animation",
+      "userData": {
+        "gltfIndex": 18,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 13
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cfdb9": {
+      "importer": "gltf-material",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@cfdb9",
+      "displayName": "",
+      "id": "cfdb9",
+      "name": "Windows.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "04576": {
+      "importer": "gltf-material",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@04576",
+      "displayName": "",
+      "id": "04576",
+      "name": "Plane.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "962f0": {
+      "importer": "gltf-scene",
+      "uuid": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@962f0",
+      "displayName": "",
+      "id": "962f0",
+      "name": "Mech5_final3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Standwalk.002",
+        "duration": 4.458333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Standwalk.002",
+            "from": 0,
+            "to": 4.458333492279053,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Stand",
+        "duration": 0.3333333432674408,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Stand",
+            "from": 0,
+            "to": 0.3333333432674408,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Jump",
+        "duration": 1.125,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Jump",
+            "from": 0,
+            "to": 1.125,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Jump_forw",
+        "duration": 1.125,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Jump_forw",
+            "from": 0,
+            "to": 1.125,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Reload",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Reload",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Run_forw",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Run_forw",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Run",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Run",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Run_forw.001",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Run_forw.001",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Run_forw_old",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Run_forw_old",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Stand",
+        "duration": 0,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Stand",
+            "from": 0,
+            "to": 0,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Standwalk.002",
+        "duration": 1.0833333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Standwalk.002",
+            "from": 0,
+            "to": 1.0833333730697632,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Turn.002",
+        "duration": 4.166666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Turn.002",
+            "from": 0,
+            "to": 4.166666507720947,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Twist",
+        "duration": 2.4166667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Twist",
+            "from": 0,
+            "to": 2.4166667461395264,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Walk",
+        "duration": 1.5833333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Walk",
+            "from": 0,
+            "to": 1.5833333730697632,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Walk2",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Walk2",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Walk_forward",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Walk_forward",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Walk_forward.001",
+        "duration": 3.1666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Walk_forward.001",
+            "from": 0,
+            "to": 3.1666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Walk_oneleg",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Walk_oneleg",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Armature|Walk_onelegforw",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Armature|Walk_onelegforw",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a7fc1244-f6b8-4e34-973d-80e7bc78462d@962f0",
+    "assetFinder": {
+      "meshes": [
+        "a7fc1244-f6b8-4e34-973d-80e7bc78462d@b69a5",
+        "a7fc1244-f6b8-4e34-973d-80e7bc78462d@08c68"
+      ],
+      "skeletons": [
+        "a7fc1244-f6b8-4e34-973d-80e7bc78462d@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "a7fc1244-f6b8-4e34-973d-80e7bc78462d@85244",
+        "a7fc1244-f6b8-4e34-973d-80e7bc78462d@cfdb9",
+        "a7fc1244-f6b8-4e34-973d-80e7bc78462d@04576"
+      ],
+      "scenes": [
+        "a7fc1244-f6b8-4e34-973d-80e7bc78462d@962f0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "417b82d1-55d3-4a3b-b95c-9e4889955571",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/UIMeshRender.js",
+    "importerSettings": 0
+  }
+}

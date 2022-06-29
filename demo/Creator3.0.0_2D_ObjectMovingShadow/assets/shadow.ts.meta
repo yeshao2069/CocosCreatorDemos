@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.21",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "9712758f-aa98-47e3-b6dd-1a1e4ad35eaf",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/shadow.js",
+    "importerSettings": 7
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "3dee29a9-d0d9-4a1b-acc3-bc265d8140a2",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "3dee29a9-d0d9-4a1b-acc3-bc265d8140a2@6c48a",
+      "displayName": "ch_pc_hou_006_jiao_d",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3dee29a9-d0d9-4a1b-acc3-bc265d8140a2"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "3dee29a9-d0d9-4a1b-acc3-bc265d8140a2@6c48a",
+    "hasAlpha": true
+  }
+}

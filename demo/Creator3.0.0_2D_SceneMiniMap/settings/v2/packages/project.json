@@ -1,0 +1,13 @@
+{
+  "__version__": "1.0.1",
+  "layer": [
+    {
+      "name": "BIG_UI",
+      "value": 1
+    },
+    {
+      "name": "SMALL_UI",
+      "value": 2
+    }
+  ]
+}

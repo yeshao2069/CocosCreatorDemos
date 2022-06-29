@@ -1,0 +1,41 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "08e472c9-b761-4410-9c15-2c5c9711e32a",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "08e472c9-b761-4410-9c15-2c5c9711e32a@6c48a",
+      "displayName": "ch_pc_hou_004_shou_d",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "08e472c9-b761-4410-9c15-2c5c9711e32a"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "08e472c9-b761-4410-9c15-2c5c9711e32a@6c48a",
+    "hasAlpha": true
+  }
+}
