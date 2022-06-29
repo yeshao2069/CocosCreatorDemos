@@ -1,0 +1,17 @@
+{
+  "__version__": "1.0.1",
+  "layer": [
+    {
+      "name": "default",
+      "value": 1
+    },
+    {
+      "name": "camera_show",
+      "value": 2
+    },
+    {
+      "name": "role",
+      "value": 4
+    }
+  ]
+}

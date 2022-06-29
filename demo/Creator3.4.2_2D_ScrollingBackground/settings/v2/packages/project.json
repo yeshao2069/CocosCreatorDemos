@@ -1,0 +1,27 @@
+{
+  "__version__": "1.0.1",
+  "layer": [
+    {
+      "name": "celestial",
+      "value": 1
+    },
+    {
+      "name": "farbg",
+      "value": 2
+    },
+    {
+      "name": "nearbg",
+      "value": 4
+    },
+    {
+      "name": "player",
+      "value": 8
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "width": 1920,
+      "height": 1024
+    }
+  }
+}

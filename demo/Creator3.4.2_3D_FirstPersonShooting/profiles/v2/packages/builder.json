@@ -1,0 +1,55 @@
+{
+  "__version__": "1.3.1",
+  "version": {
+    "builder": "1.2.3"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1613978503440": {
+        "id": "1613978503440",
+        "progress": 1,
+        "state": "success",
+        "message": "Build success in 89234 ms!",
+        "options": {
+          "name": "3d-shot",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "4c7144b8-ada9-41e2-adc7-d4469adc1971",
+          "scenes": [
+            {
+              "url": "db://assets/Main.scene",
+              "uuid": "4c7144b8-ada9-41e2-adc7-d4469adc1971"
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            }
+          }
+        },
+        "time": "2021-2-22 15:21",
+        "dirty": false
+      }
+    }
+  },
+  "log": {
+    "level": 4
+  }
+}

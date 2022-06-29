@@ -1,0 +1,41 @@
+{
+  "ver": "1.0.22",
+  "importer": "image",
+  "imported": true,
+  "uuid": "48e8f8e0-75e6-44e9-8820-a5a3be44fb21",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "48e8f8e0-75e6-44e9-8820-a5a3be44fb21@6c48a",
+      "displayName": "ch_pc_hou_004_weapon_d",
+      "id": "6c48a",
+      "name": "texture",
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "48e8f8e0-75e6-44e9-8820-a5a3be44fb21"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "48e8f8e0-75e6-44e9-8820-a5a3be44fb21@6c48a",
+    "hasAlpha": true
+  }
+}

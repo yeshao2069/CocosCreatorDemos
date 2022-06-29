@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d6eff54c-8691-4f51-b9d7-308dd8122e84",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/HUD.js",
+    "simulateGlobals": []
+  }
+}

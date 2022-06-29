@@ -1,0 +1,13 @@
+{
+  "__version__": "1.0.1",
+  "layer": [
+    {
+      "name": "LEFT_UI",
+      "value": 262144
+    },
+    {
+      "name": "RIGHT_UI",
+      "value": 524288
+    }
+  ]
+}
