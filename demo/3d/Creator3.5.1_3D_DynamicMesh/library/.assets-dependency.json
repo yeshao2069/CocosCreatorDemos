@@ -1,13 +1,8 @@
 {
   "uuid": {
-    "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/caseDynamicMesh/dynamicMesh.mtl": [
-      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
-    ],
-    "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.mtl": [
-      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
-    ],
     "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.mtl": [
-      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+      "60f7195c-ec2a-45eb-ba94-8955f60e81d0"
     ]
   }
 }

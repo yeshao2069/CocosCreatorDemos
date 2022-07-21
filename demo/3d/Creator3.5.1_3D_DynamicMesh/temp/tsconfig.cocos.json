@@ -12,7 +12,7 @@
     ],
     "paths": {
       "db://internal/*": [
-        "/Applications/CocosCreator/Creator/3.5.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
+        "/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
         "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/*"

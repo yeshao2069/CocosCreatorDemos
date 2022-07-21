@@ -1,98 +1,50 @@
 {
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/scripts.meta": {
-    "time": 1655730254353.1855
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts.meta": {
-    "time": 1655730254366.9854
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/scripts": {
-    "time": 1655730254357.3716,
-    "uuid": "627b99f1-8b5f-4e0d-8a7e-70286745909c",
-    "missing": false
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts": {
-    "time": 1655730254356.4614,
-    "uuid": "9cd5db94-8253-4b06-b593-19a26b5130ff",
-    "missing": false
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/dynamicMesh.scene.meta": {
-    "time": 1655730254386.6912
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/dynamicMesh.scene": {
-    "time": 1655730271839.3254,
-    "uuid": "d327d1f9-d947-4c4d-9ed3-d6da6f3d4f0e",
-    "missing": false
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/res.meta": {
-    "time": 1655730254340.992
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/res": {
-    "time": 1655730261779.202,
-    "uuid": "ace15697-8939-4bad-8475-cb102c589fe3",
-    "missing": false
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.ts.meta": {
-    "time": 1655730254363.2463
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.ts": {
-    "time": 1655730254349.2556,
-    "uuid": "eac7d2ed-6631-4184-9bad-5186cebdca4f",
-    "missing": false
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.mtl.meta": {
-    "time": 1655730254380.5957
-  },
-  "/Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.mtl": {
-    "time": 1655730254369.4988,
-    "uuid": "c6700ee6-580e-4d63-82ea-2895b08455c5",
-    "missing": false
-  },
   "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/dynamicMesh.scene": {
-    "time": 1655730271839.3254,
+    "time": 1656647555043.854,
     "uuid": "d327d1f9-d947-4c4d-9ed3-d6da6f3d4f0e",
     "missing": false
   },
   "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/res": {
-    "time": 1655730483599.426,
+    "time": 1656647555043.0366,
     "uuid": "ace15697-8939-4bad-8475-cb102c589fe3",
     "missing": false
   },
   "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts": {
-    "time": 1655730483599.4258,
+    "time": 1656647555042.3066,
     "uuid": "627b99f1-8b5f-4e0d-8a7e-70286745909c",
     "missing": false
   },
   "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.mtl": {
-    "time": 1655730254369.4988,
+    "time": 1656647555043.5122,
     "uuid": "c6700ee6-580e-4d63-82ea-2895b08455c5",
     "missing": false
   },
   "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts": {
-    "time": 1655730508000.2446,
+    "time": 1656491766934.604,
     "uuid": "9cd5db94-8253-4b06-b593-19a26b5130ff",
     "missing": false
   },
-  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/res.meta": {
-    "time": 1655730254340.992
-  },
-  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts.meta": {
-    "time": 1655730254353.1855
-  },
-  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts.meta": {
-    "time": 1655730254366.9854
-  },
-  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.mtl.meta": {
-    "time": 1655730254380.5957
-  },
-  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/dynamicMesh.scene.meta": {
-    "time": 1655730254386.6912
-  },
-  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/dynamicMesh.ts.meta": {
-    "time": 1655730254363.2463
-  },
   "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/dynamicMesh.ts": {
-    "time": 1655730254349.2556,
+    "time": 1656647555042.921,
     "uuid": "eac7d2ed-6631-4184-9bad-5186cebdca4f",
     "missing": false
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/res.meta": {
+    "time": 1656491766931.5461
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts.meta": {
+    "time": 1656491766933.1545
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts.meta": {
+    "time": 1656491766935.0232
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/dynamicMesh.ts.meta": {
+    "time": 1656491766935.8608
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.mtl.meta": {
+    "time": 1656491766932.4155
+  },
+  "/Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/dynamicMesh.scene.meta": {
+    "time": 1656491766931.224
   }
 }

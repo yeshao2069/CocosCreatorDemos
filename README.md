@@ -19,7 +19,8 @@ Cocos Creator v3.5.x
 | 28 | [画板](#drawingboard) | 29 | [列表视图扩展](#listviewextension) | 30 | [自定义形状遮罩](#MaskPolygon) |
 | 31 | [Spine局部换装](#spinechangeslotwithtexture) | 32 | [旋转循环页视图实现](#revolvepageview) | 33 | [图片切割](#spritesplit) |
 | 34 | [Spine骨骼控制](#spinedragcontroller) | 35 | [音视频倍数播放](#mediaplaybackrate) | 36 | [TiledMap自动寻路](#tilemappathfinding) |
-| 37 | [剪切板](#copyfile) | 38 | [卡片翻转](#cardflip) |
+| 37 | [剪切板](#copyfile) | 38 | [卡片翻转](#cardflip) | 39 | [卡片阵列](#cardqueue) |
+| 40 | [卡片阵列翻转](#cardflipandqueue) |
 
 ### 3D
 | A1 | B1 | A2 | B2 | A3 | B3 |
@@ -385,10 +386,22 @@ Cocos Creator v3.5.x
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | 3.7 | 2D | [剪切板](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x/demo/2dP1/Creator3.5.2_CopyFile) | 3.5.2 | [返回顶部](#2d) | 无 |
-<div align=center><img src="./image/202206/2022062901.png" width="300" height="400" />
+<div align=center><img src="./image/202206/2022062901.png" width="300" height="400" /></div>
 
 ### CardFlip
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | 3.8 | 2D | [卡片翻转](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x/demo/2dP1/Creator3.5.2_2D_CardFlip) | 3.5.2 | [返回顶部](#2d) | 无 |
-<div align=center><img src="./gif/202206/2022062901.gif" width="300" height="400" /></div>
+<div align=center><img src="./gif/202206/2022062901.gif" width="270" height="400" /></div>
+
+### CardQueue
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 3.9 | 2D | [卡片阵列](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x/demo/2dP1/Creator3.5.2_2D_CardQueue) | 3.5.2 | [返回顶部](#2d) | 无 |
+<div align=center><img src="./gif/202206/2022062902.gif" width="270" height="400" /></div>
+
+### CardFlipAndQueue
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 3.10 | 2D | [卡片阵列翻转](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x/demo/2dP1/Creator3.5.2_2D_CardFlipAndQueue) | 3.5.2 | [返回顶部](#2d) | 无 |
+<div align=center><img src="./gif/202206/2022063001.gif" width="270" height="400" /></div>

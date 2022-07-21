@@ -1,41 +1,5 @@
 {
   "chunks": {
-    "9a6ec2b1611f64f4b9e25b007bef932695da23ef": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1655730254789
-    },
-    "fd203e53ae0bc3f56ff3d6856c6781ba6553b5a5": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1655730254827
-    },
-    "f756b97fd42a4dd39a803787cfa21268fd0305e9": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1655730265542
-    },
     "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53": {
       "imports": {
         "__unresolved_0": {
@@ -221,9 +185,9 @@
           "messages": []
         }
       },
-      "timestamp": 1655730469100
+      "timestamp": 1656642145725
     },
-    "6676b355301d0e9529f5ebc6d907cbe9d7452ee0": {
+    "e1c080d9bcd6f0d9ea10d7c85786d2a509e8495a": {
       "imports": {
         "cc": {
           "resolved": {
@@ -233,19 +197,7 @@
           "messages": []
         }
       },
-      "timestamp": 1655730469797
-    },
-    "237e3d3b41c1597dd6436e09c1296c62555fae1e": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1655730483855
+      "timestamp": 1656642145844
     },
     "6cea9118b313aa76b67e6fd6577a4a82aae4c9d4": {
       "imports": {
@@ -264,9 +216,9 @@
           "messages": []
         }
       },
-      "timestamp": 1655730691900
+      "timestamp": 1656647603553
     },
-    "e1c080d9bcd6f0d9ea10d7c85786d2a509e8495a": {
+    "237e3d3b41c1597dd6436e09c1296c62555fae1e": {
       "imports": {
         "cc": {
           "resolved": {
@@ -276,13 +228,13 @@
           "messages": []
         }
       },
-      "timestamp": 1655730692229
+      "timestamp": 1656647603709
     }
   },
   "entries": {
     "cce:/internal/x/cc": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53",
     "cce:/internal/x/prerequisite-imports": "6cea9118b313aa76b67e6fd6577a4a82aae4c9d4",
-    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/dynamicMesh.ts": "237e3d3b41c1597dd6436e09c1296c62555fae1e",
-    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts": "e1c080d9bcd6f0d9ea10d7c85786d2a509e8495a"
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts": "e1c080d9bcd6f0d9ea10d7c85786d2a509e8495a",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/dynamicMesh.ts": "237e3d3b41c1597dd6436e09c1296c62555fae1e"
   }
 }

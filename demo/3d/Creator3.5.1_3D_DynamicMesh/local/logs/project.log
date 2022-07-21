@@ -1,149 +1,208 @@
-2022-06-20T13:03:09.090Z - log: [Package] menu@1.0.0 enable
-2022-06-20T13:03:09.092Z - log: [Package] profile@1.0.0 enable
-2022-06-20T13:03:09.104Z - log: [Package] project@1.0.2 enable
-2022-06-20T13:03:09.109Z - log: [Package] messages@1.0.0 enable
-2022-06-20T13:03:09.114Z - log: [Package] program@1.0.0 enable
-2022-06-20T13:03:09.121Z - log: [Package] tester@1.0.0 enable
-2022-06-20T13:03:09.127Z - log: [Package] preferences@1.0.0 enable
-2022-06-20T13:03:09.976Z - log: Setup mods mgr.: 336.265ms
-2022-06-20T13:03:09.988Z - verbose: [Engine] QuickCompile engine (788ms)
-2022-06-20T13:03:09.991Z - log: [Package] engine@1.0.6 enable
-2022-06-20T13:03:10.875Z - log: [Package] programming@1.0.0 enable
-2022-06-20T13:03:11.179Z - log: [Package] device@1.0.1 enable
-2022-06-20T13:03:11.208Z - log: [Package] ui-kit@1.0.1 enable
-2022-06-20T13:03:11.240Z - log: [Package] engine-extends@1.0.0 enable
-2022-06-20T13:03:11.313Z - log: [Package] asset-db@1.0.0 enable
-2022-06-20T13:03:11.354Z - log: [Package] scene@1.0.0 enable
-2022-06-20T13:03:11.641Z - log: [Package] server@1.0.0 enable
-2022-06-20T13:03:11.684Z - log: [Package] utils@1.0.0 enable
-2022-06-20T13:03:16.835Z - log: [Package] preview@1.0.1 enable
-2022-06-20T13:03:16.870Z - log: [Package] animator@1.0.0 enable
-2022-06-20T13:03:17.094Z - log: 设置的 IP 地址不存在，将使用默认 IP
-2022-06-20T13:03:18.080Z - log: Profile changed: builder (log.level: 4)
-2022-06-20T13:03:18.088Z - log: [Package] builder@1.3.2 enable
-2022-06-20T13:03:18.123Z - log: [Package] shortcuts@1.0.1 enable
-2022-06-20T13:03:18.157Z - log: [Package] animation-graph@1.0.0 enable
-2022-06-20T13:03:18.182Z - log: [Package] runtime-dev-tools@1.0.0 enable
-2022-06-20T13:03:18.206Z - log: [Package] channel-upload-tools@1.0.0 enable
-2022-06-20T13:03:18.242Z - log: [Package] about@1.0.0 enable
-2022-06-20T13:03:18.278Z - log: [Package] assets@1.0.0 enable
-2022-06-20T13:03:18.317Z - log: [Package] console@1.0.0 enable
-2022-06-20T13:03:18.625Z - log: [Package] extension@3.0.16 enable
-2022-06-20T13:03:18.691Z - log: [Package] hierarchy@1.0.0 enable
-2022-06-20T13:03:18.730Z - log: [Package] inspector@1.0.0 enable
-2022-06-20T13:03:18.773Z - log: [Package] lightmap@1.0.4 enable
-2022-06-20T13:03:18.813Z - log: [Package] node-library@1.0.1 enable
-2022-06-20T13:03:18.858Z - log: [Package] package-asset@1.0.0 enable
-2022-06-20T13:03:18.949Z - log: [Package] process@1.0.0 enable
-2022-06-20T13:03:18.990Z - log: [Package] reference-image@1.0.0 enable
-2022-06-20T13:03:19.017Z - log: [Package] alipay-mini-game@1.0.0 enable
-2022-06-20T13:03:19.047Z - log: [Package] android@1.0.0 enable
-2022-06-20T13:03:19.079Z - log: [Package] baidu-mini-game@1.0.0 enable
-2022-06-20T13:03:19.104Z - log: [Package] bytedance-mini-game@1.0.1 enable
-2022-06-20T13:03:19.130Z - log: [Package] cocos-play@1.0.0 enable
-2022-06-20T13:03:19.161Z - log: [Package] huawei-agc@1.0.0 enable
-2022-06-20T13:03:19.188Z - log: [Package] huawei-quick-game@1.0.0 enable
-2022-06-20T13:03:20.553Z - log: [Package] ios@1.0.0 enable
-2022-06-20T13:03:20.579Z - log: [Package] ios-app-clip@1.0.0 enable
-2022-06-20T13:03:20.601Z - log: [Package] link-sure@1.0.0 enable
-2022-06-20T13:03:20.625Z - log: [Package] linux@1.0.0 enable
-2022-06-20T13:03:20.654Z - log: [Package] mac@1.0.0 enable
-2022-06-20T13:03:20.828Z - log: [Package] native@1.0.0 enable
-2022-06-20T13:03:20.832Z - verbose: [AssetDB] Require engine code (2929ms)
-2022-06-20T13:03:20.856Z - log: [Package] ohos@1.0.0 enable
-2022-06-20T13:03:20.883Z - log: [Package] open-harmonyos@1.0.0 enable
-2022-06-20T13:03:20.909Z - log: [Package] oppo-mini-game@1.0.0 enable
-2022-06-20T13:03:20.935Z - log: [Package] qtt@1.0.0 enable
-2022-06-20T13:03:20.964Z - log: [Package] vivo-mini-game@1.0.0 enable
-2022-06-20T13:03:21.012Z - log: [Package] web-desktop@1.0.0 enable
-2022-06-20T13:03:21.057Z - log: [Package] web-mobile@1.0.0 enable
-2022-06-20T13:03:21.104Z - log: [Package] wechatgame@1.0.1 enable
-2022-06-20T13:03:21.131Z - log: [Package] windows@1.0.0 enable
-2022-06-20T13:03:21.158Z - log: [Package] xiaomi-quick-game@1.0.0 enable
-2022-06-20T13:03:21.572Z - log: [Package] cocos-service@3.0.3 enable
-2022-06-20T13:03:21.616Z - log: [Package] importer@1.0.0 enable
-2022-06-20T13:03:22.056Z - log: [Im-plugin] Check im-plugin version.
-2022-06-20T13:03:22.069Z - log: [Package] im-plugin@3.0.8 enable
-2022-06-20T13:03:22.877Z - log: [Im-plugin] No online info of im-plugin.
-2022-06-20T13:03:23.331Z - log: 设置的 IP 地址不存在，将使用默认 IP
-2022-06-20T13:03:37.440Z - verbose: [Scene] Require engine code (1ms)
-2022-06-20T13:03:37.441Z - verbose: [Scene] Startup engine (1ms)
-2022-06-20T13:03:37.482Z - log: [Scene] Cocos Creator v3.5.1
-2022-06-20T13:03:38.069Z - verbose: [Scene] Open engine (628ms)
-2022-06-20T13:03:38.070Z - verbose: [Scene] Configure engine (0ms)
-2022-06-20T13:03:37.638Z - info: [Scene] Forward render pipeline initialized.
-2022-06-20T13:05:03.518Z - warn: Metrics: no valid info
-2022-06-20T13:07:16.972Z - log: [Package] menu@1.0.0 enable
-2022-06-20T13:07:16.975Z - log: [Package] profile@1.0.0 enable
-2022-06-20T13:07:16.988Z - log: [Package] project@1.0.2 enable
-2022-06-20T13:07:16.994Z - log: [Package] messages@1.0.0 enable
-2022-06-20T13:07:16.998Z - log: [Package] program@1.0.0 enable
-2022-06-20T13:07:17.005Z - log: [Package] tester@1.0.0 enable
-2022-06-20T13:07:17.011Z - log: [Package] preferences@1.0.0 enable
-2022-06-20T13:07:18.066Z - log: Setup mods mgr.: 634.265ms
-2022-06-20T13:07:18.083Z - verbose: [Engine] QuickCompile engine (1008ms)
-2022-06-20T13:07:18.088Z - log: [Package] engine@1.0.6 enable
-2022-06-20T13:07:19.222Z - log: [Package] programming@1.0.0 enable
-2022-06-20T13:07:19.517Z - log: [Package] device@1.0.1 enable
-2022-06-20T13:07:19.547Z - log: [Package] ui-kit@1.0.1 enable
-2022-06-20T13:07:19.577Z - log: [Package] engine-extends@1.0.0 enable
-2022-06-20T13:07:19.645Z - log: [Package] asset-db@1.0.0 enable
-2022-06-20T13:07:19.687Z - log: [Package] scene@1.0.0 enable
-2022-06-20T13:07:20.003Z - log: [Package] server@1.0.0 enable
-2022-06-20T13:07:20.098Z - log: [Package] utils@1.0.0 enable
-2022-06-20T13:07:25.624Z - log: [Package] preview@1.0.1 enable
-2022-06-20T13:07:25.659Z - log: [Package] animator@1.0.0 enable
-2022-06-20T13:07:25.920Z - log: 设置的 IP 地址不存在，将使用默认 IP
-2022-06-20T13:07:27.888Z - log: [Package] builder@1.3.2 enable
-2022-06-20T13:07:27.926Z - log: [Package] shortcuts@1.0.1 enable
-2022-06-20T13:07:27.959Z - log: [Package] animation-graph@1.0.0 enable
-2022-06-20T13:07:27.982Z - log: [Package] runtime-dev-tools@1.0.0 enable
-2022-06-20T13:07:28.006Z - log: [Package] channel-upload-tools@1.0.0 enable
-2022-06-20T13:07:28.040Z - log: [Package] about@1.0.0 enable
-2022-06-20T13:07:28.077Z - log: [Package] assets@1.0.0 enable
-2022-06-20T13:07:28.140Z - log: [Package] console@1.0.0 enable
-2022-06-20T13:07:28.576Z - log: [Package] extension@3.0.16 enable
-2022-06-20T13:07:28.627Z - log: [Package] hierarchy@1.0.0 enable
-2022-06-20T13:07:28.671Z - log: [Package] inspector@1.0.0 enable
-2022-06-20T13:07:28.721Z - log: [Package] lightmap@1.0.4 enable
-2022-06-20T13:07:28.783Z - log: [Package] node-library@1.0.1 enable
-2022-06-20T13:07:28.820Z - log: [Package] package-asset@1.0.0 enable
-2022-06-20T13:07:28.896Z - log: [Package] process@1.0.0 enable
-2022-06-20T13:07:28.966Z - log: [Package] reference-image@1.0.0 enable
-2022-06-20T13:07:29.009Z - log: [Package] alipay-mini-game@1.0.0 enable
-2022-06-20T13:07:29.041Z - log: [Package] android@1.0.0 enable
-2022-06-20T13:07:29.072Z - log: [Package] baidu-mini-game@1.0.0 enable
-2022-06-20T13:07:29.103Z - log: [Package] bytedance-mini-game@1.0.1 enable
-2022-06-20T13:07:29.139Z - log: [Package] cocos-play@1.0.0 enable
-2022-06-20T13:07:29.170Z - log: [Package] huawei-agc@1.0.0 enable
-2022-06-20T13:07:29.198Z - log: [Package] huawei-quick-game@1.0.0 enable
-2022-06-20T13:07:31.178Z - log: [Package] ios@1.0.0 enable
-2022-06-20T13:07:31.240Z - log: [Package] ios-app-clip@1.0.0 enable
-2022-06-20T13:07:31.276Z - log: [Package] link-sure@1.0.0 enable
-2022-06-20T13:07:31.315Z - log: [Package] linux@1.0.0 enable
-2022-06-20T13:07:31.350Z - log: [Package] mac@1.0.0 enable
-2022-06-20T13:07:31.552Z - log: [Package] native@1.0.0 enable
-2022-06-20T13:07:31.714Z - verbose: [AssetDB] Require engine code (4270ms)
-2022-06-20T13:07:31.833Z - log: [Package] ohos@1.0.0 enable
-2022-06-20T13:07:31.875Z - log: [Package] open-harmonyos@1.0.0 enable
-2022-06-20T13:07:31.904Z - log: [Package] oppo-mini-game@1.0.0 enable
-2022-06-20T13:07:31.933Z - log: [Package] qtt@1.0.0 enable
-2022-06-20T13:07:31.966Z - log: [Package] vivo-mini-game@1.0.0 enable
-2022-06-20T13:07:32.066Z - log: [Package] web-desktop@1.0.0 enable
-2022-06-20T13:07:32.249Z - log: [Package] web-mobile@1.0.0 enable
-2022-06-20T13:07:32.357Z - log: [Package] wechatgame@1.0.1 enable
-2022-06-20T13:07:32.398Z - log: [Package] windows@1.0.0 enable
-2022-06-20T13:07:32.432Z - log: [Package] xiaomi-quick-game@1.0.0 enable
-2022-06-20T13:07:33.211Z - log: [Package] cocos-service@3.0.3 enable
-2022-06-20T13:07:33.340Z - log: [Package] importer@1.0.0 enable
-2022-06-20T13:07:34.211Z - log: [Im-plugin] Check im-plugin version.
-2022-06-20T13:07:34.226Z - log: [Package] im-plugin@3.0.8 enable
-2022-06-20T13:07:34.943Z - log: [Im-plugin] No online info of im-plugin.
-2022-06-20T13:07:36.726Z - log: 设置的 IP 地址不存在，将使用默认 IP
-2022-06-20T13:07:50.959Z - verbose: [Scene] Require engine code (74ms)
-2022-06-20T13:07:51.007Z - verbose: [Scene] Startup engine (7ms)
-2022-06-20T13:07:51.176Z - log: [Scene] Cocos Creator v3.5.1
-2022-06-20T13:07:52.599Z - verbose: [Scene] Open engine (1592ms)
-2022-06-20T13:07:52.599Z - verbose: [Scene] Configure engine (0ms)
-2022-06-20T13:07:51.684Z - info: [Scene] Forward render pipeline initialized.
-2022-06-20T13:12:28.784Z - warn: Metrics: no valid info
+2022-07-01T02:21:56.868Z - log: [Package] menu@1.0.0 enable
+2022-07-01T02:21:56.870Z - log: [Package] profile@1.0.0 enable
+2022-07-01T02:21:56.883Z - log: [Package] project@1.0.2 enable
+2022-07-01T02:21:56.890Z - log: [Package] messages@1.0.0 enable
+2022-07-01T02:21:56.894Z - log: [Package] program@1.0.0 enable
+2022-07-01T02:21:56.901Z - log: [Package] tester@1.0.0 enable
+2022-07-01T02:21:56.907Z - log: [Package] preferences@1.0.0 enable
+2022-07-01T02:21:57.762Z - log: Setup mods mgr.: 344.854ms
+2022-07-01T02:21:57.774Z - verbose: [Engine] QuickCompile engine (792ms)
+2022-07-01T02:21:57.777Z - log: [Package] engine@1.0.6 enable
+2022-07-01T02:21:58.616Z - log: [Package] programming@1.0.0 enable
+2022-07-01T02:21:58.923Z - log: [Package] device@1.0.1 enable
+2022-07-01T02:21:58.953Z - log: [Package] ui-kit@1.0.1 enable
+2022-07-01T02:21:58.994Z - log: [Package] engine-extends@1.0.0 enable
+2022-07-01T02:21:59.063Z - log: [Package] asset-db@1.0.0 enable
+2022-07-01T02:21:59.121Z - log: [Package] scene@1.0.0 enable
+2022-07-01T02:21:59.380Z - log: [Package] server@1.0.0 enable
+2022-07-01T02:21:59.426Z - log: [Package] utils@1.0.0 enable
+2022-07-01T02:22:04.632Z - log: [Package] preview@1.0.1 enable
+2022-07-01T02:22:04.668Z - log: [Package] animator@1.0.0 enable
+2022-07-01T02:22:04.803Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-07-01T02:22:05.883Z - log: [Package] builder@1.3.2 enable
+2022-07-01T02:22:05.918Z - log: [Package] shortcuts@1.0.1 enable
+2022-07-01T02:22:05.954Z - log: [Package] animation-graph@1.0.0 enable
+2022-07-01T02:22:05.977Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-07-01T02:22:06.002Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-07-01T02:22:06.038Z - log: [Package] about@1.0.0 enable
+2022-07-01T02:22:06.081Z - log: [Package] assets@1.0.0 enable
+2022-07-01T02:22:06.114Z - log: [Package] console@1.0.0 enable
+2022-07-01T02:22:06.397Z - log: [Package] extension@3.0.16 enable
+2022-07-01T02:22:06.433Z - log: [Package] hierarchy@1.0.0 enable
+2022-07-01T02:22:06.469Z - log: [Package] inspector@1.0.0 enable
+2022-07-01T02:22:06.504Z - log: [Package] lightmap@1.0.4 enable
+2022-07-01T02:22:06.545Z - log: [Package] node-library@1.0.1 enable
+2022-07-01T02:22:06.580Z - log: [Package] package-asset@1.0.0 enable
+2022-07-01T02:22:06.656Z - log: [Package] process@1.0.0 enable
+2022-07-01T02:22:06.699Z - log: [Package] reference-image@1.0.0 enable
+2022-07-01T02:22:06.725Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-07-01T02:22:06.755Z - log: [Package] android@1.0.0 enable
+2022-07-01T02:22:06.783Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-07-01T02:22:06.811Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-07-01T02:22:06.841Z - log: [Package] cocos-play@1.0.0 enable
+2022-07-01T02:22:06.875Z - log: [Package] huawei-agc@1.0.0 enable
+2022-07-01T02:22:06.900Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-07-01T02:22:17.039Z - log: [Package] ios@1.0.0 enable
+2022-07-01T02:22:17.066Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-07-01T02:22:17.089Z - log: [Package] link-sure@1.0.0 enable
+2022-07-01T02:22:17.149Z - log: [Package] linux@1.0.0 enable
+2022-07-01T02:22:17.187Z - log: [Package] mac@1.0.0 enable
+2022-07-01T02:22:17.446Z - log: [Package] native@1.0.0 enable
+2022-07-01T02:22:17.470Z - verbose: [AssetDB] Require engine code (11734ms)
+2022-07-01T02:22:17.500Z - log: [Package] ohos@1.0.0 enable
+2022-07-01T02:22:17.538Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-07-01T02:22:17.577Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-07-01T02:22:17.615Z - log: [Package] qtt@1.0.0 enable
+2022-07-01T02:22:17.645Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-07-01T02:22:17.689Z - log: [Package] web-desktop@1.0.0 enable
+2022-07-01T02:22:17.728Z - log: [Package] web-mobile@1.0.0 enable
+2022-07-01T02:22:17.771Z - log: [Package] wechatgame@1.0.1 enable
+2022-07-01T02:22:17.798Z - log: [Package] windows@1.0.0 enable
+2022-07-01T02:22:17.826Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-07-01T02:22:18.241Z - log: [Package] cocos-service@3.0.3 enable
+2022-07-01T02:22:18.280Z - log: [Package] importer@1.0.0 enable
+2022-07-01T02:22:18.649Z - log: [Im-plugin] Check im-plugin version.
+2022-07-01T02:22:18.662Z - log: [Package] im-plugin@3.0.8 enable
+2022-07-01T02:22:19.448Z - log: [Im-plugin] No online info of im-plugin.
+2022-07-01T02:22:20.226Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-07-01T02:22:33.093Z - verbose: [Scene] Require engine code (0ms)
+2022-07-01T02:22:33.097Z - verbose: [Scene] Startup engine (2ms)
+2022-07-01T02:22:33.188Z - log: [Scene] Cocos Creator v3.5.2
+2022-07-01T02:22:34.029Z - verbose: [Scene] Open engine (933ms)
+2022-07-01T02:22:34.029Z - verbose: [Scene] Configure engine (0ms)
+2022-07-01T02:22:33.792Z - info: [Scene] Forward render pipeline initialized.
+2022-07-01T02:26:14.269Z - log: [Scene] 00 -1 0
+2022-07-01T02:26:14.269Z - log: [Scene] 00 -1 0
+2022-07-01T02:26:14.427Z - log: [Scene] 033554432 66 1275036926
+2022-07-01T02:26:14.444Z - log: [Scene] 033554432 66 2069716619
+2022-07-01T02:28:08.796Z - log: [Scene] 033554432 66 2069716619
+2022-07-01T02:28:08.796Z - log: [Scene] 033554432 66 1275036926
+2022-07-01T02:28:08.798Z - log: [Scene] 00 -1 0
+2022-07-01T02:28:08.798Z - log: [Scene] 00 -1 0
+2022-07-01T02:28:08.828Z - log: [Scene] 033554432 66 1479002662
+2022-07-01T02:28:08.833Z - log: [Scene] 033554432 66 2365559213
+2022-07-01T02:42:15.668Z - log: [Scene] 033554432 66 2365559213
+2022-07-01T02:42:15.692Z - log: [Scene] 033554432 66 1479002662
+2022-07-01T02:42:15.703Z - log: [Scene] 00 -1 0
+2022-07-01T02:42:15.703Z - log: [Scene] 00 -1 0
+2022-07-01T02:42:15.876Z - log: [Scene] 033554432 66 2774554163
+2022-07-01T02:42:15.878Z - log: [Scene] 033554432 66 3615018515
+2022-07-01T02:48:36.067Z - log: [Scene] 033554432 66 3615018515
+2022-07-01T02:48:36.336Z - log: [Scene] 033554432 66 2774554163
+2022-07-01T02:48:36.342Z - log: [Scene] 00 -1 0
+2022-07-01T02:48:36.342Z - log: [Scene] 00 -1 0
+2022-07-01T02:48:36.414Z - log: [Scene] 033554432 66 3375866357
+2022-07-01T02:48:36.414Z - log: [Scene] 033554432 66 925982307
+2022-07-01T02:54:48.139Z - log: [Scene] 033554432 66 925982307
+2022-07-01T02:54:48.139Z - log: [Scene] 033554432 66 3375866357
+2022-07-01T02:54:48.140Z - log: [Scene] 00 -1 0
+2022-07-01T02:54:48.140Z - log: [Scene] 00 -1 0
+2022-07-01T02:54:48.354Z - log: [Scene] 033554432 66 233617888
+2022-07-01T02:54:48.356Z - log: [Scene] 033554432 66 1432976102
+2022-07-01T02:55:55.379Z - log: [Scene] 033554432 66 1432976102
+2022-07-01T02:55:55.379Z - log: [Scene] 033554432 66 233617888
+2022-07-01T02:55:55.382Z - log: [Scene] 00 -1 0
+2022-07-01T02:55:55.382Z - log: [Scene] 00 -1 0
+2022-07-01T02:55:55.417Z - log: [Scene] 033554432 66 2325873067
+2022-07-01T02:55:55.485Z - log: [Scene] 033554432 66 1945916972
+2022-07-01T03:07:08.287Z - log: [Scene] 033554432 66 1945916972
+2022-07-01T03:07:08.288Z - log: [Scene] 033554432 66 2325873067
+2022-07-01T03:07:08.291Z - log: [Scene] 00 -1 0
+2022-07-01T03:07:08.291Z - log: [Scene] 00 -1 0
+2022-07-01T03:07:08.492Z - log: [Scene] 033554432 66 3513996448
+2022-07-01T03:07:08.493Z - log: [Scene] 033554432 66 1046724786
+2022-07-01T03:11:27.983Z - error: [Scene] Sampler binding 'cc_spriteTexture' at set 2 binding 11 index 0 is not boundedError: [Scene] Sampler binding 'cc_spriteTexture' at set 2 binding 11 index 0 is not bounded
+    at error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129123:10)
+    at WebGL2CmdFuncBindStates (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:227483:28)
+    at WebGL2PrimaryCommandBuffer.bindStates (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:229489:49)
+    at WebGL2PrimaryCommandBuffer.draw (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:229376:14)
+    at Proxy.newFunc (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110849:31)
+    at RenderQueue.recordCommandBuffer (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:127911:15)
+    at ForwardStage.render (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:238898:27)
+2022-07-01T03:11:27.983Z - error: [Scene] Sampler binding 'cc_spriteTexture' at set 2 binding 11 index 0 is not boundedError: [Scene] Sampler binding 'cc_spriteTexture' at set 2 binding 11 index 0 is not bounded
+    at error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129123:10)
+    at WebGL2CmdFuncBindStates (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:227483:28)
+    at WebGL2PrimaryCommandBuffer.bindStates (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:229489:49)
+    at WebGL2PrimaryCommandBuffer.draw (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:229376:14)
+    at Proxy.newFunc (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110849:31)
+    at RenderQueue.recordCommandBuffer (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:127911:15)
+    at ForwardStage.render (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:238898:27)
+2022-07-01T03:11:27.997Z - error: [Scene] Sampler binding 'cc_spriteTexture' at set 2 binding 11 index 0 is not boundedError: [Scene] Sampler binding 'cc_spriteTexture' at set 2 binding 11 index 0 is not bounded
+    at error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129123:10)
+    at WebGL2CmdFuncBindStates (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:227483:28)
+    at WebGL2PrimaryCommandBuffer.bindStates (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:229489:49)
+    at WebGL2PrimaryCommandBuffer.draw (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:229376:14)
+    at Proxy.newFunc (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110849:31)
+    at RenderQueue.recordCommandBuffer (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:127911:15)
+    at ForwardStage.render (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:238898:27)
+2022-07-01T03:11:27.998Z - error: [Scene] Sampler binding 'cc_spriteTexture' at set 2 binding 11 index 0 is not boundedError: [Scene] Sampler binding 'cc_spriteTexture' at set 2 binding 11 index 0 is not bounded
+    at error (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:129123:10)
+    at WebGL2CmdFuncBindStates (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:227483:28)
+    at WebGL2PrimaryCommandBuffer.bindStates (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:229489:49)
+    at WebGL2PrimaryCommandBuffer.draw (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:229376:14)
+    at Proxy.newFunc (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:110849:31)
+    at RenderQueue.recordCommandBuffer (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:127911:15)
+    at ForwardStage.render (/Applications/CocosCreator/Creator/3.5.2/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:238898:27)
+2022-07-01T03:13:04.073Z - log: [Scene] 033554432 66 1046724786
+2022-07-01T03:13:04.074Z - log: [Scene] 033554432 66 3513996448
+2022-07-01T03:13:04.077Z - log: [Scene] 00 -1 0
+2022-07-01T03:13:04.077Z - log: [Scene] 00 -1 0
+2022-07-01T03:13:04.127Z - log: [Scene] 033554432 66 2942015696
+2022-07-01T03:13:04.254Z - log: [Scene] 033554432 66 529042575
+2022-07-01T03:13:27.929Z - log: [Scene] 033554432 66 529042575
+2022-07-01T03:13:27.929Z - log: [Scene] 033554432 66 2942015696
+2022-07-01T03:13:27.954Z - log: [Scene] 00 -1 0
+2022-07-01T03:13:27.954Z - log: [Scene] 00 -1 0
+2022-07-01T03:13:28.074Z - log: [Scene] 033554432 66 2969217434
+2022-07-01T03:13:28.075Z - log: [Scene] 033554432 66 1165379008
+2022-07-01T03:15:09.732Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-07-01T03:15:09.842Z - log: 设置的 IP 地址不存在，将使用默认 IP
+2022-07-01T03:15:32.246Z - log: [Scene] 033554432 66 1165379008
+2022-07-01T03:15:32.246Z - log: [Scene] 033554432 66 2969217434
+2022-07-01T03:15:32.248Z - log: [Scene] 00 -1 0
+2022-07-01T03:15:32.249Z - log: [Scene] 00 -1 0
+2022-07-01T03:15:32.284Z - log: [Scene] 033554432 66 895652295
+2022-07-01T03:15:32.285Z - log: [Scene] 033554432 66 3434941705
+2022-07-01T03:16:32.071Z - log: [Scene] 033554432 66 3434941705
+2022-07-01T03:16:32.071Z - log: [Scene] 033554432 66 895652295
+2022-07-01T03:16:32.074Z - log: [Scene] 00 -1 0
+2022-07-01T03:16:32.074Z - log: [Scene] 00 -1 0
+2022-07-01T03:16:32.093Z - log: [Scene] 033554432 66 1108533626
+2022-07-01T03:16:32.094Z - log: [Scene] 033554432 66 3577329823
+2022-07-01T03:17:13.275Z - log: [Scene] 033554432 66 3577329823
+2022-07-01T03:17:13.275Z - log: [Scene] 033554432 66 1108533626
+2022-07-01T03:17:13.276Z - log: [Scene] 00 -1 0
+2022-07-01T03:17:13.277Z - log: [Scene] 00 -1 0
+2022-07-01T03:17:13.456Z - log: [Scene] 033554432 66 3140544857
+2022-07-01T03:17:13.459Z - log: [Scene] 033554432 66 1692808102
+2022-07-01T03:18:32.624Z - log: [Scene] 033554432 66 1692808102
+2022-07-01T03:18:32.624Z - log: [Scene] 033554432 66 3140544857
+2022-07-01T03:18:32.628Z - log: [Scene] 00 -1 0
+2022-07-01T03:18:32.629Z - log: [Scene] 00 -1 0
+2022-07-01T03:18:32.662Z - log: [Scene] 033554432 66 2424867369
+2022-07-01T03:18:32.664Z - log: [Scene] 033554432 66 907975893
+2022-07-01T03:28:45.898Z - log: [Scene] 033554432 66 907975893
+2022-07-01T03:28:45.900Z - log: [Scene] 033554432 66 2424867369
+2022-07-01T03:28:45.907Z - log: [Scene] 00 -1 0
+2022-07-01T03:28:45.908Z - log: [Scene] 00 -1 0
+2022-07-01T03:28:46.157Z - log: [Scene] 033554432 66 2948358617
+2022-07-01T03:28:46.158Z - log: [Scene] 033554432 66 1459436861
+2022-07-01T03:37:28.068Z - log: [Scene] 033554432 66 1459436861
+2022-07-01T03:37:28.072Z - log: [Scene] 033554432 66 2948358617
+2022-07-01T03:37:28.081Z - log: [Scene] 00 -1 0
+2022-07-01T03:37:28.082Z - log: [Scene] 00 -1 0
+2022-07-01T03:37:28.138Z - log: [Scene] 033554432 66 1535499297
+2022-07-01T03:37:28.138Z - log: [Scene] 033554432 66 1272181996
+2022-07-01T03:53:23.599Z - log: [Scene] 033554432 66 1272181996
+2022-07-01T03:53:23.600Z - log: [Scene] 033554432 66 1535499297
+2022-07-01T03:53:23.601Z - log: [Scene] 00 -1 0
+2022-07-01T03:53:23.601Z - log: [Scene] 00 -1 0
+2022-07-01T03:53:23.625Z - log: [Scene] 033554432 66 1535499297
+2022-07-01T03:53:23.626Z - log: [Scene] 033554432 66 3019494014
+2022-07-01T03:53:23.829Z - log: [Scene] 033554432 66 3019494014
+2022-07-01T03:53:23.829Z - log: [Scene] 033554432 66 1535499297
+2022-07-01T03:53:23.835Z - log: [Scene] 00 -1 0
+2022-07-01T03:53:23.835Z - log: [Scene] 00 -1 0
+2022-07-01T03:53:23.851Z - log: [Scene] 033554432 66 2506471009
+2022-07-01T03:53:23.852Z - log: [Scene] 033554432 66 3121943326
+2022-07-01T03:53:24.881Z - warn: Metrics: no valid info

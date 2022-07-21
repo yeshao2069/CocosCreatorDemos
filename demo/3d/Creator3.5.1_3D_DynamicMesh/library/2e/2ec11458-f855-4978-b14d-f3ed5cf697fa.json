@@ -67,6 +67,14 @@
               "value": [
                 1
               ],
+              "editor": {
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
+              },
               "type": 13
             },
             "roughnessMap": {
@@ -77,6 +85,14 @@
               "value": [
                 1
               ],
+              "editor": {
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
+              },
               "type": 13
             },
             "metallicMap": {
@@ -87,6 +103,14 @@
               "value": [
                 1
               ],
+              "editor": {
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
+              },
               "type": 13
             },
             "occlusionMap": {
@@ -442,6 +466,14 @@
               "value": [
                 1
               ],
+              "editor": {
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
+              },
               "type": 13
             },
             "roughnessMap": {
@@ -452,6 +484,14 @@
               "value": [
                 1
               ],
+              "editor": {
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
+              },
               "type": 13
             },
             "metallicMap": {
@@ -462,6 +502,14 @@
               "value": [
                 1
               ],
+              "editor": {
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
+              },
               "type": 13
             },
             "occlusionMap": {

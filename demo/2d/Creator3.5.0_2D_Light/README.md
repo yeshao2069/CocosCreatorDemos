@@ -5,3 +5,6 @@
 
 ### 效果预览
 ![image](../../../gif/202202/2022022801.gif)
+
+### 相关链接
+https://github.com/CodeAndWeb/cocos2d-x-dynamic-lighting

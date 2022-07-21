@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 29927.007964000106,
+      "mTimestamp": 26935.893555999966,
       "chunkId": "d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53",
       "imports": [
         {
@@ -556,7 +556,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 253697.63699100167,
+      "mTimestamp": 5485553.585518001,
       "chunkId": "6cea9118b313aa76b67e6fd6577a4a82aae4c9d4",
       "imports": [
         {
@@ -606,177 +606,9 @@
         }
       ]
     },
-    "file:///Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/caseDynamicMesh/dynamicMesh.ts": {
-      "mTimestamp": {
-        "mtime": 1655730254349.2556,
-        "uuid": "eac7d2ed-6631-4184-9bad-5186cebdca4f"
-      },
-      "chunkId": "9a6ec2b1611f64f4b9e25b007bef932695da23ef",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 2,
-              "column": 112
-            },
-            "end": {
-              "line": 2,
-              "column": 116
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts": {
-      "mTimestamp": {
-        "mtime": 1655730254356.4614,
-        "uuid": "9cd5db94-8253-4b06-b593-19a26b5130ff"
-      },
-      "chunkId": "fd203e53ae0bc3f56ff3d6856c6781ba6553b5a5",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 2,
-              "column": 56
-            },
-            "end": {
-              "line": 2,
-              "column": 60
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/mu/Desktop/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.ts": {
-      "mTimestamp": {
-        "mtime": 1655730254349.2556,
-        "uuid": "eac7d2ed-6631-4184-9bad-5186cebdca4f"
-      },
-      "chunkId": "f756b97fd42a4dd39a803787cfa21268fd0305e9",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 2,
-              "column": 112
-            },
-            "end": {
-              "line": 2,
-              "column": 116
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/res/dynamicMesh.ts": {
-      "mTimestamp": {
-        "mtime": 1655730254349.2556,
-        "uuid": "eac7d2ed-6631-4184-9bad-5186cebdca4f"
-      },
-      "chunkId": "6676b355301d0e9529f5ebc6d907cbe9d7452ee0",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 2,
-              "column": 112
-            },
-            "end": {
-              "line": 2,
-              "column": 116
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
     "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts": {
       "mTimestamp": {
-        "mtime": 1655730508000.2446,
+        "mtime": 1656491766934.604,
         "uuid": "9cd5db94-8253-4b06-b593-19a26b5130ff"
       },
       "chunkId": "e1c080d9bcd6f0d9ea10d7c85786d2a509e8495a",
@@ -818,7 +650,7 @@
     },
     "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/dynamicMesh.ts": {
       "mTimestamp": {
-        "mtime": 1655730254349.2556,
+        "mtime": 1656647555042.921,
         "uuid": "eac7d2ed-6631-4184-9bad-5186cebdca4f"
       },
       "chunkId": "237e3d3b41c1597dd6436e09c1296c62555fae1e",

@@ -2,8 +2,8 @@
   "imports": {
     "cce:/internal/x/cc": "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/6c/6cea9118b313aa76b67e6fd6577a4a82aae4c9d4.js",
-    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/dynamicMesh.ts": "./chunks/23/237e3d3b41c1597dd6436e09c1296c62555fae1e.js",
-    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts": "./chunks/e1/e1c080d9bcd6f0d9ea10d7c85786d2a509e8495a.js"
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/AutoRotate.ts": "./chunks/e1/e1c080d9bcd6f0d9ea10d7c85786d2a509e8495a.js",
+    "file:///Users/mu/work/gitee/CocosCreatorDemos/demo/3d/Creator3.5.1_3D_DynamicMesh/assets/scripts/dynamicMesh.ts": "./chunks/23/237e3d3b41c1597dd6436e09c1296c62555fae1e.js"
   },
   "scopes": {
     "./chunks/d0/d0b282b9748ef7fc7d2e7bd647d71b0f7e84da53.js": {

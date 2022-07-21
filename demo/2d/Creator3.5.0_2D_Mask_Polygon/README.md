@@ -5,3 +5,6 @@
 
 ### 效果预览
 ![image](../../../gif/202203/2022032021.gif)
+
+### 相关链接
+https://github.com/kirikayakazuto/CocosCreator_UIFrameWork/tree/SplitTexture

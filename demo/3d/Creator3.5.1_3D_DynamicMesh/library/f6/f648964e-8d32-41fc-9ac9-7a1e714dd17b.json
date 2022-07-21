@@ -60,7 +60,13 @@
                 0.5
               ],
               "editor": {
-                "parent": "USE_ALPHA_TEST"
+                "parent": "USE_ALPHA_TEST",
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
               },
               "type": 13,
               "handleInfo": [
@@ -143,6 +149,14 @@
               "value": [
                 0
               ],
+              "editor": {
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
+              },
               "type": 13
             },
             "tilingOffset": {
@@ -481,7 +495,13 @@
                 0.5
               ],
               "editor": {
-                "parent": "USE_ALPHA_TEST"
+                "parent": "USE_ALPHA_TEST",
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
               },
               "type": 13,
               "handleInfo": [
@@ -564,6 +584,14 @@
               "value": [
                 0
               ],
+              "editor": {
+                "slide": true,
+                "range": [
+                  0,
+                  1
+                ],
+                "step": 0.001
+              },
               "type": 13
             },
             "tilingOffset": {

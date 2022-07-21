@@ -5,3 +5,6 @@
 
 ### 效果预览
 ![image](../../../gif/202202/2022022802.gif)
+
+### 相关链接
+https://github.com/mattdesl/lwjgl-basics/wiki/2D-Pixel-Perfect-Shadows 
