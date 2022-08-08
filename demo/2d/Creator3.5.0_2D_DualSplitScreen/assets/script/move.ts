@@ -7,7 +7,6 @@ export class Move extends Component {
 
     @property(Node)
     man! : Node;
-
     @property(Node)
     woman! : Node;
 
@@ -71,35 +70,28 @@ export class Move extends Component {
 
     fixPosition (player: any, direct: number) {
         let pos = player.getPosition();
-        switch(direct){
+        switch (direct) {
             case 0:
-                if (pos.x <= this.LIMIT_LEFT) 
+                if (pos.x <= this.LIMIT_LEFT) {
                     pos.x = this.LIMIT_LEFT;
+                }
                 break;
             case 1:
-                if (pos.x >= this.LIMIT_RIGHT) 
+                if (pos.x >= this.LIMIT_RIGHT) {
                     pos.x = this.LIMIT_RIGHT;
+                }
                 break;
             case 2:
-                if (pos.y >= this.LIMIT_TOP) 
+                if (pos.y >= this.LIMIT_TOP) {
                     pos.y = this.LIMIT_TOP;
+                }
                 break;
             case 3:
-                if (pos.y <= this.LIMIT_BOTTOM) 
+                if (pos.y <= this.LIMIT_BOTTOM) {
                     pos.y = this.LIMIT_BOTTOM;
+                }
                 break;
         }
         player.setPosition(pos);
     }
 }
-
-/**
- * [1] Class member could be defined like this.
- * [2] Use `property` decorator if your want the member to be serializable.
- * [3] Your initialization goes here.
- * [4] Your update function goes here.
- *
- * Learn more about scripting: https://docs.cocos.com/creator/3.0/manual/en/scripting/
- * Learn more about CCClass: https://docs.cocos.com/creator/3.0/manual/en/scripting/ccclass.html
- * Learn more about life-cycle callbacks: https://docs.cocos.com/creator/3.0/manual/en/scripting/life-cycle-callbacks.html
- */

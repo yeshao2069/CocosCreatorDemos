@@ -1,12 +1,8 @@
 import { Component, log, warn, _decorator } from "cc";
-
 const { ccclass, property } = _decorator;
-
-
 
 @ccclass
 export default class BhvFSM extends Component {
-
 
     private stateList: string[] = []; //list of states
 
@@ -62,15 +58,13 @@ export default class BhvFSM extends Component {
         Object.keys(states).forEach((key) => {
             this.addState(states[key]);
         });
-
     }
 
     /**
      * remove state
      * @param state 
      */
-    public removeState(state: string) 
-    {
+    public removeState(state: string) {
         let _tmpState: string = this.getState(state);
         if (_tmpState != null) {
             this.stateList.splice(this.stateList.indexOf(_tmpState), 1);
@@ -80,8 +74,8 @@ export default class BhvFSM extends Component {
         }
     }
 
-    public getState(state: string): string//get state
-    {
+    //get state
+    public getState(state: string): string {
         if (this.stateList.indexOf(state) !== -1) {
             return state;
         } else {
@@ -92,7 +86,7 @@ export default class BhvFSM extends Component {
     /**
      * reset state
      */
-    public resetState(){
+    public resetState() {
         this.changeState();
     }
 
@@ -108,8 +102,7 @@ export default class BhvFSM extends Component {
             return;
         }
 
-        if (this._currentState != null) 
-        {
+        if (this._currentState != null) {
             if (this[`on${this._currentState}Exit`]) {
                 this[`on${this._currentState}Exit`](this._currentState,this._preState);
             }

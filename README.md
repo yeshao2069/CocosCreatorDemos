@@ -20,7 +20,7 @@ Cocos Creator v3.5.x
 | 31 | [Spine局部换装](#spinechangeslotwithtexture) | 32 | [旋转循环页视图实现](#revolvepageview) | 33 | [图片切割](#spritesplit) |
 | 34 | [Spine骨骼控制](#spinedragcontroller) | 35 | [音视频倍数播放](#mediaplaybackrate) | 36 | [TiledMap自动寻路](#tilemappathfinding) |
 | 37 | [剪切板](#copyfile) | 38 | [卡片翻转](#cardflip) | 39 | [卡片阵列](#cardqueue) |
-| 40 | [卡片阵列翻转](#cardflipandqueue) | 41 | [水面反射](#watersurfacereflection)
+| 40 | [卡片阵列翻转](#cardflipandqueue) | 41 | [水面反射](#watersurfacereflection) | 42 | [等电梯](#waitingelevator) |
 
 ### 3D
 | A1 | B1 | A2 | B2 | A3 | B3 |
@@ -32,7 +32,7 @@ Cocos Creator v3.5.x
 | 13 | [3D模型拖尾](#rolemotionvertex) | 14 | [模型贴花](#graffiti3d) | 15 | [雨滴滑落](#raindrop) |
 | 16 | [动态替换Mesh](#dynamicmesh) | 17 | [辉光](#modelbloom) | 18 | [模型查看器](#modelviewer) |
 | 19 | [模型边缘光](#modelrimlight) | 20 | [天空盒查看器](#skybox) | 21 | [武器发光](#weaponglow) |
-| 22 | [闪电鞭](#lightningwhip) |
+| 22 | [闪电鞭](#lightningwhip) | 23 | [塞尔达](#cartoonvegetation) |
 
 ### UIMeshRendererModel
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
@@ -346,6 +346,12 @@ Cocos Creator v3.5.x
 | 2.22 | 3D | [闪电鞭](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x/demo/3d/Creator3.5.2_3D_LightningWhip) | 3.5.2 | [返回顶部](#3d) | 无 |
 <div align=center><img src="./gif/202206/2022062701.gif" width="400" height="300" /></div>
 
+### CartoonVegetation
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 2.23 | 3D | [塞尔达](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x/demo/3d/Creator3.5.2_3D_CartoonVegetation) | 3.5.2 | [返回顶部](#3d) | 无 |
+<div align=center><img src="./gif/202207/2022072501.gif" width="400" height="300" /></div>
+
 ### SpineChangeSlotWithTexture
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -411,3 +417,9 @@ Cocos Creator v3.5.x
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | 3.11 | 2D | [水面反射](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x/demo/2dP1/Creator3.5.2_2D_WaterSurfaceReflection) | 3.5.2 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202207/2022072101.gif" width="400" height="250" /></div>
+
+### WaitingElevator
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 3.12 | 2D | [等电梯](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x/demo/2dP1/Creator3.5.2_2D_WaitingElevator) | 3.5.2 | [返回顶部](#2d) | 无 |
+<div align=center><img src="./gif/202208/2022080101.gif" width="400" height="250" /></div>

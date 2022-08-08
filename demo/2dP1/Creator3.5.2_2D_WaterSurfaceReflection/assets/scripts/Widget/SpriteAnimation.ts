@@ -23,7 +23,6 @@ export class anm {
 @executeInEditMode
 export class SpriteAnimation extends Sprite {
 
-
     @property({ type: anm })
     anms: anm[] = [];
 
@@ -53,34 +52,24 @@ export class SpriteAnimation extends Sprite {
         } else {
             this.stop()
         }
-
     }
 
     private anmName = "";
-
     private anmFrame = 0.05
-
     private startFrame = 0;
-
     private endFrame = 10;
-
     private frame = 0;
-
     private _currentAnm = 0;
-
     private _editorPlaying = false;
-
 
     get Anmimation(): number {
         return this._currentAnm;
     }
 
-
     set Anmimation(v: number) {
         this._currentAnm = v;
         this.playNewAnm();
     }
-
 
     start() {
         this.trim = false;
@@ -88,7 +77,6 @@ export class SpriteAnimation extends Sprite {
         if (this.playOnLoad && !EDITOR) {
             this.playNewAnm();
         }
-
     }
 
     playAnm() {
@@ -120,6 +108,4 @@ export class SpriteAnimation extends Sprite {
     stop() {
         this.unschedule(this.playAnm)
     }
-
 }
-

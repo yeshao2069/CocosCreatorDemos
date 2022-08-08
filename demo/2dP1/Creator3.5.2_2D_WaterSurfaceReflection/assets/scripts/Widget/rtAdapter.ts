@@ -21,15 +21,10 @@ export class rtAdapter extends Component {
     }
 
     private rtScale:number=0.5;
-
     private _isSetting = false;
 
-
-
     onEnable() {
-
         this.resetRT();
- 
     }
 
     resetRT(){
@@ -42,11 +37,6 @@ export class rtAdapter extends Component {
            this.rt.resize(size.width*this.rtScale, size.height*this.rtScale);
            this.cam.targetTexture = this.rt;
            this._isSetting=false;
-
        })
-
     }
-
-
 }
-

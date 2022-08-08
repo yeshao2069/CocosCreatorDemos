@@ -104,7 +104,7 @@
   {
     "__type__": "cc.Node",
     "_name": "RtCamera",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -191,7 +191,7 @@
   {
     "__type__": "cc.Node",
     "_name": "FixCamera",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -275,7 +275,7 @@
   {
     "__type__": "cc.Node",
     "_name": "UiCamera",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -328,7 +328,7 @@
     "_priority": 3,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 390.77340569877884,
+    "_orthoHeight": 503.8297872340425,
     "_near": 0,
     "_far": 2000,
     "_color": {
@@ -359,7 +359,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Game",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -418,7 +418,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BG",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 9
     },
@@ -471,7 +471,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BG1",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 10
     },
@@ -577,7 +577,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BG2",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 10
     },
@@ -683,7 +683,7 @@
   {
     "__type__": "cc.Node",
     "_name": "BG3",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 10
     },
@@ -810,7 +810,7 @@
   {
     "__type__": "cc.Node",
     "_name": "PlayerNode",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 9
     },
@@ -860,7 +860,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Player",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 21
     },
@@ -1080,7 +1080,7 @@
   {
     "__type__": "cc.Node",
     "_name": "MonsterLayer",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 9
     },
@@ -1176,7 +1176,7 @@
   {
     "__type__": "cc.Node",
     "_name": "SkillsLayer",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 9
     },
@@ -1226,7 +1226,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Lightning",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 35
     },
@@ -1352,7 +1352,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Meteor",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 35
     },
@@ -1549,7 +1549,7 @@
   {
     "__type__": "cc.Node",
     "_name": "LandRenderer",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -1690,7 +1690,7 @@
   {
     "__type__": "cc.Node",
     "_name": "WaterRenderer",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -1831,7 +1831,7 @@
   {
     "__type__": "cc.Node",
     "_name": "UI",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
@@ -1884,7 +1884,7 @@
   {
     "__type__": "cc.Node",
     "_name": "joyStickTouch",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 55
     },
@@ -1937,7 +1937,7 @@
   {
     "__type__": "cc.Node",
     "_name": "joyStick",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 56
     },
@@ -1996,7 +1996,7 @@
   {
     "__type__": "cc.Node",
     "_name": "left",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 57
     },
@@ -2102,7 +2102,7 @@
   {
     "__type__": "cc.Node",
     "_name": "right",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 57
     },
@@ -2208,7 +2208,7 @@
   {
     "__type__": "cc.Node",
     "_name": "joyBtn",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 57
     },
@@ -2451,7 +2451,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Head",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 55
     },
@@ -2504,7 +2504,7 @@
   {
     "__type__": "cc.Node",
     "_name": "img1",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 73
     },
@@ -2610,7 +2610,7 @@
   {
     "__type__": "cc.Node",
     "_name": "headBg",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 73
     },

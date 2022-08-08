@@ -29,9 +29,8 @@ export default class HeroFSM extends BhvFSM {
     @property
     speed:number = 2;
 
-    static ins:HeroFSM = null;
-
-    private cam:Node =null
+    static ins: HeroFSM = null;
+    private cam: Node =null
 
     start(){
         this.cam = find("Canvas/RtCamera");
@@ -42,26 +41,20 @@ export default class HeroFSM extends BhvFSM {
         this.addStates(STATE);
         HeroFSM.ins=this;
         this.changeState(STATE.Idle);
-
-
     }
 
     onDisable(){
         this.RemoveAllState()
         HeroFSM.ins=null;
-
     }
 
     onIdleEnter() {
         this.anm.Anmimation=0;
     }
 
-
     onIdleUpdate() {
      
-
     }
-
 
     onWalkLeftEnter() {
         if(this.anm.Anmimation!=1)this.anm.Anmimation=1;
@@ -85,7 +78,6 @@ export default class HeroFSM extends BhvFSM {
         this.node.setScale(1,1)
     }
 
-
     onWalkRightUpdate() {
         _v1.set(this.node.position);
         _v1.x +=this.speed;
@@ -96,8 +88,4 @@ export default class HeroFSM extends BhvFSM {
         if(dis>_camDis) _v2.x = _v1.x-_camDis;
         this.cam.setPosition(_v2);
     }
-
-
-   
-
 }
