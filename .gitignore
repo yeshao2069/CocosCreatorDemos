@@ -4,3 +4,5 @@ library/
 temp/
 local/
 build/
+native/
+.creator/

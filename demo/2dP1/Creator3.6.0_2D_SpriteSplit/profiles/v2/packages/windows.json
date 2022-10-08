@@ -1,0 +1,8 @@
+{
+  "common": {
+    "outputName": "windows",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "windows",
+    "debug": true
+  }
+}

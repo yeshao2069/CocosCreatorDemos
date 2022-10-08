@@ -1,0 +1,22 @@
+{
+  "__version__": "3.0.4",
+  "options": {
+    "web-desktop": {
+      "configID": "870eec",
+      "services": []
+    },
+    "android": {
+      "configID": "870eec",
+      "services": []
+    },
+    "ios": {
+      "configID": "870eec",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "870eec",
+    "services": [],
+    "__version__": "3.0.4"
+  }
+}

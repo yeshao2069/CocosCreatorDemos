@@ -1,0 +1,12 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "3912f2",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "3912f2",
+    "services": []
+  }
+}

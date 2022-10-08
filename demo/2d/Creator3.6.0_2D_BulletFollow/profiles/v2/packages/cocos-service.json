@@ -1,0 +1,21 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "2fb815",
+      "services": []
+    },
+    "mac": {
+      "configID": "2fb815",
+      "services": []
+    },
+    "android": {
+      "configID": "2fb815",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "2fb815",
+    "services": [],
+    "__version__": "3.0.4"
+  }
+}

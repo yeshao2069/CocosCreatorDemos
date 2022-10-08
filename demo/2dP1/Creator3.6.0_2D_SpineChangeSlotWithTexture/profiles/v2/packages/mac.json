@@ -1,0 +1,13 @@
+{
+  "options": {
+    "mac": {
+      "packageName": "com.chengen.testa"
+    }
+  },
+  "__version__": "1.0.0",
+  "common": {
+    "outputName": "mac",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "mac"
+  }
+}

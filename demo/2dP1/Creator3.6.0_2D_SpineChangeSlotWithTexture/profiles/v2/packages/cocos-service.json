@@ -1,0 +1,21 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "af7548",
+      "services": []
+    },
+    "mac": {
+      "configID": "af7548",
+      "services": []
+    },
+    "android": {
+      "configID": "af7548",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "af7548",
+    "services": [],
+    "__version__": "3.0.4"
+  }
+}

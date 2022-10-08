@@ -1,0 +1,20 @@
+{
+  "__version__": "1.0.2",
+  "layer": [
+    {
+      "name": "default",
+      "value": 1
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "fitWidth": false,
+      "fitHeight": true
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

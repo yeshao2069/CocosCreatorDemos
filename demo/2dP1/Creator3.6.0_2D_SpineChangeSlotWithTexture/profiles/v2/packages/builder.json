@@ -1,0 +1,170 @@
+{
+  "log": {
+    "level": 4
+  },
+  "__version__": "1.3.3",
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "outputName": "mac",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "mac",
+    "debug": true,
+    "sourceMaps": true
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1663295423308": {
+        "type": "build",
+        "id": "1663295423308",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2022-9-16 17:21 Build success in 73037 ms!",
+        "options": {
+          "name": "spine_changeclothes",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "replaceSplashScreen": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "bfe0c415-02e0-4da3-8696-c40bf4e60164",
+          "outputName": "android",
+          "scenes": [
+            {
+              "url": "db://assets/changeSpine.scene",
+              "uuid": "bfe0c415-02e0-4da3-8696-c40bf4e60164",
+              "inBundle": false
+            }
+          ],
+          "mac": [],
+          "packages": {
+            "android": {
+              "packageName": "com.chengen.testa",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": 26,
+              "appABIs": [
+                "arm64-v8a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false,
+              "__version__": "1.0.1"
+            },
+            "cocos-service": {
+              "configID": "af7548",
+              "services": [],
+              "__version__": "3.0.4"
+            },
+            "native": {
+              "encrypted": false,
+              "xxteaKey": "32l/CzzLdOBoEuC1",
+              "compressZip": false,
+              "JobSystem": "none",
+              "__version__": "1.0.2"
+            }
+          },
+          "__version__": "1.3.3",
+          "android": []
+        },
+        "time": "2022-9-16 17:20",
+        "dirty": false
+      },
+      "1663325212127": {
+        "type": "build",
+        "id": "1663325212127",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2022-9-16 18:48 Build success in 99176 ms!",
+        "options": {
+          "name": "spine_changeclothes",
+          "platform": "mac",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "replaceSplashScreen": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "bfe0c415-02e0-4da3-8696-c40bf4e60164",
+          "outputName": "mac",
+          "scenes": [
+            {
+              "url": "db://assets/changeSpine.scene",
+              "uuid": "bfe0c415-02e0-4da3-8696-c40bf4e60164",
+              "inBundle": false
+            }
+          ],
+          "android": [],
+          "packages": {
+            "mac": {
+              "packageName": "com.chengen.testa",
+              "renderBackEnd": {
+                "metal": true
+              },
+              "targetVersion": "10.14",
+              "supportM1": false,
+              "skipUpdateXcodeProject": false,
+              "__version__": "1.0.0"
+            },
+            "cocos-service": {
+              "configID": "af7548",
+              "services": [],
+              "__version__": "3.0.4"
+            },
+            "native": {
+              "encrypted": false,
+              "xxteaKey": "81rEWBcClALLQGzM",
+              "compressZip": false,
+              "JobSystem": "none",
+              "__version__": "1.0.2"
+            }
+          },
+          "__version__": "1.3.3",
+          "mac": []
+        },
+        "time": "2022-9-16 18:46",
+        "dirty": false
+      }
+    }
+  }
+}

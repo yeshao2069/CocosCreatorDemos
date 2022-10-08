@@ -1,0 +1,15 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "35b6c2",
+      "services": [],
+      "__version__": "3.0.4"
+    }
+  },
+  "builder-options": {
+    "configID": "35b6c2",
+    "services": [],
+    "__version__": "3.0.4"
+  },
+  "__version__": "3.0.4"
+}
