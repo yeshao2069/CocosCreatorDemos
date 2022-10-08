@@ -423,3 +423,6 @@ Cocos Creator v3.5.x
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | 3.12 | 2D | [等电梯](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x/demo/2dP1/Creator3.5.2_2D_WaitingElevator) | 3.5.2 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202208/2022080101.gif" width="400" height="250" /></div>
+
+### Mark
+Cocos Creator Demos 3.5.x 版本列举效果 65 种，会同步更新到 [Cocos Creator Demos 3.6.x](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x) 版本，后续 Cocos Creator Demos 3.5.x 将不会同步新的效果，请移步到 3.6.x 版本查看最新效果。
