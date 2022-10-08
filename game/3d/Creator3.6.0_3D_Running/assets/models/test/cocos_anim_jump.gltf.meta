@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f4d979c8-e820-4f9d-a413-979883c7eac5",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "cd579": {
+      "importer": "gltf-animation",
+      "uuid": "f4d979c8-e820-4f9d-a413-979883c7eac5@cd579",
+      "displayName": "",
+      "id": "cd579",
+      "name": "cocos_anim_jump.animation",
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.625
+        },
+        "events": []
+      }
+    },
+    "645e0": {
+      "importer": "gltf-scene",
+      "uuid": "f4d979c8-e820-4f9d-a413-979883c7eac5@645e0",
+      "displayName": "",
+      "id": "645e0",
+      "name": "cocos_anim_jump.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "animationImportSettings": [
+      {
+        "name": "cocos_anim_jump",
+        "duration": 1.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "cocos_anim_jump",
+            "from": 0,
+            "to": 1.625,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f4d979c8-e820-4f9d-a413-979883c7eac5@645e0",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f4d979c8-e820-4f9d-a413-979883c7eac5@645e0"
+      ]
+    }
+  }
+}

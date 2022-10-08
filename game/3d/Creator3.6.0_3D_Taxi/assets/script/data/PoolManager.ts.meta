@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "bb887bcc-21bd-4081-8e69-ca995296c41a",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/data/PoolManager.js",
+    "importerSettings": 4,
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "3ab80e58-498b-4937-8687-643788feb584",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/ui/LoadingUI.js",
+    "importerSettings": 4,
+    "simulateGlobals": []
+  }
+}

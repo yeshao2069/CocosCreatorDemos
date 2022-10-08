@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d5770330-c697-42b7-8af7-fbea8f0ae095",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/ui/GameUI.js",
+    "importerSettings": 4,
+    "simulateGlobals": []
+  }
+}

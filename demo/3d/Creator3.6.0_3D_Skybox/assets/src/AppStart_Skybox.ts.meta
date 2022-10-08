@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "88b0d871-8d78-4529-b97d-5525985b2316",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/resources/scenes/skybox/AppStart_Skybox.js",
+    "simulateGlobals": []
+  }
+}

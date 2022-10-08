@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "70a8ed1b-fb05-4c2d-a37e-728406632cca",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/data/Constants.js",
+    "importerSettings": 4,
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "b33f9eaf-2241-48f6-8eee-cde71cfe3fe0",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/game/GameCtrl.js",
+    "importerSettings": 4,
+    "simulateGlobals": []
+  }
+}

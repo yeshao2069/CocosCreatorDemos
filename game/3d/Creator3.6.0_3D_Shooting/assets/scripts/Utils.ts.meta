@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "4aba55fe-932d-4a5a-aafa-059750dee0a2",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/simple-shooting/scripts/Utils.js",
+    "simulateGlobals": []
+  }
+}

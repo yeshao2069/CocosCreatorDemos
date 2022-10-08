@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "7798c86f-d322-4104-b257-22921fc6eec5",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/ui/BtnAdapter.js",
+    "importerSettings": 4,
+    "simulateGlobals": []
+  }
+}

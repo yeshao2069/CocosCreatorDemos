@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "20662192-d10c-475d-8fa7-19d5cf8dc581",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/simple-shooting/scripts/ShootingGameManager.js",
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "12894bc2-02e1-4485-8b74-9bbccf7d78f6",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/data/ResUtil.js",
+    "importerSettings": 4,
+    "simulateGlobals": []
+  }
+}

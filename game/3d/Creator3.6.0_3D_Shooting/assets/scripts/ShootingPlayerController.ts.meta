@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "7f57ee5b-7598-47e1-98f7-7942edc7de57",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/simple-shooting/scripts/ShootingPlayerController.js",
+    "simulateGlobals": []
+  }
+}

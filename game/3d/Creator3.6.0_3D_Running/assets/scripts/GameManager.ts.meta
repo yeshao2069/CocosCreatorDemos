@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "800de473-eb49-4015-8845-5661d02db5f4",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/simple-run/scripts/GameManager.js",
+    "simulateGlobals": []
+  }
+}

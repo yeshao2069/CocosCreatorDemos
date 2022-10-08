@@ -1,0 +1,57 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "83d8802b-bb47-4dad-afb5-8f1e6640f5c2",
+  "files": [],
+  "subMetas": {
+    "0b568": {
+      "importer": "gltf-mesh",
+      "uuid": "83d8802b-bb47-4dad-afb5-8f1e6640f5c2@0b568",
+      "displayName": "",
+      "id": "0b568",
+      "name": "Cylinder.001.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "8038b": {
+      "importer": "gltf-scene",
+      "uuid": "83d8802b-bb47-4dad-afb5-8f1e6640f5c2@8038b",
+      "displayName": "",
+      "id": "8038b",
+      "name": "coin.prefab",
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "83d8802b-bb47-4dad-afb5-8f1e6640f5c2@8038b",
+    "assetFinder": {
+      "meshes": [
+        "83d8802b-bb47-4dad-afb5-8f1e6640f5c2@0b568"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "83d8802b-bb47-4dad-afb5-8f1e6640f5c2@8038b"
+      ]
+    }
+  }
+}

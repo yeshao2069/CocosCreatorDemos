@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "96d85146-ca46-4ef5-85d2-e65ef09ce9cc",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/simple-run/scripts/CameraFollow.js",
+    "simulateGlobals": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "f0b36ccc-a103-47c2-8830-aa84fce94d8b",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/game/CustomerManager.js",
+    "importerSettings": 4,
+    "simulateGlobals": []
+  }
+}

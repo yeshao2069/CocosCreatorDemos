@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "1c463122-5ee3-438c-8eda-b4a6bc566767",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/simple-run/scripts/GameDefines.js",
+    "simulateGlobals": []
+  }
+}

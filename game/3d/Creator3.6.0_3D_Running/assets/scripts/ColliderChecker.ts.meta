@@ -1,0 +1,12 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "52f3552c-743c-4d06-9509-a90b45670258",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/simple-run/scripts/ColliderChecker.js",
+    "simulateGlobals": []
+  }
+}
