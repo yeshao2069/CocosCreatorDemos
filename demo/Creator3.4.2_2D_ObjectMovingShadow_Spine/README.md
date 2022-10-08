@@ -1,5 +1,3 @@
-## Cocos Creator Demos
-
 ### 简介
 基于 CocosCreator 3.4.2 版本创建的 **2D物体移动残影(spine)** 工程。
 

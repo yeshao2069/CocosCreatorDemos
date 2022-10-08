@@ -1,5 +1,3 @@
-## Cocos Creator Demos
-
 ### 简介
 基于 CocosCreator 3.4.2 版本创建的 **3D围绕物体旋转一周(四元数)** 工程。
 

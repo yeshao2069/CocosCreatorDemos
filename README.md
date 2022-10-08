@@ -237,6 +237,5 @@
 | 2.12 | 3D | [3D骨骼动画移动残影](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.4.x/demo/Creator3.4.2_3D_ModelResidualShadows)  | 无 |
 <div align=center><img src="./gif/202205/2022050501.gif" width="400" height="300" /></div>
 
-
 ### Mark
-Cocos Creator 3.4.x 版本列举 Demo 共 49 种(其中 2D 37 种(包含 图片分割 3.4.0 和 2D 流体 3.4.0 两种不兼容 3.4.2 的版本)，3D 12 种)，会同步更新到 Cocos Creator 3.5.x 版本，后续 Cocos Creator 3.4.x 将不会同步新的 Demo，请移步到 3.5.x 版本查看最新效果
+Cocos Creator Demos 3.4.x 版本列举效果 49 种，会同步更新到 [Cocos Creator Demos 3.5.x](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.5.x) 版本，后续 Cocos Creator Demos 3.4.x 将不会同步新的效果，请移步到 3.5.x 版本查看最新效果。
