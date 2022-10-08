@@ -1,5 +1,3 @@
-## Cocos Creator Demos
-
 ### 简介
 基于 CocosCreator 3.0.0 版本创建的 **无限视差滚动背景** 工程。
 

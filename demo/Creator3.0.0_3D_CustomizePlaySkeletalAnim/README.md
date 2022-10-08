@@ -1,5 +1,3 @@
-## Cocos Creator Demos
-
 ### 简介
 基于 CocosCreator 3.0.0 版本创建的 **自定义骨骼动画播放** 工程。
 

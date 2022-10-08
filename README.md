@@ -41,4 +41,4 @@
 | 2.9 | 3D | [点击旋转](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.0.x/demo/Creator3.0.0_3D_TouchAround)  | <div align=center><img src="./gif/202201/2022012086.gif" width="400" height="300" /></div> |
 
 ### Mark
-Cocos Creator 3.0.x 版本列举 Demo 共31种(其中2D 22种，3D 9种)，会同步更新到 Cocos Creator 3.4.x 版本，后续 Cocos Creator 3.0.x 将不会同步新的 Demo，请移步到 3.4.x 版本查看最新效果
+Cocos Creator Demos 3.0.x 版本列举效果 31 种，会同步更新到 [Cocos Creator Demos 3.4.x](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.4.x) 版本，后续 Cocos Creator Demos 3.0.x 将不会同步新的效果，请移步到 3.4.x 版本查看最新效果。
