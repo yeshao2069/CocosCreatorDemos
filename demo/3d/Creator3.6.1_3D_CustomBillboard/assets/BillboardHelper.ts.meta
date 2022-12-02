@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "83f25f60-c7b8-4239-8e8e-8906a9b9254b",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/BillboardHelper.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

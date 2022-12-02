@@ -118,7 +118,8 @@
       "skeletal-animation",
       "terrain",
       "tween",
-      "ui"
+      "ui",
+      "xr"
     ],
     "noDeprecatedFeatures": {
       "value": false,

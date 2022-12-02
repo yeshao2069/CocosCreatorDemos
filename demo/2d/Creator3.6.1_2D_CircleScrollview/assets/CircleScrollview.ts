@@ -223,6 +223,8 @@ export class CircleScrollview extends Component {
                 this.moveAim += 8;
             }
         }
+        if (this.moveAim < 0 || this.moveAim >= this.childs.length) return;
+
         let lx = this.childs[this.moveAim].position.x;
         for (let i = 0; i < this.childs.length; i++) {
             this._checkChildX(this.childs[i], this.childs[i].position.x + stepx);

@@ -1,0 +1,112 @@
+// Copyright (c) 2017-2020 Xiamen Yaji Software Co., Ltd.
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: unlit-vs:vert
+      frag: unlit-fs:frag
+      properties: &props
+        mainTexture:    { value: grey }
+  - name: transparent
+    passes:
+    - vert: unlit-vs:vert
+      frag: unlit-fs:frag
+      depthStencilState: &d1
+        depthTest: true
+        depthWrite: false
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      properties: *props
+  - name: add
+    passes:
+    - vert: unlit-vs:vert
+      frag: unlit-fs:frag
+      rasterizerState: &r1 { cullMode: none }
+      depthStencilState: *d1
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one
+          blendSrcAlpha: src_alpha
+          blendDstAlpha: one
+      properties: *props
+  - name: alpha-blend
+    passes:
+    - vert: unlit-vs:vert
+      frag: unlit-fs:frag
+      rasterizerState: *r1
+      depthStencilState: *d1
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendSrcAlpha: src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      properties: *props
+}%
+
+CCProgram unlit-vs %{
+  precision highp float;
+  #include <legacy/input>
+  #include <builtin/uniforms/cc-global>
+  #include <legacy/decode-base>
+  #include <legacy/local-batch>
+  #include <legacy/input>
+  #include <legacy/fog-vs>
+  
+  #if USE_TEXTURE
+    out vec2 v_uv;
+    out highp vec4 v_screenPos;
+  #endif
+
+  vec4 vert () {
+    vec4 position;
+    CCVertInput(position);
+
+    mat4 matWorld;
+    CCGetWorldMatrix(matWorld);
+
+    CC_TRANSFER_FOG(matWorld * position);
+    vec4 pos = cc_matProj * (cc_matView * matWorld) * position;
+
+    #if USE_TEXTURE
+      float flip = cc_cameraPos.w == 0.0 ? -1.0 : 1.0;
+      v_screenPos = pos * 0.5;
+      v_screenPos.xy = vec2(v_screenPos.x, v_screenPos.y * flip) + v_screenPos.w;
+      v_screenPos.zw = pos.zw;
+    #endif
+
+    return pos;
+  }
+}%
+
+CCProgram unlit-fs %{
+  precision highp float;
+  #include <legacy/output>
+  #include <legacy/fog-fs>
+
+  #if USE_TEXTURE
+    in vec2 v_uv;
+    uniform sampler2D mainTexture;
+  #endif
+
+  in highp vec4 v_screenPos;
+
+  vec4 frag () {
+    vec4 o;
+
+    #if USE_TEXTURE
+      vec2 screenSpaceUV = v_screenPos.xy / v_screenPos.w;
+      o = texture(mainTexture, screenSpaceUV);
+    #endif
+
+    CC_APPLY_FOG(o);
+    return CCFragOutput(o);
+  }
+}%

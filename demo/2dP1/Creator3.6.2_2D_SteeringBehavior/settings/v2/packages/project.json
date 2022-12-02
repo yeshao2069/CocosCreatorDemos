@@ -1,0 +1,17 @@
+{
+  "__version__": "1.0.2",
+  "script": {
+    "useDefineForClassFields": false,
+    "allowDeclareFields": false
+  },
+  "general": {
+    "designResolution": {
+      "fitHeight": true
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

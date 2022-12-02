@@ -1,0 +1,9 @@
+{
+  "__type__": "cc.RenderTexture",
+  "content": {
+    "base": "2,2,2,2,0,0",
+    "w": 300,
+    "h": 200,
+    "n": "scene-map"
+  }
+}

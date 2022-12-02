@@ -19,8 +19,8 @@ CCEffect %{
 CCProgram unlit-vs %{
   precision highp float;
 
-  #include <cc-global>
-  #include <cc-local>
+  #include <builtin/uniforms/cc-global>
+  #include <builtin/uniforms/cc-local>
 
   in vec3 a_position;
   in vec4 a_color;
@@ -54,7 +54,7 @@ CCProgram unlit-vs %{
 CCProgram unlit-fs %{
   precision highp float;
   
-  #include <alpha-test>
+  #include <builtin/internal/alpha-test>
   #include <texture>
 
   in vec4 v_color;

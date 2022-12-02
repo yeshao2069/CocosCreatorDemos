@@ -38,7 +38,7 @@ export default class GTAssembler2D extends Assembler {
 
 // // cc.Assembler2D的初始化放在constructor里
 // // 此处把初始化放在init里，以便成员变量能够有机会修改
-        this._renderData = new cc.RenderData();
+        this._renderData = new RenderData();
         this._renderData.init(this);
 
         this.initLocal();
@@ -72,7 +72,7 @@ export default class GTAssembler2D extends Assembler {
     }
     getBuffer() {
 // //@ts-ignore
-        return cc.renderer._handle._meshBuffer;
+        return renderer._handle._meshBuffer;
     }
 // /** 更新世界顶点 */
     updateWorldVerts(comp) {

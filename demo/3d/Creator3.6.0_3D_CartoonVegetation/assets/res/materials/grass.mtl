@@ -31,7 +31,15 @@
         ]
       }
     },
-    {}
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
   ],
   "_props": [
     {

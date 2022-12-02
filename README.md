@@ -6,7 +6,7 @@ Cocos Creator v3.6.x
 
 ### 2D
 | A1 | B1 | A2 | B2 | A3 | B3 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :--- | :---: | :--- | :---: | :--- |
 | 1 | [3D模型显示在UI中(UIMeshRenderer)](#uimeshrenderermodel) | 2 | [骨骼动画显示在UI中(UIMeshRenderer)](#uimeshrendererskelanim) | 3 | [3D模型显示在UI中(RenderTexture)](#rendertexturemodel) |
 | 4 | [骨骼动画显示在UI中(RenderTexture)](#rendertextureskelanim) | 5 | [物体追踪](#bulletfollow) | 6 | [KTV歌词](#ktvlabel) |
 | 7 | [无限视差滚动背景](#scrollingbackground) | 8 | [虚拟摇杆](#virtualjoystick) | 9 | [屏幕点击震动](#screenvibrating) |
@@ -21,19 +21,19 @@ Cocos Creator v3.6.x
 | 34 | [Spine骨骼控制](#spinedragcontroller) | 35 | [音视频倍数播放](#mediaplaybackrate) | 36 | [TiledMap自动寻路](#tilemappathfinding) |
 | 37 | [剪切板](#copyfile) | 38 | [卡片翻转](#cardflip) | 39 | [卡片阵列](#cardqueue) |
 | 40 | [卡片阵列翻转](#cardflipandqueue) | 41 | [Graphics拓展和SVG加载](#raphael) | 42 | [旋转循环翻页视图](#rotatelooppageview) |
-| 43 | [滚动抽奖](#lotteryrolling) |
+| 43 | [滚动抽奖](#lotteryrolling) | 44 | [从图集获取UV](#getuvfromtheatlas) | 45 | [RPG角色跟随](#getuvfromtheatlas) |
+| 46 | [可视化算法(柱形图)](#visualizationalgorithm2) | 47 | [转向行为](#steeringbehavior) |
 
 ### 3D
 | A1 | B1 | A2 | B2 | A3 | B3 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :--- | :---: | :--- | :---: | :--- |
 | 1 | [3D围绕物体旋转一周(旋转摄像机)](#camerarotatearound3d) | 2 | [3D围绕物体旋转一周(四元数)](#camerarotatearound3dquat) | 3 | [3D文本](#modeltext) |
 | 4 | [第一人称射击](#firstpersonshooting) | 5 | [第一人称视角](#firstpersonperspective) | 6 | [3D模型点击旋转](#modeltoucharound) |
 | 7 | [3D围绕物体旋转(自转)](#selfrotatearound) | 8 | [模型换肤](#modeldressup) | 9 | [3D模型切割](#meshcutter) |
-| 10 | [3D模型运动变速](#tweengametimescale) | 11 | [3D骨骼动画移动残影](#modelresidualshadows) | 12 | [3D模型拖尾](#rolemotionvertex) |
-| 13 | [模型贴花](#graffiti3d) | 14 | [雨滴滑落](#raindrop) | 16 | [动态替换Mesh](#dynamicmesh) |
-| 16 | [辉光](#modelbloom) | 17 | [模型查看器](#modelviewer) | 19 | [模型边缘光](#modelrimlight) |
-| 19 | [天空盒查看器](#skybox) | 20 | [武器发光](#weaponglow) | 21 | [闪电鞭](#lightningwhip) |
-| 22 | [塞尔达](#cartoonvegetation) | 23 | [FPS第一人称射击](#fpsfirstperson) |
+| 10 | [3D模型运动变速](#tweengametimescale) | 11 | [3D骨骼动画移动残影](#modelresidualshadows) | 12 | [动态替换Mesh](#dynamicmesh) |
+| 13 | [模型查看器](#modelviewer) | 14 | [天空盒查看器](#skybox) | 15 | [闪电鞭](#lightningwhip) |
+| 16 | [塞尔达](#cartoonvegetation) | 17 | [FPS第一人称射击](#fpsfirstperson) | 18 | [自定义布告板](#custombillboard) |
+| 19 | [镜面效果](#mirroring) | 20 | [3D文字](#label3d) | 21 | [3D传送门](#portal3d) |
 
 ### 2D_Game
 | A1 | B1 | A2 | B2 | A3 | B3 |
@@ -181,7 +181,7 @@ Cocos Creator v3.6.x
 ### Light2D
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.23 | 2D | [2D光照](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_Light) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.23 | 2D | [2D光照](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.1_2D_Light) | 3.6.1 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202202/2022022801.gif" width="400" height="300" /></div>
 
 ### ShadowMap2D
@@ -292,77 +292,65 @@ Cocos Creator v3.6.x
 | 2.11 | 3D | [3D骨骼动画移动残影](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_ModelResidualShadows) | 3.6.0 | [返回顶部](#3d) | 无 |
 <div align=center><img src="./gif/202205/2022050501.gif" width="400" height="300" /></div>
 
-### RoleMotionVertex
-| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.12 | 3D | [3D模型拖尾](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_RoleMotionVertex) | 3.6.0 | [返回顶部](#3d) | 无 |
-<div align=center><img src="./gif/202206/2022060201.gif" width="400" height="300" /></div>
-
-### Graffiti3D
-| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.13 | 3D | [模型贴花](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_Graffiti) | 3.6.0 | [返回顶部](#3d) | 无 |
-<div align=center><img src="./gif/202206/2022061401.gif" width="400" height="300" /></div>
-
-### RainDrop
-| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.14 | 3D | [雨滴滑落](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_RainDrop) | 3.6.0 | [返回顶部](#3d) | 无 |
-<div align=center><img src="./gif/202206/2022062001.gif" width="400" height="300" /></div>
-
 ### DynamicMesh
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.15 | 3D | [动态替换Mesh](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_DynamicMesh) | 3.6.0 | [返回顶部](#3d) | 无 |
+| 2.12 | 3D | [动态替换Mesh](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_DynamicMesh) | 3.6.0 | [返回顶部](#3d) | 无 |
 <div align=center><img src="./gif/202206/2022062002.gif" width="400" height="300" /></div>
-
-### ModelBloom
-| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.16 | 3D | [辉光](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_ModelBloom) | 3.6.0 | [返回顶部](#3d) | 无 |
-<div align=center><img src="./gif/202206/2022062202.gif" width="400" height="300" /></div>
 
 ### ModelViewer
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.17 | 3D | [模型查看器](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_ModelViewer) | 3.6.0 | [返回顶部](#3d) | 无 |
+| 2.13 | 3D | [模型查看器](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_ModelViewer) | 3.6.0 | [返回顶部](#3d) | 无 |
 <div align=center><img src="./gif/202206/2022062301.gif" width="400" height="300" /></div>
-
-### ModelRimLight
-| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.18 | 3D | [模型边缘光](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_ModelRimLight) | 3.6.0 | [返回顶部](#3d) | 无 |
-<div align=center><img src="./gif/202206/2022062302.gif" width="400" height="300" /></div>
 
 ### Skybox
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.19 | 3D | [天空盒查看器](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_Skybox) | 3.6.0 | [返回顶部](#3d) | 无 |
+| 2.14 | 3D | [天空盒查看器](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_Skybox) | 3.6.0 | [返回顶部](#3d) | 无 |
 <div align=center><img src="./gif/202206/2022062303.gif" width="400" height="300" /></div>
-
-### WeaponGlow
-| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.20 | 3D | [武器发光](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_WeaponGlow) | 3.6.0 | [返回顶部](#3d) | 无 |
-<div align=center><img src="./gif/202206/2022062304.gif" width="400" height="350" /></div>
 
 ### LightningWhip
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.21 | 3D | [闪电鞭](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_LightningWhip) | 3.6.0 | [返回顶部](#3d) | 无 |
+| 2.15 | 3D | [闪电鞭](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_LightningWhip) | 3.6.0 | [返回顶部](#3d) | 无 |
 <div align=center><img src="./gif/202206/2022062701.gif" width="400" height="300" /></div>
 
 ### CartoonVegetation
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.22 | 3D | [塞尔达](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_CartoonVegetation) | 3.6.0 | [返回顶部](#3d) | 无 |
+| 2.16 | 3D | [塞尔达](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_CartoonVegetation) | 3.6.0 | [返回顶部](#3d) | 无 |
 <div align=center><img src="./gif/202207/2022072501.gif" width="400" height="300" /></div>
 
 ### FPSFirstPerson
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.23 | 3D | [FPS第一人称射击](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_FPS_FirstPerson) | 3.6.0 | [返回顶部](#3d) | 无 |
+| 2.17 | 3D | [FPS第一人称射击](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_FPS_FirstPerson) | 3.6.0 | [返回顶部](#3d) | 无 |
 <div align=center><img src="./gif/202209/2022091501.gif" width="400" height="300" /></div>
+
+### CustomBillboard
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 2.18 | 3D | [自定义布告板](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.1_3D_CustomBillboard) | 3.6.1 | [返回顶部](#3d) | 无 |
+<div align=center><img src="./gif/202210/2022101001.gif" width="400" height="300" /></div>
+
+### Mirroring
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 2.19 | 3D | [镜面效果](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.0_3D_Mirroring) | 3.6.0 | [返回顶部](#3d) | 无 |
+<div align=center><img src="./gif/202210/2022101002.gif" width="400" height="300" /></div>
+
+### Label3D
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 2.20 | 3D | [3D文字](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.1_3D_Label3D) | 3.6.1 | [返回顶部](#3d) | 无 |
+<div align=center><img src="./gif/202210/2022101701.gif" width="400" height="300" /></div>
+
+### Portal3D
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 2.21 | 3D | [3D传送门](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.2_3D_Portal) | 3.6.2 | [返回顶部](#3d) | 无 |
+<div align=center><img src="./gif/202211/2022111801.gif" width="400" height="300" /></div>
 
 ### SpineChangeSlotWithTexture
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
@@ -441,6 +429,30 @@ Cocos Creator v3.6.x
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | 3.13 | 2D | [滚动抽奖](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2dP1/Creator3.6.1_2D_LotteryRolling) | 3.6.1 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202210/2022100101.gif" width="400" height="300" /></div>
+
+### GetUVFromTheAtlas
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 3.14 | 2D | [从图集获取UV](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2dP1/Creator3.6.1_2D_GetUVFromTheAtlas) | 3.6.1 | [返回顶部](#2d) | 无 |
+<div align=center><img src="./image/202210/2022103101.png" width="400" height="300" /><img src="./image/202210/2022103102.png" width="400" height="300" /></div>
+
+### RoleFollow
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 3.15 | 2D | [RPG角色跟随](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2dP1/Creator3.6.2_2D_RoleFollow) | 3.6.2 | [返回顶部](#2d) | 无 |
+<div align=center><img src="./gif/202211/2022110901.gif" width="400" height="300" /></div>
+
+### VisualizationAlgorithm2
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 3.16 | 2D | [可视化算法(柱形图)](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2dP1/Creator3.6.2_2D_VisualizationAlgorithm2) | 3.6.2 | [返回顶部](#2d) | 无 |
+<div align=center><img src="./gif/202211/2022111001.gif" width="400" height="300" /></div>
+
+### SteeringBehavior
+| 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 3.17 | 2D | [转向行为](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2dP1/Creator3.6.2_2D_SteeringBehavior) | 3.6.2 | [返回顶部](#2d) | 无 |
+<div align=center><img src="./image/202211/2022112101.png" width="400" height="300" /></div>
 
 ### LifeRestart
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |

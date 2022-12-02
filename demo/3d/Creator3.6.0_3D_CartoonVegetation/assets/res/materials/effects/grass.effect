@@ -235,6 +235,7 @@ CCProgram fs %{
   #include <legacy/output>
   #include <legacy/fog-fs>
   #include <common/color/gamma>
+  #include <builtin/functionalities/shadow-map>
 
   #if CC_RECEIVE_SHADOW
     #include <legacy/shadow-map-fs>
@@ -260,11 +261,11 @@ CCProgram fs %{
     #if CC_RECEIVE_SHADOW
       float pcf = cc_shadowWHPBInfo.z + 0.001;
       if (pcf > 2.) {
-        shadowAttenuation = CCGetDirLightShadowFactorSoft3X(v_shadowPos, 0.);
+        shadowAttenuation = CCGetDirLightShadowFactorSoft3X(v_shadowPos);
       } else if (pcf > 1.) {
-        shadowAttenuation = CCGetDirLightShadowFactorSoft(v_shadowPos, 0.);
+        shadowAttenuation = CCGetDirLightShadowFactorSoft(v_shadowPos);
       } else {
-        shadowAttenuation = CCGetDirLightShadowFactorHard(v_shadowPos, 0.);
+        shadowAttenuation = CCGetDirLightShadowFactorHard(v_shadowPos);
       }
       shadowAttenuation = mix(shadowAttenuation, 1.0, cc_shadowNFLSInfo.w); 
 

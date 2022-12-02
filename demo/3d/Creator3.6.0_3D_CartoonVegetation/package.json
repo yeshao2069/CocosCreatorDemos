@@ -1,6 +1,6 @@
 {
   "creator": {
-    "version": "3.6.0"
+    "version": "3.6.1"
   },
   "dependencies": {
     "file-browser": "0.0.5"
@@ -16,5 +16,5 @@
   },
   "type": "3d",
   "uuid": "1eb5f9de-9092-490c-a61a-218649bdbf7f",
-  "version": "3.6.0"
+  "version": "3.6.1"
 }

@@ -1,0 +1,114 @@
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: sprite-vs:vert
+      frag: sprite-fs:frag
+      depthStencilState:
+        depthTest: false
+        depthWrite: false
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      rasterizerState:
+        cullMode: none
+      properties:
+        alphaThreshold: { value: 0.5 }
+
+        ## 自定义参数
+        wh_ratio: { value: 1, editor: { tooltip: "宽高比"}}
+        blur: { value: 0.01, editor: { tooltip: "光圈模糊程度"}}
+        radius: { value: 0.5, editor: { tooltip: "光圈半径"}}
+        center: { value: [0.5, 0.5], editor: { tooltip: "光圈中心"}}
+
+        u_uvOffset: { value: [0, 0, 0, 0]}
+        u_uvRotated: { value: 0.0 }
+}%
+
+
+CCProgram sprite-vs %{
+  precision highp float;
+  #include <builtin/uniforms/cc-global>
+  #if USE_LOCAL
+    #include <builtin/uniforms/cc-local>
+  #endif
+
+  in vec3 a_position;
+  in vec2 a_texCoord;
+  in vec4 a_color;
+
+  out vec4 v_color;
+  out vec2 v_uv0;
+
+  vec4 vert () {
+    vec4 pos = vec4(a_position, 1);
+
+    #if USE_LOCAL
+      pos = cc_matWorld * pos;
+    #endif
+
+    #if USE_PIXEL_ALIGNMENT
+      pos = cc_matView * pos;
+      pos.xyz = floor(pos.xyz);
+      pos = cc_matProj * pos;
+    #else
+      pos = cc_matViewProj * pos;
+    #endif
+
+    v_color = a_color;
+    v_uv0 = a_texCoord;
+
+    return pos;
+  }
+}%
+
+CCProgram sprite-fs %{
+  precision highp float;
+  #include <builtin/internal/embedded-alpha>
+  #include <builtin/internal/alpha-test>
+
+  in vec4 v_color;
+
+  #if USE_TEXTURE
+    in vec2 v_uv0;
+    #pragma builtin(local)
+    layout(set = 2, binding = 11) uniform sampler2D cc_spriteTexture;
+  #endif
+
+  uniform MXD {
+    vec4 u_uvOffset;
+    vec2 center;
+    float u_uvRotated;
+    float radius;
+    float blur;
+    float wh_ratio;
+  };
+
+  vec4 frag () {
+    vec4 o = vec4(1, 1, 1, 1);
+    vec2 uvOffset;
+    uvOffset.x = (v_uv0.x - u_uvOffset.x)/(u_uvOffset.z - u_uvOffset.x);
+    uvOffset.y = (v_uv0.y - u_uvOffset.y)/(u_uvOffset.w - u_uvOffset.y);
+    if(u_uvRotated > 0.5) {
+      float temp = uvOffset.x;
+      uvOffset.x = uvOffset.y;
+      uvOffset.y = 1.0 - temp;
+    }
+
+    o *= CCSampleWithAlphaSeparated(cc_spriteTexture, v_uv0);
+    o *= v_color;
+
+    ALPHA_TEST(o);
+
+    float circle = radius * radius;
+    float rx = (uvOffset.x - center.x) * wh_ratio;
+    float ry = uvOffset.y - center.y;
+    float dis = rx * rx + ry * ry;
+
+    o.a = smoothstep(circle, circle - blur, dis) * o.a;
+
+    return o;
+  }
+}%
