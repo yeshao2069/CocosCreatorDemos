@@ -1,8 +1,8 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.2 版本创建的 **RPG角色跟随** 工程
 
-### 效果预览
+### Preview
 ![image](../../../gif/202211/2022110901.gif)
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/topic/110297

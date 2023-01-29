@@ -1,7 +1,7 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.0 版本创建的 **Spine局部换装** 工程。
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022032201.gif)
 
 ### 使用方式

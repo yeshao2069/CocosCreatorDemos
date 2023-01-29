@@ -1,10 +1,10 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.0 版本创建的 折纸 工程。
 
-### 效果预览
+### Preview
 ![image](https://gitee.com/yeshaohelpme/DemoImageLibrary/raw/master/gif/20220120/2022012072.gif)
 
-### 相关链接
+### Related Links
 https://github.com/baiyuwubing/cocos-creator-examples/tree/master/folding    
 https://mp.weixin.qq.com/s/1guPBbKkG6iWCcWa_uz6CQ
 

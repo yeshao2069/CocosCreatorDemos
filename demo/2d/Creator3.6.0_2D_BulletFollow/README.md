@@ -1,5 +1,5 @@
-### 简介
-基于 CocosCreator 3.6.0 版本创建的 **子弹追踪** 工程。
+### Introduction
+**Bullet Follow** project created based on CocosCreator version 3.6.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202201/2022012011.gif)

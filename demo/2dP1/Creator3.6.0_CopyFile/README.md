@@ -1,7 +1,7 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.0 版本创建的 **剪切板** 工程。
 
-### 效果预览  
+### Preview  
 ![image](../../../image/202206/2022062901.png)
 
 ### 平台支持

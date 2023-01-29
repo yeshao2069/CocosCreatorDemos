@@ -1,5 +1,5 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.0 版本创建的 **3D模型点击旋转** 工程。
 
-### 效果预览
+### Preview
 ![image](../../../gif/202201/2022012086.gif)

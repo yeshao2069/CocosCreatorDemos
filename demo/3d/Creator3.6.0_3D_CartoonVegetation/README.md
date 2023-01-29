@@ -1,8 +1,8 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.0 版本创建的 **塞尔达** 工程
 
-### 效果预览
+### Preview
 ![image](../../../gif/202207/2022072501.gif)
 
-### 相关链接
+### Related Links
 https://gitee.com/mirrors_cocos-creator/cartoon-vegetation

@@ -1,8 +1,8 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.1 版本创建的 **无限循环的翻页组件** 工程。
 
-### 效果预览
+### Preview
 ![image](../../../gif/202201/2022012054.gif)
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/topic/91675/41

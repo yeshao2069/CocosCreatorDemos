@@ -1,9 +1,9 @@
-### 简介
-基于 CocosCreator 3.6.0 版本创建的 **KTV歌词** 工程。
+### Introduction
+**KTV Label** project created based on CocosCreator version 3.6.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202201/2022012012.gif)
 
-### 相关链接
+### Related Links
 https://github.com/baiyuwubing/cocos-creator-examples/tree/master/ktvLabel    
 https://mp.weixin.qq.com/s/os1_7hd3pZX32c128O7QGA

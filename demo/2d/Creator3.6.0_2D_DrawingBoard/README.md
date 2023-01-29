@@ -1,7 +1,7 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.0 版本创建的 **画板** 工程
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022032011.gif)
 ![image](../../../gif/202203/2022032012.gif)
 ![image](../../../gif/202203/2022032013.gif)
@@ -20,5 +20,5 @@
 - 截图并保存截图(Web)
 - 渐变色画笔
 
-### 相关链接
+### Related Links
 https://gitee.com/skyxu123/drawing-board

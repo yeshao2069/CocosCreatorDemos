@@ -1,8 +1,8 @@
-### 简介
+### Introduction
 
 基于 CocosCreator 3.6.2 版本创建的 **转向行为** 工程
 
-### 效果预览
+### Preview
 ![image](../../../image/202211/2022112101.png)
 
 - seek    
@@ -22,7 +22,7 @@
 - flock    
 ![image](../../../gif/202211/2022112101.gif)
 
-### 相关链接
+### Related Links
 https://github.com/baiyuwubing    
 https://gitee.com/lamyoung    
 https://space.bilibili.com/1756070/video    

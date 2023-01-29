@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.6.0 版本创建的 **双人同屏** 工程。
+### Introduction
+**Dual Split Screen** project created based on CocosCreator version 3.6.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202201/2022012032.gif)
 
-### 教学文章
+### Article
 https://blog.csdn.net/u014206745/article/details/126117810?spm=1001.2014.3001.5502

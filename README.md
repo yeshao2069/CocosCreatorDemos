@@ -7,10 +7,10 @@ Cocos Creator v3.6.x
 ### 2D
 | A1 | B1 | A2 | B2 | A3 | B3 |
 | :---: | :--- | :---: | :--- | :---: | :--- |
-| 1 | [3D模型显示在UI中(UIMeshRenderer)](#uimeshrenderermodel) | 2 | [骨骼动画显示在UI中(UIMeshRenderer)](#uimeshrendererskelanim) | 3 | [3D模型显示在UI中(RenderTexture)](#rendertexturemodel) |
-| 4 | [骨骼动画显示在UI中(RenderTexture)](#rendertextureskelanim) | 5 | [物体追踪](#bulletfollow) | 6 | [KTV歌词](#ktvlabel) |
-| 7 | [无限视差滚动背景](#scrollingbackground) | 8 | [虚拟摇杆](#virtualjoystick) | 9 | [屏幕点击震动](#screenvibrating) |
-| 10 | [金币落袋](#coinflytowallet) | 11 | [场景小地图](#sceneminimap) | 12 | [双人同屏](#dualsplitscreen) |
+| 1 | [UIMeshRenderer (Model)](#uimeshrenderermodel) | 2 | [UIMeshRenderer (Skeletal Animation)](#uimeshrendererskelanim) | 3 | [RenderTexture (Model)](#rendertexturemodel) |
+| 4 | [RenderTexture (Skeletal Animation)](#rendertextureskelanim) | 5 | [Bullet Follow](#bulletfollow) | 6 | [KTV Label](#ktvlabel) |
+| 7 | [Scrolling Background](#scrollingbackground) | 8 | [Virtual Joy Stick](#virtualjoystick) | 9 | [Screen Vibrating](#screenvibrating) |
+| 10 | [Coin Fly To Wallet](#coinflytowallet) | 11 | [Scene Mini Map](#sceneminimap) | 12 | [Dual Split Screen](#dualsplitscreen) |
 | 13 | [2D围绕物体旋转一周](#camerarotatearound2d) | 14 | [2D物体移动残影](#objectmovingshadow) | 15 | [2D物体移动残影(spine)](#objectmovingshadowspine) |
 | 16 | [循环旋转菜单](#circularmenu) | 17 | [无限循环的翻页组件](#circlescrollview) | 18 | [打印机文字](#printerword) |
 | 19 | [放大镜](#magnifier) | 20 | [刮刮卡](#scratchcard) | 21 | [可视化算法](#visualizationalgorithm) |
@@ -33,7 +33,7 @@ Cocos Creator v3.6.x
 | 10 | [3D模型运动变速](#tweengametimescale) | 11 | [3D骨骼动画移动残影](#modelresidualshadows) | 12 | [动态替换Mesh](#dynamicmesh) |
 | 13 | [模型查看器](#modelviewer) | 14 | [天空盒查看器](#skybox) | 15 | [闪电鞭](#lightningwhip) |
 | 16 | [塞尔达](#cartoonvegetation) | 17 | [FPS第一人称射击](#fpsfirstperson) | 18 | [自定义布告板](#custombillboard) |
-| 19 | [镜面效果](#mirroring) | 20 | [3D文字](#label3d) | 21 | [3D传送门](#portal3d) |
+| 19 | [镜面效果](#mirroring) | 20 | [3D Label](#label3d) | 21 | [3D传送门](#portal3d) |
 
 ### 2D_Game
 | A1 | B1 | A2 | B2 | A3 | B3 |
@@ -49,73 +49,73 @@ Cocos Creator v3.6.x
 ### UIMeshRendererModel
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.1 | 2D | [3D模型显示在UI中(UIMeshRenderer)](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_UIMeshRenderer) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.1 | 2D | [UIMeshRenderer (Model)](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_UIMeshRenderer) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012001.gif" width="300" height="420" /></div>
 
 ### UIMeshRendererSkelAnim
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.2 | 2D | [骨骼动画显示在UI中(UIMeshRenderer)](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_UIMeshRenderer_SkeletalAnim) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.2 | 2D | [UIMeshRenderer (Skeletal Animation)](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_UIMeshRenderer_SkeletalAnim) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012002.gif" width="300" height="420" /></div>
 
 ### RenderTextureModel
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.3 | 2D | [3D模型显示在UI中(RenderTexture)](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_RenderTexture) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.3 | 2D | [RenderTexture (Model)](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_RenderTexture) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012003.gif" width="300" height="420" /></div>
 
 ### RenderTextureSkelAnim
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.4 | 2D | [骨骼动画显示在UI中(RenderTexture)](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_RenderTexture_SkeletalAnim) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.4 | 2D | [RenderTexture (Skeletal Animation)](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_RenderTexture_SkeletalAnim) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012004.gif" width="300" height="420" /></div>
 
 ### BulletFollow
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.5 | 2D | [物体追踪](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_BulletFollow) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.5 | 2D | [Bullet Follow](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_BulletFollow) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012011.gif" width="400" height="300" /></div>
 
 ### KTVLabel
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.6 | 2D | [KTV歌词](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_KTVLabel) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.6 | 2D | [KTV Label](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_KTVLabel) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012012.gif" width="400" height="300" /></div>
 
 ### ScrollingBackground
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.7 | 2D | [无限视差滚动背景](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_ScrollingBackground) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.7 | 2D | [Scrolling Background](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_ScrollingBackground) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012013.gif" width="400" height="300" /></div>
 
 ### VirtualJoyStick
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.8 | 2D | [虚拟摇杆](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_VirtualJoyStick) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.8 | 2D | [Virtual Joy Stick](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_VirtualJoyStick) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012014.gif" width="400" height="300" /></div>
 
 ### ScreenVibrating
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.9 | 2D | [屏幕点击震动](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_ScreenVibrating) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.9 | 2D | [Screen Vibrating](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_ScreenVibrating) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012015.gif" width="400" height="300" /></div>
 
 ### CoinFlyToWallet
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.10 | 2D | [金币落袋](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_CoinFlyToWallet) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.10 | 2D | [Coin Fly To Wallet](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_CoinFlyToWallet) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012021.gif" width="400" height="300" /></div>
 
 ### SceneMiniMap
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.11 | 2D | [场景小地图](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_SceneMiniMap) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.11 | 2D | [Scene Mini Map](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_SceneMiniMap) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012031.gif" width="400" height="300" /></div>
 
 ### DualSplitScreen
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1.12 | 2D | [双人同屏](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_DualSplitScreen) | 3.6.0 | [返回顶部](#2d) | 无 |
+| 1.12 | 2D | [Dual Split Screen](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/2d/Creator3.6.0_2D_DualSplitScreen) | 3.6.0 | [返回顶部](#2d) | 无 |
 <div align=center><img src="./gif/202201/2022012032.gif" width="400" height="300" /></div>
 
 ### CameraRotateAround2D
@@ -343,7 +343,7 @@ Cocos Creator v3.6.x
 ### Label3D
 | 序号 | 标签 | 项目 | 编辑器版本 | 返回顶部 | 备注 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.20 | 3D | [3D文字](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.1_3D_Label3D) | 3.6.1 | [返回顶部](#3d) | 无 |
+| 2.20 | 3D | [3D Label](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.6.x/demo/3d/Creator3.6.1_3D_Label3D) | 3.6.1 | [返回顶部](#3d) | 无 |
 <div align=center><img src="./gif/202210/2022101701.gif" width="400" height="300" /></div>
 
 ### Portal3D

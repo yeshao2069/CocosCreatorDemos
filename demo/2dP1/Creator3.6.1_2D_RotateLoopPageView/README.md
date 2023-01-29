@@ -1,5 +1,5 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.1 版本创建的 **旋转循环翻页视图** 工程
 
-### 效果预览
+### Preview
 ![image](../../../gif/202209/2022092401.gif)

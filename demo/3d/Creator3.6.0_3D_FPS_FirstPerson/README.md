@@ -1,10 +1,10 @@
-### 简介
+### Introduction
 基于 CocosCreator 3.6.0 版本创建的 **FPS第一人称射击** 工程
 
-### 效果预览
+### Preview
 ![image](../../../gif/202209/2022091501.gif)
 
-### 相关链接
+### Related Links
 https://assetstore.unity.com/publishers/20994
 https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/easy-fps-73776
 
