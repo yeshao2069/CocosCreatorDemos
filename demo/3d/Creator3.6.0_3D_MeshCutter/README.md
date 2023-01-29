@@ -1,25 +1,25 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **3D模型切割** 工程
+**Model Mesh Cutter** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202203/2022032002.gif)
 
-### 注意事项
-- 目前只支持切割使用了 builtin-unlit 材质的模型；
-- 引擎模块需要使用基于 Bullet 的物理引擎；
-- 材质设置 CullMode 为 None 能一定程度改善碎块 mesh 穿模的情况，但是性能会有所下降；
-- 目前没有对旋转后的模型节点进行切割功能适配，所以需要确保模型的没有旋转；
-- 目前方案的性能并不是最佳的；
-- 目前方案默认在两点之间的检测精度是 1/256，在这个精度下过于细小的碎块则无法切割。可以通过增大 raycastCount 来提高精度，但是性能会有所下降；
-- 不是所有模型节点切割后都不会穿模，这个和模型的原始 mesh 有关，具体啥原因还不清楚；
-- 切割后的 meshCollider 碎块目前无法发生物理碰撞；
+### Caution
+- Currently only models with builtin-unlit materials are supported for cutting.
+- The engine module requires a Bullet-based physics engine.
+- Setting CullMode to None for materials will somewhat improve the broken mesh through-mold situation, but performance will be degraded.
+- There is no cut function for rotated model nodes, so you need to make sure that the model is not rotated.
+- the performance of the current scheme is not optimal.
+- The default detection accuracy of the current solution is 1/256 between two points, and too small fragments cannot be cut at this accuracy. The accuracy can be improved by increasing the raycastCount, but the performance will be degraded.
+- Not all model nodes will not be cut through the mold, this is related to the original mesh of the model, the exact reason is not clear.
+- the cut meshCollider fragments are currently unable to physically collide.
 
-TODO：
-- 支持旋转后的模型节点 *P0*
-- 找到切割穿模的原因并解决 *P1*
-- 解决切割后的 meshCollider 碎块无法发生物理碰撞的问题 *P1*
-- 提高性能 *P2*
-- 提高检测的精度 *P2*
+TODO.
+- Support for rotated model nodes *P0*
+- Find out the cause of cut-through and fix it *P1*.
+- Solve the problem that cut meshCollider fragments cannot physically collide with each other *P1*
+- Improve performance *P2*
+- Improve the accuracy of detection *P2*
 
 ### Related Links
 https://github.com/hugoscurti/mesh-cutter    

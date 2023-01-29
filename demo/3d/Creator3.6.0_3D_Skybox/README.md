@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **天空盒查看器** 工程
+**SkyBox Viewer** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202206/2022062303.gif)

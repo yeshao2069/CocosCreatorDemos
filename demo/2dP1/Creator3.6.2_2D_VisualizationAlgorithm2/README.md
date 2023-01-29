@@ -1,6 +1,5 @@
 ### Introduction
-
-基于 CocosCreator 3.6.2 版本创建的 **可视化算法(柱形图)** 工程
+**Visualization Algorithm (Bar Chart)** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../gif/202211/2022111001.gif)

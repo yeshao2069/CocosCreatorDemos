@@ -1,5 +1,5 @@
 ## Introduction
-基于 CocosCreator 3.6.1 版本创建的 **从图集获取UV** 工程。
+**Get UV From The Atlas** project created based on CocosCreator version 3.6.1
 
 ### Preview  
 ![image](../../../image/202210/2022103101.png)    

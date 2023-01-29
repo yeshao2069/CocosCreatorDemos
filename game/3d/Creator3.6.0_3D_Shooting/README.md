@@ -1,5 +1,5 @@
 ## Introduction
-基于 CocosCreator 3.6.0 版本创建的 **射击3D** 工程
+**Shooting 3D** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../image/202209/2022092201.jpg)

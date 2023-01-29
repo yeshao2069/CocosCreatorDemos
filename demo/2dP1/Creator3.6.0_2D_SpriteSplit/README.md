@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **图片分割** 工程
+**Sprite Split** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202204/2022042901.gif)

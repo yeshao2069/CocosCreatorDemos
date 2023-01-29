@@ -1,16 +1,16 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **音视频倍数播放** 工程。
+**Media Playback Rate** project created based on CocosCreator version 3.6.0
 
 ### Preview
-音频倍数播放    
+Audio Playback Rate    
 ![image](../../../image/202205/2022052601.png)
-视频倍数播放    
+Vedio Playback Rate    
 ![image](../../../image/202205/2022052602.png)
 
-### 使用方式
-- 本方案为定制引擎暂未实现功能，故需要自定义引擎。
-- 将项目下的 support 里的 support-audio-and-video-speed-play-change.zip 文件解压，文件夹分为 engine 和 engine/native（原 engine-native， engine 和 engine-native 从 3.6.0 开始合并成一个 engine，engine-native 变更为 engine/native） 两部分。 需要将 engine 中的修改文件同步到引擎中，完成定制。具体的修改文件列表可以查看`Change File List`。
-- 因为原生(iOS、Android)和 web 对于音频倍数和视频倍数播放的支持各不相同，所以实际的播放需要以平台以及设备为主。
+### Mark
+- This solution is a custom engine that is not yet functional, so a custom engine is required.
+- Extract the support-audio-and-video-speed-play-change.zip file from the support section of the project and split the folder into engine and engine/native (formerly engine-native, engine and engine-native were merged into one engine from 3.6 .0 onwards, engine-native has changed to engine/native). You will need to synchronise the modified files from the engine to the engine to complete the customisation. A detailed list of the modified files can be found in the `Change File List`.
+- Since native (iOS, Android) and web support for audio and video multiplier playback varies, the actual playback will be platform and device specific.
 
 ### Change File List
 engine/@types/jsb.d.ts    

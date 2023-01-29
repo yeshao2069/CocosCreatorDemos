@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **模型换肤** 工程
+**Model Dress Up** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202201/2022012088.gif)

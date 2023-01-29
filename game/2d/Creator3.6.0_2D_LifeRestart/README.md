@@ -1,5 +1,5 @@
 ## Introduction
-基于 CocosCreator 3.6.0 版本创建的 **人生重启器** 工程
+**Life Restart** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202209/2022092204.gif)

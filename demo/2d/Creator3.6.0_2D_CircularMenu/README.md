@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **循环旋转菜单** 工程。
+**Circular Menu** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202201/2022012053.gif)

@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.1 版本创建的 **2D光照** 工程
+**2D Light** project created based on CocosCreator version 3.6.1
 
 ### Preview
 ![image](../../../gif/202202/2022022801.gif)

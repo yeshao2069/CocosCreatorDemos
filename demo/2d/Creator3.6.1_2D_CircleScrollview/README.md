@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.1 版本创建的 **无限循环的翻页组件** 工程。
+**Circle ScrollView** project created based on CocosCreator version 3.6.1
 
 ### Preview
 ![image](../../../gif/202201/2022012054.gif)

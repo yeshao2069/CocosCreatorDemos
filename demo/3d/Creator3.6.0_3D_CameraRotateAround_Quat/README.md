@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **3D围绕物体旋转一周(四元数)** 工程。
+**3D Camera Rotate Around (Quat)** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202201/2022012082.gif)

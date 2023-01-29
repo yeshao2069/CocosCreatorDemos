@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **动态替换mesh** 工程
+**Dynamic Mesh** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202206/2022062002.gif)

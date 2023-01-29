@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **放大镜** 工程。
+**Magnifier** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202201/2022012056.gif)

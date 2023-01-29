@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.1 版本创建的 **自定义布告板** 工程。
+**Custom BillBoard** project created based on CocosCreator version 3.6.1
 
 ### Preview
 ![image](../../../gif/202210/2022101001.gif)

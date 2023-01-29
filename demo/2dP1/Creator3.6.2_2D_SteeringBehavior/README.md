@@ -1,6 +1,5 @@
 ### Introduction
-
-基于 CocosCreator 3.6.2 版本创建的 **转向行为** 工程
+**Steering Behavior** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../image/202211/2022112101.png)

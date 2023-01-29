@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.1 版本创建的 **旋转循环翻页视图** 工程
+**Rotate Loop PageView** project created based on CocosCreator version 3.6.1
 
 ### Preview
 ![image](../../../gif/202209/2022092401.gif)

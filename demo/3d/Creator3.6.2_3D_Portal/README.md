@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.2 版本创建的 **3D传送门** 工程。
+**3D Portal** project created based on CocosCreator version 3.6.2
 
 ### Preview
 ![image](../../../gif/202211/2022111801.gif)

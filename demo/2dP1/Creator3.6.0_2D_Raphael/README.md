@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **Graphics拓展和SVG加载** 工程
+**Raphael (Graphics Extend And SVG Extend)** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202209/2022092205.gif)

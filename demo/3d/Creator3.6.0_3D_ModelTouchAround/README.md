@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **3D模型点击旋转** 工程。
+**Model Touch Around** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202201/2022012086.gif)

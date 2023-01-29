@@ -1,6 +1,5 @@
-
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **2D流体** 工程。
+**2D Fluids** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202201/2022012071.gif)

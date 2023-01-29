@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **3D模型运动变速(Tween)** 工程
+**Model Tween Game TimeScale** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202204/2022042902.gif)

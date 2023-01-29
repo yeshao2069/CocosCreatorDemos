@@ -1,5 +1,5 @@
 ### Introduction
-基于 CocosCreator 3.6.0 版本创建的 **Spine骨骼控制** 工程
+**Spine Drag Controller** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202205/2022051701.gif)

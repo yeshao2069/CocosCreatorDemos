@@ -1,5 +1,5 @@
 ## Introduction
-基于 CocosCreator 3.6.0 版本创建的 **TiledMap 自动寻路** 工程。
+**TieldMap Path Finding** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202205/2022053001.gif)

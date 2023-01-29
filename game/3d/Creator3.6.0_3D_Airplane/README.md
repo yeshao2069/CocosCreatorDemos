@@ -1,5 +1,5 @@
 ## Introduction
-基于 CocosCreator 3.6.0 版本创建的 **飞机大战** 工程
+**3D Air Plane** project created based on CocosCreator version 3.6.0
 
 ### Preview
 ![image](../../../gif/202209/2022092201.gif)
