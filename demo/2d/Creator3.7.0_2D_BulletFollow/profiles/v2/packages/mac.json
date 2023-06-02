@@ -1,0 +1,22 @@
+{
+  "__version__": "1.0.0",
+  "builder": {
+    "common": {
+      "outputName": "mac",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "mac"
+    },
+    "options": {
+      "mac": {
+        "renderBackEnd": {
+          "metal": true
+        },
+        "targetVersion": "10.14",
+        "supportM1": false,
+        "skipUpdateXcodeProject": false,
+        "__version__": "1.0.0",
+        "packageName": "com.chengen.testa"
+      }
+    }
+  }
+}

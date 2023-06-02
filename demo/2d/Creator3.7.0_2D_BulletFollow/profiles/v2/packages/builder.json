@@ -1,0 +1,60 @@
+{
+  "__version__": "1.3.4",
+  "version": {
+    "builder": "1.2.3"
+  },
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "outputName": "android",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1664297087269": {
+        "type": "build",
+        "id": "1664297087269",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2022-9-28 00:46:25 Build success in 98096 ms!",
+        "options": {
+          "name": "BulletFollow",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "replaceSplashScreen": false,
+          "startScene": "244077c9-b6cd-4b47-9da5-75a30306cb7f",
+          "outputName": "android",
+          "scenes": [
+            {
+              "url": "db://assets/BulletFollow.scene",
+              "uuid": "244077c9-b6cd-4b47-9da5-75a30306cb7f",
+              "inBundle": false
+            }
+          ],
+          "mac": [],
+          "__version__": "1.3.3",
+          "android": []
+        },
+        "time": "2022-9-28 00:44",
+        "dirty": false
+      }
+    }
+  }
+}

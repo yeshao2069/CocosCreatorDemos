@@ -1,0 +1,7 @@
+{
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    }
+  }
+}

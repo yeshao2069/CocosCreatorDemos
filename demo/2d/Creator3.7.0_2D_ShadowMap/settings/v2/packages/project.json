@@ -1,0 +1,24 @@
+{
+  "__version__": "1.0.2",
+  "general": {
+    "designResolution": {
+      "fitHeight": true,
+      "fitWidth": true
+    }
+  },
+  "layer": [
+    {
+      "name": "shadow",
+      "value": 4
+    },
+    {
+      "name": "cast",
+      "value": 2
+    }
+  ],
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}
