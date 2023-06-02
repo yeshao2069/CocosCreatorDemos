@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **无限视差滚动背景** 工程。
+### Introduction
+**Scrolling Background** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202201/2022012013.gif)
 
-### 相关链接
+### Related Links
 https://www.sohu.com/a/297596167_120052091

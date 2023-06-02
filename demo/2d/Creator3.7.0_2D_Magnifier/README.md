@@ -1,11 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **放大镜** 工程。
+### Introduction
+**Magnifier** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202201/2022012056.gif)
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/topic/91619
-
-### 教学文章
-https://blog.csdn.net/u014206745/article/details/130064641?spm=1001.2014.3001.5501

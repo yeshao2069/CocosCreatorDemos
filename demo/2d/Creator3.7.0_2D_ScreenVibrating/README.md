@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **屏幕点击震动** 工程。
+### Introduction
+**Screen Vibrating** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202201/2022012015.gif)
 
-### 相关链接
+### Related Links
 https://github.com/ifengzp/cocos-awesome/tree/master/assets/Scene/Screen_vibrating

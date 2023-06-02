@@ -1,8 +1,0 @@
-### Introduction
-**Screen Vibrating** project created based on CocosCreator version 3.6.0
-
-### Preview
-![image](../../../gif/202201/2022012015.gif)
-
-### Related Links
-https://github.com/ifengzp/cocos-awesome/tree/master/assets/Scene/Screen_vibrating

@@ -1,8 +1,8 @@
-## 简介
-基于 CocosCreator 3.7.0 版本创建的 **等电梯** 工程。
+## Introduction
+**Waiting Elevator** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202208/2022080101.gif)
 
-### 相关链接
+### Related Links
 https://forum.cocos.org/t/topic/138134/16

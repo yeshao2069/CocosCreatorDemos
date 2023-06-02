@@ -1,7 +1,7 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **可视化算法** 工程。
+### Introduction
+**Visualization Algorithm** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202201/2022012061.gif)
 ![image](../../../gif/202201/2022012062.gif)
 ![image](../../../gif/202201/2022012063.gif)
@@ -10,5 +10,5 @@
 ![image](../../../gif/202201/2022012066.gif)
 ![image](../../../gif/202201/2022012067.gif)
 
-### 相关链接
+### Related Links
 https://mp.weixin.qq.com/s/knveQMheUCokXh_aqdZpYg

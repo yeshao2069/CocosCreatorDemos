@@ -1,8 +1,8 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **自定义形状遮罩** 工程
+### Introduction
+**Mask Polygon** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022032021.gif)
 
-### 相关链接
+### Related Links
 https://github.com/kirikayakazuto/CocosCreator_UIFrameWork/tree/SplitTexture

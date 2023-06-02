@@ -1,16 +1,16 @@
-### 简介
-基于 CocosCreator 3.7.0 版本创建的 **GIF资源加载** 工程
+### Introduction
+**Gif Resource Loading** project created based on CocosCreator version 3.7.0
 
-### 效果预览
+### Preview
 ![image](../../../gif/202203/2022032001.gif)
 
-### 备注
-- Web、WechatMiniGame 平台需要在项目设置关闭 CLEANUP_IMAGE_CACHE 才能显示正常
-- Android、Windows、iOS、macOS 平台需要在项目设置开启 CLEANUP_IMAGE_CACHE 才能显示正常
-- 开启: CLEANUP_IMAGE_CACHE，菜单栏 项目->项目设置->全局变量(Macro Config)->CLEANUP_IMAGE_CACHE 勾选
-- 关闭: CLEANUP_IMAGE_CACHE，菜单栏 项目->项目设置->全局变量(Macro Config)->CLEANUP_IMAGE_CACHE 去掉勾选
+### Mark
+- Web, WechatMiniGame platforms need to turn off CLEANUP_IMAGE_CACHE in the project settings to display properly.
+- Android, Windows, iOS, macOS platforms need to turn on CLEANUP_IMAGE_CACHE in project settings to display properly
+- Enable: CLEANUP_IMAGE_CACHE, menu bar Project->Project Settings->Global Variables (Macro Config)->CLEANUP_IMAGE_CACHE Check the box
+- Off: CLEANUP_IMAGE_CACHE, menu bar Project->Project Settings->Global Variables (Macro Config)->CLEANUP_IMAGE_CACHE Unchecked
 
-### 相关链接
+### Related Links
 https://github.com/shachaf/jsgif    
 https://github.com/2van/cocos-creator-gif    
 https://github.com/newGy/cocos-creator-gif-2.4.4    
