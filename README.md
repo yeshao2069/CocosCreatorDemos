@@ -361,7 +361,7 @@ Cocos Creator v3.7.x
 ### RevolvePageView
 | No. | Type | Project | Creator Version | Back To Top | Mark |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 3.2 | 2D | [Revolve PageView](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/demo/2dP1/Creator3.7.0_2D_RevolvePageView) | 3.7.0 | [Back To Top](#2d) | Empty |
+| 3.2 | 2D | [Revolve PageView](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/demo/2dP1/Creator3.7.1_2D_RevolvePageView) | 3.7.1 | [Back To Top](#2d) | Empty |
 <div align=center><img src="./gif/202203/2022033101.gif" width="400" height="300" /></div>
 
 ### SpriteSplit
