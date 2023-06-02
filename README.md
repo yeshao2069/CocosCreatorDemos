@@ -34,11 +34,12 @@ Cocos Creator v3.7.x
 | 13 | [Model Viewer](#modelviewer) | 14 | [Skybox Viewer](#skybox) | 15 | [Lightning Whip](#lightningwhip) |
 | 16 | [Cartoon Vegetation](#cartoonvegetation) | 17 | [FPS First Person Shooting](#fpsfirstperson) | 18 | [Custom BillBoard](#custombillboard) |
 | 19 | [Morroring](#mirroring) | 20 | [3D Label](#label3d) | 21 | [3D Portal](#portal3d) |
+| 22 | [3D Navigation](#navigation3d) |
 
 ### 2D_Game
 | A1 | B1 | A2 | B2 | A3 | B3 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | [Life Restart](#liferestart) |
+| 1 | [Life Restart](#liferestart) | 2 | [UI Demo](#uidemo) |
 
 ### 3D_Game
 | A1 | B1 | A2 | B2 | A3 | B3 |
@@ -331,7 +332,7 @@ Cocos Creator v3.7.x
 ### CustomBillboard
 | No. | Type | Project | Creator Version | Back To Top | Mark |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.18 | 3D | [Custom BillBoard](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/demo/3d/Creator3.7.0_3D_CustomBillboard) | 3.7.0 | [Back To Top](#3d) | Empty |
+| 2.18 | 3D | [Custom BillBoard](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/demo/3d/Creator3.7.1_3D_CustomBillboard) | 3.7.1 | [Back To Top](#3d) | Empty |
 <div align=center><img src="./gif/202210/2022101001.gif" width="400" height="300" /></div>
 
 ### Mirroring
@@ -343,7 +344,7 @@ Cocos Creator v3.7.x
 ### Label3D
 | No. | Type | Project | Creator Version | Back To Top | Mark |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 2.20 | 3D | [3D Label](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/demo/3d/Creator3.7.0_3D_Label3D) | 3.7.0 | [Back To Top](#3d) | Empty |
+| 2.20 | 3D | [3D Label](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/demo/3d/Creator3.7.1_3D_Label3D) | 3.7.1 | [Back To Top](#3d) | Empty |
 <div align=center><img src="./gif/202210/2022101701.gif" width="400" height="300" /></div>
 
 ### Portal3D
@@ -351,6 +352,12 @@ Cocos Creator v3.7.x
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | 2.21 | 3D | [3D Portal](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/demo/3d/Creator3.7.0_3D_Portal) | 3.7.0 | [Back To Top](#3d) | Empty |
 <div align=center><img src="./gif/202211/2022111801.gif" width="400" height="300" /></div>
+
+### Navigation3D
+| No. | Type | Project | Creator Version | Back To Top | Mark |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 2.22 | 3D | [3D Navigation](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/demo/3d/Creator3.7.1_3D_Navigation) | 3.7.1 | [Back To Top](#3d) | Empty |
+<div align=center><img src="./gif/202302/2023022701.gif" width="400" height="300" /></div>
 
 ### SpineChangeSlotWithTexture
 | No. | Type | Project | Creator Version | Back To Top | Mark |
@@ -459,6 +466,12 @@ Cocos Creator v3.7.x
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | 4.1 | 2D | [Life Restart](https://github.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/game/2d/Creator3.7.0_2D_LifeRestart) | 3.7.0 | [Back To Top](#2d_game) | Empty |
 <div align=center><img src="./gif/202209/2022092204.gif" width="300" height="500" /></div>
+
+### UIDemo
+| No. | Type | Project | Creator Version | Back To Top | Mark |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| 4.2 | 2D | [UI Demo](https://gitee.com/yeshao2069/CocosCreatorDemos/tree/v3.7.x/game/2d/Creator3.7.2_2D_UIDemo) | 3.7.2 | [Back To Top](#2d_game) | Empty |
+<div align=center><img src="./gif/202304/2023040601.gif" width="300" height="500" /></div>
 
 ### Airplane3D
 | No. | Type | Project | Creator Version | Back To Top | Mark |

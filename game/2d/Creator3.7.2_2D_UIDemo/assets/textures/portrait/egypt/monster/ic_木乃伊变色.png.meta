@@ -1,0 +1,135 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c@6c48a",
+      "displayName": "ic_木乃伊变色",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "wrapModeT": "clamp-to-edge",
+        "wrapModeS": "clamp-to-edge",
+        "mipfilter": "none",
+        "imageUuidOrDatabaseUri": "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c",
+        "isUuid": true,
+        "visible": false,
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c@f9941",
+      "displayName": "ic_木乃伊变色",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "importer": "sprite-frame",
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 1,
+        "offsetY": 5,
+        "trimX": 30,
+        "trimY": 23,
+        "width": 92,
+        "height": 94,
+        "rawWidth": 150,
+        "rawHeight": 150,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "imageUuidOrDatabaseUri": "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c@6c48a",
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -46,
+            -47,
+            0,
+            46,
+            -47,
+            0,
+            -46,
+            47,
+            0,
+            46,
+            47,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            30,
+            127,
+            122,
+            127,
+            30,
+            33,
+            122,
+            33
+          ],
+          "nuv": [
+            0.2,
+            0.22,
+            0.8133333333333334,
+            0.22,
+            0.2,
+            0.8466666666666667,
+            0.8133333333333334,
+            0.8466666666666667
+          ],
+          "minPos": [
+            -46,
+            -47,
+            0
+          ],
+          "maxPos": [
+            46,
+            47,
+            0
+          ]
+        },
+        "isUuid": true,
+        "atlasUuid": ""
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "6c1c03e7-0a86-4f2e-a2aa-605d8e33256c@f9941"
+  }
+}
